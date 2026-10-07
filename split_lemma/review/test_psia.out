@@ -1,0 +1,3 @@
+{'inst': 120, 'phi_ok': 1353, 'det_ok': 451, 'riem_ok': 533, 'riem_pos': 114, 'riem_neg': 419, 'sig_ok': 451, 'alt_ok': 1353}
+failures: 0
+time 8.2s

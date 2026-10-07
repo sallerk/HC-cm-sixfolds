@@ -1,0 +1,18 @@
+[
+ {
+  "name": "lmfdb_6.2.ae_j_ar_bf_abx_ct",
+  "d": 3,
+  "sqrt_cert": [
+   "-3",
+   "-17",
+   "-3",
+   "8",
+   "1",
+   "-1"
+  ],
+  "GaloisType_h": "6T7",
+  "label_12T": "12T23",
+  "claimed_row": "12T23",
+  "label_matches": true
+ }
+]

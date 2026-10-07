@@ -1,0 +1,131 @@
+[
+ {
+  "name": "lmfdb_6.2.ag_s_abm_co_aea_fx",
+  "q_is_power_of_p": true,
+  "monic_symmetric": true,
+  "weil_sturm": true,
+  "irreducible": true,
+  "ordinary": true,
+  "N": 432169920,
+  "geom_simple": true,
+  "max_abs_dev": 0.0,
+  "relations": [
+   [
+    -1,
+    -1,
+    1,
+    -1,
+    -1,
+    1,
+    0
+   ]
+  ],
+  "angle_rank_numerical": 5,
+  "bound_no_further_relation": 6.743409087210967e+49,
+  "relation_certificates": [
+   {
+    "relation": [
+     -1,
+     -1,
+     1,
+     -1,
+     -1,
+     1,
+     0
+    ],
+    "m": 6,
+    "digits": 282,
+    "log10_abs_x": null,
+    "log10_threshold": -200.1849471165475,
+    "certified": true
+   }
+  ],
+  "ALL_OK": true
+ },
+ {
+  "name": "lmfdb_6.2.af_l_aq_ba_acb_dl",
+  "q_is_power_of_p": true,
+  "monic_symmetric": true,
+  "weil_sturm": true,
+  "irreducible": true,
+  "ordinary": true,
+  "N": 12376209948955935621739200,
+  "geom_simple": true,
+  "max_abs_dev": 0.0,
+  "relations": [
+   [
+    6,
+    -6,
+    6,
+    -6,
+    6,
+    -6,
+    1
+   ]
+  ],
+  "angle_rank_numerical": 5,
+  "bound_no_further_relation": 4.892877713232892e+49,
+  "relation_certificates": [
+   {
+    "relation": [
+     6,
+     -6,
+     6,
+     -6,
+     6,
+     -6,
+     1
+    ],
+    "m": 36,
+    "digits": 16119,
+    "log10_abs_x": -16108.198023551502,
+    "log10_threshold": -16027.740059137352,
+    "certified": true
+   }
+  ],
+  "ALL_OK": true
+ },
+ {
+  "name": "lmfdb_6.2.ae_f_b_aj_n_ar",
+  "q_is_power_of_p": true,
+  "monic_symmetric": true,
+  "weil_sturm": true,
+  "irreducible": true,
+  "ordinary": true,
+  "N": 342966929760,
+  "geom_simple": true,
+  "max_abs_dev": 0.0,
+  "relations": [
+   [
+    3,
+    -3,
+    3,
+    -3,
+    3,
+    -3,
+    1
+   ]
+  ],
+  "angle_rank_numerical": 5,
+  "bound_no_further_relation": 5.392345674233954e+49,
+  "relation_certificates": [
+   {
+    "relation": [
+     3,
+     -3,
+     3,
+     -3,
+     3,
+     -3,
+     1
+    ],
+    "m": 18,
+    "digits": 903,
+    "log10_abs_x": -897.7930168674174,
+    "log10_threshold": -817.8984982190369,
+    "certified": true
+   }
+  ],
+  "ALL_OK": true
+ }
+]

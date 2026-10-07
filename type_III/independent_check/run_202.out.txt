@@ -1,0 +1,1 @@
+seed 202: (D,T) 250, (D,T,K) 2000, split 216, split!=Thm3 0, Lemma2 failures 0, detH<0 2000/2000, signatures {(6, 6)} (400 computed), split-but-not-embedded 0, embedded-but-no-sampled-K-split 128, embedded 236

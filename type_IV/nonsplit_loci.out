@@ -1,0 +1,13 @@
+cases 96 nonsplit classes among them 58 ALL OK
+{'d': 1, 'delta': -1, 'M': 3, 'y': 2, 'delta_nonsplit': False, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -2, 'M': 2, 'y': 2, 'delta_nonsplit': False, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -3, 'M': 6, 'y': 3, 'delta_nonsplit': True, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -5, 'M': 11, 'y': 4, 'delta_nonsplit': False, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -6, 'M': 3, 'y': 3, 'delta_nonsplit': True, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -7, 'M': 2, 'y': 3, 'delta_nonsplit': True, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -10, 'M': 6, 'y': 4, 'delta_nonsplit': False, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -11, 'M': 5, 'y': 4, 'delta_nonsplit': True, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -13, 'M': 3, 'y': 4, 'delta_nonsplit': False, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -14, 'M': 2, 'y': 4, 'delta_nonsplit': True, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -15, 'M': 10, 'y': 5, 'delta_nonsplit': True, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}
+{'d': 1, 'delta': -17, 'M': 8, 'y': 5, 'delta_nonsplit': False, 'h1_in_class': True, 'a0_totpos': True, 'a0_split': True}

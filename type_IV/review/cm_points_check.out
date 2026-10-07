@@ -1,0 +1,11 @@
+CM types of M = L*C3 with (n_s1, n_s2) = (2, 1): 9
+dim Hg distribution: {5: 6, 3: 3}
+primitive (trivial stabilizer): 6  of 9
+dim Hg = 5 (= U_{M/K}, almost-neat) among primitive: 6
+all: <det_K, h mu> = 0 for all h, <det_L at s1, mu> = 1, dim Hg <= 5: True
+  Phi [((0, 0), 0), ((0, 0), 1), ((0, 1), 2), ((1, 0), 0), ((1, 1), 1), ((1, 1), 2)] n {'s1': 2, 's1b': 1, 's2': 1, 's2b': 2} dimHg 5 detK-trivial True <chi_s1,mu> 1 |stab| 1
+  Phi [((0, 0), 0), ((0, 0), 1), ((0, 1), 2), ((1, 0), 1), ((1, 1), 0), ((1, 1), 2)] n {'s1': 2, 's1b': 1, 's2': 1, 's2b': 2} dimHg 5 detK-trivial True <chi_s1,mu> 1 |stab| 1
+  Phi [((0, 0), 0), ((0, 0), 1), ((0, 1), 2), ((1, 0), 2), ((1, 1), 0), ((1, 1), 1)] n {'s1': 2, 's1b': 1, 's2': 1, 's2b': 2} dimHg 3 detK-trivial True <chi_s1,mu> 1 |stab| 2
+  Phi [((0, 0), 0), ((0, 0), 2), ((0, 1), 1), ((1, 0), 0), ((1, 1), 1), ((1, 1), 2)] n {'s1': 2, 's1b': 1, 's2': 1, 's2b': 2} dimHg 5 detK-trivial True <chi_s1,mu> 1 |stab| 1
+  Phi [((0, 0), 0), ((0, 0), 2), ((0, 1), 1), ((1, 0), 1), ((1, 1), 0), ((1, 1), 2)] n {'s1': 2, 's1b': 1, 's2': 1, 's2b': 2} dimHg 3 detK-trivial True <chi_s1,mu> 1 |stab| 2
+  Phi [((0, 0), 0), ((0, 0), 2), ((0, 1), 1), ((1, 0), 2), ((1, 1), 0), ((1, 1), 1)] n {'s1': 2, 's1b': 1, 's2': 1, 's2b': 2} dimHg 5 detK-trivial True <chi_s1,mu> 1 |stab| 1

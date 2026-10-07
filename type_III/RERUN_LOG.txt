@@ -1,0 +1,86 @@
+RERUN_LOG -- re-run of every script in type_III/ (2026-10-06)
+
+ENVIRONMENT
+Local:  Windows 10, Python 3.12.9, cypari 2.5.6 (PARI 2.15.4); no other packages used.
+        PYTHONDONTWRITEBYTECODE=1, OMP_NUM_THREADS=1; one process at a time.
+Docker: image sagemath/sagemath:latest, id sha256:310dfe23fc786f3a5a06a7b0387c60201ec79b32c0db941b7624505ee5edb565;
+        SageMath 10.10 (release date 2026-09-28), GAP 4.15.1, PARI 2.17.1, Python 3.12.3;
+        docker run --rm --cpus=1 -e OMP_NUM_THREADS=1 -v "<type_III>:/work" -w /work/rerun ...
+
+PROCEDURE
+The staged scripts and inputs were copied byte-identically into a subfolder rerun/ (and
+rerun/independent_check/) and run there, so that the stored outputs in type_III/ were not overwritten.
+Python scripts were started from type_III/ as "python rerun/<script>" (outputs land next to the script,
+which tests the script-relative paths); indep_check.py and cor4_check.py were started inside
+rerun/independent_check/. The re-run outputs were compared with the stored outputs (cmp = byte comparison;
+"content" = comparison after removing line-ending differences). rerun/ was deleted afterwards. Wall-clock
+times include interpreter start-up (and container start-up for docker runs).
+
+RESULTS
+script / command                                     wall      comparison with the stored output
+gen_data.py                                           0.2 s    data.json byte-identical
+path1.py > path1_log.txt 2>&1                        75.9 s    path1_out.json byte-identical (21168 records);
+                                                               "path1: 21168 (D,T,K) cases; split 1180; formula agrees
+                                                               21168/21168; detH<0 in 21168" (no stored log; kept as
+                                                               path1_log.txt)
+path2.py > path2_log.txt 2>&1                       109.9 s    path2_out.json and path2_log.txt byte-identical;
+                                                               "path2: 21168 cases; split 1180; formula agrees
+                                                               21168/21168; sig(6,6) in 21168"
+compare.py                                            0.2 s    compare_out.txt byte-identical (all mismatch counts 0,
+                                                               split cases 1180)
+check_lemma2.py                                       2.0 s    check_lemma2_out.txt byte-identical
+                                                               ("Lemma 2 holds in 21168/21168 cases")
+exists.py                                            78.0 s    exists_out.json byte-identical; stats 217 / 169 / 0 / 46 /
+                                                               0 / 0 (see README)
+examples.py > examples_out.txt                        0.6 s    identical except the corrected E6 label (1 line of
+                                                               examples_out.txt, 6 "case" fields of examples_out.json);
+                                                               all numbers and split decisions identical
+nonsplit_examples.py                                  5.3 s    nonsplit_examples_out.txt byte-identical (18/18 lines
+                                                               "0/49 ... 0/8"); examples_out.json rewritten by the
+                                                               import: identical to the examples.py run
+all_delta.py                                          9.1 s    all_delta_out.txt byte-identical
+pullback_span_modp.py                                20.9 s    pullback_span_modp_out.txt byte-identical (ranks 7, 84,
+                                                               462 in all 4 algebras)
+independent_check/indep_check.py 101 250 8 run_101.json   6.4 s   run_101.json and run_101.out.txt byte-identical
+independent_check/indep_check.py 202 250 8 run_202.json   6.9 s   run_202.json and run_202.out.txt byte-identical
+independent_check/indep_check.py 303 250 8 run_303.json   6.9 s   run_303.json and run_303.out.txt byte-identical
+independent_check/indep_check.py 404 250 8 run_404.json   6.6 s   run_404.json and run_404.out.txt byte-identical
+   (stderr empty in all four runs)
+independent_check/cor4_check.py > cor4_check_out.txt  11.1 s   content identical except the changed label of line 5
+                                                               ("D=(-3,-5)?" -> "D=(-3,-5) disc5,"); the stored file also
+                                                               had a UTF-8 byte-order mark
+docker: sage hodge_ring.sage 1000003 1 12             7.6 s    hodge_ring_p1000003_k1_d12.txt byte-identical (including
+                                                               the printed timings)
+docker: sage hodge_ring.sage 1000003 2 8           376.0 s    smaller instance (k = 2, d = 10 alone took 1776.5 s in the
+                                                               stored run): log hodge_ring_p1000003_k2_d8.txt, k = 1 and
+                                                               k = 2 for d = 0..8; all 54 lines identical to the
+                                                               corresponding lines of the stored
+                                                               hodge_ring_p1000003_k2_d12.txt apart from the printed
+                                                               timings (k = 2, d = 8: 365.5 s now, 322.4 s stored);
+                                                               no MISMATCH. Totals k = 2: inv = gen = 1, 1, 5, 16, 37
+                                                               (d = 0..8), divisor-only 1, 1, 5, 7, 17. Not kept; the
+                                                               stored log stays canonical for d = 10 and the stopped
+                                                               d = 12 (12 of 18 dominant weights, 0 mismatches).
+docker: sage sage_xcheck.sage > sage_xcheck_out.txt  59.0 s    sage_xcheck_out.txt byte-identical ("hilbert symbols
+   (-w /work/rerun/independent_check)                          checked 4000 mismatches 0"; "norm rows checked 1800
+                                                               split-decision mismatches 0 Thm3(Sage quaternion)
+                                                               mismatches 0"); stderr empty
+docker: sage -python rerun/compare.py, then in       9.5 s     container test of the pure-Python scripts (Python 3.12.3,
+   rerun/independent_check:                                    Linux): compare_out.txt content identical (LF line
+   sage -python indep_check.py 101 250 8                       endings); run_101 JSON byte-identical and summary line
+   run_101_docker.json                                         identical. Outputs not kept.
+docker: sage -c "print(version()) ..."               6.0 s     version query (see ENVIRONMENT)
+
+CANONICAL COPIES KEPT
+Stored originals for every byte-identical output. Re-run versions (because of the label edits) for
+examples_out.txt, examples_out.json and independent_check/cor4_check_out.txt. path1_log.txt from the re-run.
+hodge_ring_p1000003_k2_d12.txt: stored log (degrees 10 and 12 not re-run).
+
+OTHER CHECKS (small scripts run outside this folder, not kept)
+Sage inputs: all 4000 rows of independent_check/sage_hilb_input.txt satisfy h = indep_check.hilbert(a,b,p)
+(677 rows with p = 0, the real place); all 1800 rows of sage_norm_input.txt occur in run_*.json (800 split rows =
+all split cases of the four runs, 1000 non-split rows).
+exists_out.json records: 432 (D,T); 386 with Q(sqrt Delta) in D, constructed_split true in 386/386; 217 of them
+with a split K among the 49; 0 non-embedded (D,T) with a split K; 1180 split (D,T,q) in total (as in path1).
+hodge_ring_p1000003_k2_d12.txt: degree 12 has 18 dominant weights for k = 2; the stored run finished 12 of them
+(0 mismatches) before it was stopped; not done: (5,3,2,2), (4,4,4,0), (4,4,3,1), (4,4,2,2), (4,3,3,2), (3,3,3,3).

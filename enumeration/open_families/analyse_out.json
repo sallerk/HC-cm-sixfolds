@@ -1,0 +1,12154 @@
+[
+ {
+  "name": "X1_S5xC2_(5,1)",
+  "desc": "A_E (E=E0(i), E0 S5 quintic) x E_K, K=Q(i)",
+  "order": 240,
+  "orbits": [
+   10,
+   2
+  ],
+  "TI": [
+   "10T22",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 1,
+    "LU": [
+     [
+      1,
+      1,
+      1,
+      1,
+      1,
+      -3
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": 8,
+    "IQqrank16": 1,
+    "genDmin12": 8,
+    "genQrank12": 1,
+    "gen_fields_used": [
+     [
+      2,
+      8
+     ]
+    ],
+    "gid": 2059,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 1,
+    "stored_multDmin": 8
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 1,
+    "LU": [
+     [
+      1,
+      1,
+      1,
+      1,
+      1,
+      3
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": 8,
+    "IQqrank16": 1,
+    "genDmin12": 8,
+    "genQrank12": 1,
+    "gen_fields_used": [
+     [
+      2,
+      8
+     ]
+    ],
+    "gid": 2059,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 1,
+    "stored_multDmin": 8
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 1,
+    "LU": [
+     [
+      1,
+      1,
+      1,
+      1,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": true,
+    "strict_rankW": 1,
+    "strict_index": 1,
+    "IQmultDmin16": 6,
+    "IQqrank16": 1,
+    "gid": 2059,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "stored_passed": true,
+    "stored_d": 1,
+    "stored_multDmin": 6
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 1,
+    "LU": [
+     [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": true,
+    "strict_rankW": 1,
+    "strict_index": 1,
+    "IQmultDmin16": 6,
+    "IQqrank16": 1,
+    "gid": 2059,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "stored_passed": true,
+    "stored_d": 1,
+    "stored_multDmin": 6
+   }
+  ],
+  "secs": 0.5
+ },
+ {
+  "name": "D4_(4,2)_0_0",
+  "desc": "A(octic x^8 + x^4 + 16) x S(quartic x^4 + 1)",
+  "order": 8,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T3",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     5,
+     8,
+     9,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_0_1",
+  "desc": "A(octic x^8 + x^4 + 16) x S(quartic x^4 - 3*x^2 + 4)",
+  "order": 8,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T3",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     8,
+     9,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     5,
+     7,
+     9,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_0_2",
+  "desc": "A(octic x^8 + x^4 + 16) x S(quartic x^4 + 49)",
+  "order": 8,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T3",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     8,
+     9,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     5,
+     7,
+     8,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_0_3",
+  "desc": "A(octic x^8 + x^4 + 16) x S(quartic x^4 + 8*x^2 + 9)",
+  "order": 8,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T3",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     5,
+     7,
+     8,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_0_4",
+  "desc": "A(octic x^8 + x^4 + 16) x S(quartic x^4 - 2*x^3 + 9*x^2 - 8*x + 2)",
+  "order": 8,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T3",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     5,
+     7,
+     9,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_0_5",
+  "desc": "A(octic x^8 + x^4 + 16) x S(quartic x^4 + 6*x^2 + 16)",
+  "order": 8,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T3",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     7,
+     9,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     5,
+     7,
+     8,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_0_6",
+  "desc": "A(octic x^8 + x^4 + 16) x S(quartic x^4 + 6*x^2 + 7)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T3",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_0_7",
+  "desc": "A(octic x^8 + x^4 + 16) x S(quartic x^4 + 6*x^2 + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T3",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,1,1)_0_0_1",
+  "desc": "A(octic x^8 + x^4 + 16) x E(x^2 + 1) x E(x^2 + 2)",
+  "order": 8,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T3",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      1,
+      0,
+      0,
+      -1,
+      -1
+     ],
+     [
+      0,
+      0,
+      1,
+      1,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      1,
+      0,
+      0,
+      -1,
+      1
+     ],
+     [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      1,
+      0,
+      0,
+      1,
+      -1
+     ],
+     [
+      0,
+      0,
+      1,
+      1,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+     ],
+     [
+      0,
+      0,
+      1,
+      1,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     5,
+     8,
+     9,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.2
+ },
+ {
+  "name": "D4_(4,1,1)_0_0_2",
+  "desc": "A(octic x^8 + x^4 + 16) x E(x^2 + 1) x E(x^2 - x + 2)",
+  "order": 8,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T3",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      -1,
+      -1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      -1,
+      1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      1,
+      -1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      1,
+      1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     5,
+     8,
+     9,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.1
+ },
+ {
+  "name": "D4_(4,1,1)_0_0_3",
+  "desc": "A(octic x^8 + x^4 + 16) x E(x^2 + 1) x E(x^2 + 14)",
+  "order": 8,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T3",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      -1,
+      0,
+      -1,
+      1
+     ],
+     [
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      -1,
+      0,
+      -1,
+      -1
+     ],
+     [
+      0,
+      1,
+      0,
+      -1,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      -1,
+      0,
+      1,
+      1
+     ],
+     [
+      0,
+      1,
+      0,
+      -1,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      -1,
+      0,
+      1,
+      -1
+     ],
+     [
+      0,
+      1,
+      0,
+      -1,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     5,
+     8,
+     9,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.1
+ },
+ {
+  "name": "D4_(4,1,1)_0_1_2",
+  "desc": "A(octic x^8 + x^4 + 16) x E(x^2 + 2) x E(x^2 - x + 2)",
+  "order": 8,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T3",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      1,
+      0,
+      -1,
+      -1
+     ],
+     [
+      0,
+      1,
+      0,
+      1,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      1,
+      0,
+      -1,
+      1
+     ],
+     [
+      0,
+      1,
+      0,
+      1,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      1,
+      0,
+      1,
+      -1
+     ],
+     [
+      0,
+      1,
+      0,
+      1,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      1,
+      0,
+      1,
+      1
+     ],
+     [
+      0,
+      1,
+      0,
+      1,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.1
+ },
+ {
+  "name": "D4_(4,1,1)_0_1_3",
+  "desc": "A(octic x^8 + x^4 + 16) x E(x^2 + 2) x E(x^2 + 14)",
+  "order": 8,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T3",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      -1,
+      1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      -1,
+      -1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      1,
+      -1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.2
+ },
+ {
+  "name": "D4_(4,1,1)_0_2_3",
+  "desc": "A(octic x^8 + x^4 + 16) x E(x^2 - x + 2) x E(x^2 + 14)",
+  "order": 8,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T3",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      -1,
+      0,
+      0,
+      -1,
+      1
+     ],
+     [
+      0,
+      0,
+      1,
+      -1,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      -1,
+      0,
+      0,
+      -1,
+      -1
+     ],
+     [
+      0,
+      0,
+      1,
+      -1,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      -1,
+      0,
+      0,
+      1,
+      1
+     ],
+     [
+      0,
+      0,
+      1,
+      -1,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      -1,
+      0,
+      0,
+      1,
+      -1
+     ],
+     [
+      0,
+      0,
+      1,
+      -1,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 51,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     4,
+     5,
+     8,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     5,
+     7,
+     9,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.2
+ },
+ {
+  "name": "D4_(4,2)_1_0",
+  "desc": "A(octic x^8 - 4*x^7 + 12*x^6 - 12*x^5 - 8*x^4 + 12*x^3 + 12*x^2 + 4*x + 1) x S(quartic x^4 + 1)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     8,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     5,
+     7,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_1_1",
+  "desc": "A(octic x^8 - 4*x^7 + 12*x^6 - 12*x^5 - 8*x^4 + 12*x^3 + 12*x^2 + 4*x + 1) x S(quartic x^4 - 3*x^2 + 4)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     7,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_1_2",
+  "desc": "A(octic x^8 - 4*x^7 + 12*x^6 - 12*x^5 - 8*x^4 + 12*x^3 + 12*x^2 + 4*x + 1) x S(quartic x^4 + 49)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     7,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_1_3",
+  "desc": "A(octic x^8 - 4*x^7 + 12*x^6 - 12*x^5 - 8*x^4 + 12*x^3 + 12*x^2 + 4*x + 1) x S(quartic x^4 + 8*x^2 + 9)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     8,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_1_4",
+  "desc": "A(octic x^8 - 4*x^7 + 12*x^6 - 12*x^5 - 8*x^4 + 12*x^3 + 12*x^2 + 4*x + 1) x S(quartic x^4 - 2*x^3 + 9*x^2 - 8*x + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     8,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_1_5",
+  "desc": "A(octic x^8 - 4*x^7 + 12*x^6 - 12*x^5 - 8*x^4 + 12*x^3 + 12*x^2 + 4*x + 1) x S(quartic x^4 + 6*x^2 + 16)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_1_6",
+  "desc": "A(octic x^8 - 4*x^7 + 12*x^6 - 12*x^5 - 8*x^4 + 12*x^3 + 12*x^2 + 4*x + 1) x S(quartic x^4 + 6*x^2 + 7)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_1_7",
+  "desc": "A(octic x^8 - 4*x^7 + 12*x^6 - 12*x^5 - 8*x^4 + 12*x^3 + 12*x^2 + 4*x + 1) x S(quartic x^4 + 6*x^2 + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      1,
+      1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 0,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 283,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      -1,
+      -1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 0,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 283,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.3
+ },
+ {
+  "name": "D4_(4,1,1)_1_0_1",
+  "desc": "A(octic x^8 - 4*x^7 + 12*x^6 - 12*x^5 - 8*x^4 + 12*x^3 + 12*x^2 + 4*x + 1) x E(x^2 + 1) x E(x^2 + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T9",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      -1,
+      -1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      -1,
+      1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      1,
+      -1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     5,
+     7,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.4
+ },
+ {
+  "name": "D4_(4,2)_2_0",
+  "desc": "A(octic x^8 - 2*x^6 + 2*x^4 - 8*x^2 + 16) x S(quartic x^4 + 1)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_2_1",
+  "desc": "A(octic x^8 - 2*x^6 + 2*x^4 - 8*x^2 + 16) x S(quartic x^4 - 3*x^2 + 4)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     8,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     5,
+     7,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_2_2",
+  "desc": "A(octic x^8 - 2*x^6 + 2*x^4 - 8*x^2 + 16) x S(quartic x^4 + 49)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     8,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_2_3",
+  "desc": "A(octic x^8 - 2*x^6 + 2*x^4 - 8*x^2 + 16) x S(quartic x^4 + 8*x^2 + 9)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_2_4",
+  "desc": "A(octic x^8 - 2*x^6 + 2*x^4 - 8*x^2 + 16) x S(quartic x^4 - 2*x^3 + 9*x^2 - 8*x + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     5,
+     7,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_2_5",
+  "desc": "A(octic x^8 - 2*x^6 + 2*x^4 - 8*x^2 + 16) x S(quartic x^4 + 6*x^2 + 16)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     7,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_2_6",
+  "desc": "A(octic x^8 - 2*x^6 + 2*x^4 - 8*x^2 + 16) x S(quartic x^4 + 6*x^2 + 7)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      -1,
+      1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 0,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 283,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      1,
+      -1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 0,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 283,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.2
+ },
+ {
+  "name": "D4_(4,2)_2_7",
+  "desc": "A(octic x^8 - 2*x^6 + 2*x^4 - 8*x^2 + 16) x S(quartic x^4 + 6*x^2 + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,1,1)_2_0_2",
+  "desc": "A(octic x^8 - 2*x^6 + 2*x^4 - 8*x^2 + 16) x E(x^2 + 1) x E(x^2 - x + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T9",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      -1,
+      -1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      -1,
+      1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      1,
+      -1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.4
+ },
+ {
+  "name": "D4_(4,2)_3_0",
+  "desc": "A(octic x^8 - 10*x^4 + 81) x S(quartic x^4 + 1)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     8,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_3_1",
+  "desc": "A(octic x^8 - 10*x^4 + 81) x S(quartic x^4 - 3*x^2 + 4)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_3_2",
+  "desc": "A(octic x^8 - 10*x^4 + 81) x S(quartic x^4 + 49)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     5,
+     7,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_3_3",
+  "desc": "A(octic x^8 - 10*x^4 + 81) x S(quartic x^4 + 8*x^2 + 9)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     8,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     5,
+     7,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_3_4",
+  "desc": "A(octic x^8 - 10*x^4 + 81) x S(quartic x^4 - 2*x^3 + 9*x^2 - 8*x + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     8,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_3_5",
+  "desc": "A(octic x^8 - 10*x^4 + 81) x S(quartic x^4 + 6*x^2 + 16)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     5,
+     7,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_3_6",
+  "desc": "A(octic x^8 - 10*x^4 + 81) x S(quartic x^4 + 6*x^2 + 7)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      -1,
+      1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 0,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 283,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      -1,
+      1,
+      -1
+     ],
+     [
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 0,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 283,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.2
+ },
+ {
+  "name": "D4_(4,2)_3_7",
+  "desc": "A(octic x^8 - 10*x^4 + 81) x S(quartic x^4 + 6*x^2 + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,1,1)_3_1_3",
+  "desc": "A(octic x^8 - 10*x^4 + 81) x E(x^2 + 2) x E(x^2 + 14)",
+  "order": 16,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T9",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      -1,
+      -1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      -1,
+      1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     5,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      1,
+      -1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      0,
+      0,
+      1,
+      1,
+      1
+     ],
+     [
+      0,
+      1,
+      -1,
+      0,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     5,
+     7
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     3,
+     4,
+     7,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.4
+ },
+ {
+  "name": "D4_(4,2)_4_0",
+  "desc": "A(octic x^8 + 16*x^6 + 38*x^4 + 16*x^2 + 1) x S(quartic x^4 + 1)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T4",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_4_1",
+  "desc": "A(octic x^8 + 16*x^6 + 38*x^4 + 16*x^2 + 1) x S(quartic x^4 - 3*x^2 + 4)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T4",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_4_2",
+  "desc": "A(octic x^8 + 16*x^6 + 38*x^4 + 16*x^2 + 1) x S(quartic x^4 + 49)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T4",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_4_3",
+  "desc": "A(octic x^8 + 16*x^6 + 38*x^4 + 16*x^2 + 1) x S(quartic x^4 + 8*x^2 + 9)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T4",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_4_4",
+  "desc": "A(octic x^8 + 16*x^6 + 38*x^4 + 16*x^2 + 1) x S(quartic x^4 - 2*x^3 + 9*x^2 - 8*x + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T4",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_4_5",
+  "desc": "A(octic x^8 + 16*x^6 + 38*x^4 + 16*x^2 + 1) x S(quartic x^4 + 6*x^2 + 16)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T4",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_4_6",
+  "desc": "A(octic x^8 + 16*x^6 + 38*x^4 + 16*x^2 + 1) x S(quartic x^4 + 6*x^2 + 7)",
+  "order": 8,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T4",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     5,
+     8,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     5,
+     7,
+     9,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_4_7",
+  "desc": "A(octic x^8 + 16*x^6 + 38*x^4 + 16*x^2 + 1) x S(quartic x^4 + 6*x^2 + 2)",
+  "order": 8,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T4",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     5,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     3,
+     8,
+     10,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     5,
+     7,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_5_0",
+  "desc": "A(octic x^8 - 2*x^6 + 11*x^4 + 4*x^2 + 4) x S(quartic x^4 + 1)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_5_1",
+  "desc": "A(octic x^8 - 2*x^6 + 11*x^4 + 4*x^2 + 4) x S(quartic x^4 - 3*x^2 + 4)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     5,
+     7,
+     9,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_5_2",
+  "desc": "A(octic x^8 - 2*x^6 + 11*x^4 + 4*x^2 + 4) x S(quartic x^4 + 49)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     5,
+     7,
+     8,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_5_3",
+  "desc": "A(octic x^8 - 2*x^6 + 11*x^4 + 4*x^2 + 4) x S(quartic x^4 + 8*x^2 + 9)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     5,
+     7,
+     8,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_5_4",
+  "desc": "A(octic x^8 - 2*x^6 + 11*x^4 + 4*x^2 + 4) x S(quartic x^4 - 2*x^3 + 9*x^2 - 8*x + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 1,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     5,
+     7,
+     9,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_5_5",
+  "desc": "A(octic x^8 - 2*x^6 + 11*x^4 + 4*x^2 + 4) x S(quartic x^4 + 6*x^2 + 16)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T2"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     true,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     7,
+     9,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     7,
+     9,
+     10,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     5,
+     7,
+     8,
+     10
+    ],
+    "d": 5,
+    "reduced": false,
+    "primitive": [
+     false,
+     false
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_5_6",
+  "desc": "A(octic x^8 - 2*x^6 + 11*x^4 + 4*x^2 + 4) x S(quartic x^4 + 6*x^2 + 7)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     10,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.0
+ },
+ {
+  "name": "D4_(4,2)_5_7",
+  "desc": "A(octic x^8 - 2*x^6 + 11*x^4 + 4*x^2 + 4) x S(quartic x^4 + 6*x^2 + 2)",
+  "order": 16,
+  "orbits": [
+   8,
+   4
+  ],
+  "TI": [
+   "8T9",
+   "4T3"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      1,
+      0,
+      0,
+      -1,
+      -1
+     ],
+     [
+      0,
+      0,
+      1,
+      1,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 0,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 283,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 0,
+    "reduced": true,
+    "primitive": [
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1
+     ],
+     [
+      0,
+      0,
+      1,
+      1,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 0,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 283,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 3,
+    "reduced": false,
+    "primitive": [
+     false,
+     true
+    ]
+   }
+  ],
+  "secs": 0.2
+ },
+ {
+  "name": "D4_(4,1,1)_5_2_3",
+  "desc": "A(octic x^8 - 2*x^6 + 11*x^4 + 4*x^2 + 4) x E(x^2 - x + 2) x E(x^2 + 14)",
+  "order": 16,
+  "orbits": [
+   8,
+   2,
+   2
+  ],
+  "TI": [
+   "8T9",
+   "2T1",
+   "2T1"
+  ],
+  "types": [
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "d": 2,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     5,
+     9
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      -1,
+      0,
+      0,
+      -1,
+      1
+     ],
+     [
+      0,
+      0,
+      1,
+      -1,
+      -1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      -1,
+      0,
+      0,
+      -1,
+      -1
+     ],
+     [
+      0,
+      0,
+      1,
+      -1,
+      -1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     2,
+     4,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     5,
+     9,
+     10
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      -1,
+      0,
+      0,
+      1,
+      1
+     ],
+     [
+      0,
+      0,
+      1,
+      -1,
+      1,
+      -1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     3,
+     4,
+     8,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     1,
+     2,
+     9,
+     10,
+     11
+    ],
+    "d": 2,
+    "LU": [
+     [
+      1,
+      -1,
+      0,
+      0,
+      1,
+      -1
+     ],
+     [
+      0,
+      0,
+      1,
+      -1,
+      1,
+      1
+     ]
+    ],
+    "reduced": true,
+    "strict": false,
+    "strict_rankW": 0,
+    "strict_index": null,
+    "IQmultDmin16": null,
+    "IQqrank16": 2,
+    "genDmin12": 8,
+    "genQrank12": 2,
+    "gen_fields_used": [
+     [
+      2,
+      6
+     ],
+     [
+      4,
+      8
+     ]
+    ],
+    "gid": 270,
+    "stored_Phi": [
+     0,
+     1,
+     4,
+     8,
+     9,
+     11
+    ],
+    "stored_passed": false,
+    "stored_d": 2,
+    "stored_multDmin": null
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     4,
+     5,
+     7,
+     9
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     2,
+     5,
+     7,
+     9,
+     10
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     5,
+     7,
+     8
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   },
+   {
+    "Phi": [
+     0,
+     3,
+     4,
+     7,
+     8,
+     11
+    ],
+    "d": 4,
+    "reduced": false,
+    "primitive": [
+     false,
+     true,
+     true
+    ]
+   }
+  ],
+  "secs": 0.4
+ }
+]

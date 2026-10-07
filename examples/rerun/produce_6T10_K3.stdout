@@ -1,0 +1,53 @@
+PARI stack size set to 4000000000 bytes, maximum size set to 4000000000
+[6T10_K3] F = x^6 - 21*x^4 - 21*x^3 + 99*x^2 + 198*x + 99  (6T10, |G_F| = 36),  K = x^2 + x + 1,  E: R = x^12 - 6*x^11 + 15*x^10 - 17*x^9 - 15*x^8 + 150*x^7 - 423*x^6 + 600*x^5 - 240*x^4 - 1088*x^3 + 3840*x^2 - 6144*x + 4096
+  disc(E) = [3, 14; 5, 8; 11, 4], class group cyc = [2], time 0.1s
+  N (multiple of #mu(L)) = 10087262640
+  p = 991: split completely; G_F action: nfsplitting + p-adic roots
+   S=(1, 1, 1, 2, 2, 2) bal=True q=991^1 sym=True |r|ok=True irr=False ord=True geom=False normrel=True rankM=2 (exact) angle_rank=1
+   S=(1, 1, 2, 1, 2, 2) bal=True q=991^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 2, 1, 2) bal=True q=991^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 2, 2, 1) bal=True q=991^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 2, 2, 2) bal=False q=991^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=7 (exact) angle_rank=6
+   S=(1, 2, 1, 1, 2, 2) bal=True q=991^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 1, 2, 1, 2) bal=True q=991^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 1, 2, 2, 1) bal=True q=991^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 1, 2, 2, 2) bal=False q=991^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=7 (exact) angle_rank=6
+   S=(1, 2, 2, 1, 1, 2) bal=True q=991^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 1, 2, 1) bal=True q=991^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 1, 2, 2) bal=False q=991^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 2, 1, 1) bal=True q=991^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 2, 1, 2) bal=False q=991^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 2, 2, 1) bal=False q=991^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=6 (exact) angle_rank=5
+  p = 1051: split completely; G_F action: nfsplitting + p-adic roots
+   S=(1, 1, 1, 2, 2, 2) bal=True q=1051^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 1, 2, 2) bal=True q=1051^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 2, 1, 2) bal=True q=1051^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 2, 2, 1) bal=True q=1051^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 2, 2, 2) bal=False q=1051^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=6 (exact) angle_rank=5
+   S=(1, 2, 1, 1, 2, 2) bal=True q=1051^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 1, 2, 1, 2) bal=True q=1051^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 1, 2, 2, 1) bal=True q=1051^1 sym=True |r|ok=True irr=False ord=True geom=False normrel=True rankM=2 (exact) angle_rank=1
+   S=(1, 2, 1, 2, 2, 2) bal=False q=1051^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=7 (exact) angle_rank=6
+   S=(1, 2, 2, 1, 1, 2) bal=True q=1051^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 1, 2, 1) bal=True q=1051^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 1, 2, 2) bal=False q=1051^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 2, 1, 1) bal=True q=1051^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 2, 1, 2) bal=False q=1051^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 2, 2, 1) bal=False q=1051^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=7 (exact) angle_rank=6
+  p = 1471: split completely; G_F action: nfsplitting + p-adic roots
+   S=(1, 1, 1, 2, 2, 2) bal=True q=1471^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 1, 2, 2) bal=True q=1471^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 2, 1, 2) bal=True q=1471^1 sym=True |r|ok=True irr=False ord=True geom=False normrel=True rankM=2 (exact) angle_rank=1
+   S=(1, 1, 2, 2, 2, 1) bal=True q=1471^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 1, 2, 2, 2, 2) bal=False q=1471^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=7 (exact) angle_rank=6
+   S=(1, 2, 1, 1, 2, 2) bal=True q=1471^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 1, 2, 1, 2) bal=True q=1471^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 1, 2, 2, 1) bal=True q=1471^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 1, 2, 2, 2) bal=False q=1471^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 1, 1, 2) bal=True q=1471^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 1, 2, 1) bal=True q=1471^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 1, 2, 2) bal=False q=1471^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 2, 1, 1) bal=True q=1471^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (exact) angle_rank=5
+   S=(1, 2, 2, 2, 1, 2) bal=False q=1471^1 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=7 (exact) angle_rank=6
+   S=(1, 2, 2, 2, 2, 1) bal=False q=1471^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=6 (exact) angle_rank=5
+done 2.3s

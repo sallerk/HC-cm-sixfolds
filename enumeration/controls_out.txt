@@ -1,0 +1,34 @@
+=== (1) Milne 2112.12815 Ex. 1.12 (n=3): A (CM by sextic E=K.F, type {phi0, i.phi1, i.phi2}) x B (CM by K)
+  Gal = C2 x S3 (F non-Galois cubic): |G|=12 orbits=[6, 2] TI=['6T3', '2T1'] Phi=[0, 1, 6, 7] dimMT=4 d=1 LU=[[1, 1, 1, 1]] primitive=[True, True] reduced=True
+     admissible (K,J,B,|B|): [(0, [0, 1], [0, 1, 2, 3], 4)] ; rankW=1 index=1 KEYTEST=True
+     located in enum_g4: gid=28 stored Phi=[0, 1, 6, 7] d=1 passed=True reduced=True
+  Gal = C2 x C3 (E cyclic sextic): |G|=6 orbits=[6, 2] TI=['6T1', '2T1'] Phi=[0, 1, 6, 7] dimMT=4 d=1 LU=[[1, 1, 1, 1]] primitive=[True, True] reduced=True
+     admissible (K,J,B,|B|): [(0, [0, 1], [0, 1, 2, 3], 4)] ; rankW=1 index=1 KEYTEST=True
+     located in enum_g4: gid=7 stored Phi=[0, 1, 6, 7] d=1 passed=True reduced=True
+=== (2) APFV exceptional rows, g=4 (Phi = slope-0 set = {1..g} -> points 0..g-1)
+  8T13.8.t.a.3       APFV angle rank 3 | ours: rho in G=True TI=8T13 |G|=24 dimMT=4 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 3, 5, 6])] KEYTEST=True | located gid=59 storedPhi=[0, 1, 6, 7] Nclass=2
+  8T24.8.t.a.4       APFV angle rank 3 | ours: rho in G=True TI=8T24 |G|=48 dimMT=4 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 1, 6, 7])] KEYTEST=True | located gid=83 storedPhi=[0, 1, 6, 7] Nclass=2
+  our transitive reduced degenerate (G,Phi) up to N_W(G): 2 ; APFV rows: 2 ; APFV rows found among ours: 2 ; ours not in APFV: []
+=== (2) APFV exceptional rows, g=6 (Phi = slope-0 set = {1..g} -> points 0..g-1)
+  12T18.12.t.a.11    APFV angle rank 5 | ours: rho in G=True TI=12T18 |G|=36 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(1, [0, 2, 5, 7, 9, 10])] KEYTEST=True | located gid=807 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=2
+  12T24.12.t.a.6     APFV angle rank 5 | ours: rho in G=True TI=12T24 |G|=48 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 2, 3, 7, 10, 11])] KEYTEST=True | located gid=879 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=4
+  12T23.12.t.a.13    APFV angle rank 5 | ours: rho in G=True TI=12T23 |G|=48 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 2, 3, 7, 10, 11])] KEYTEST=True | located gid=877 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=4
+  12T25.12.t.a.2     APFV angle rank 5 | ours: rho in G=True TI=12T25 |G|=48 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 2, 3, 7, 10, 11])] KEYTEST=True | located gid=875 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=4
+  12T37.12.t.a.6     APFV angle rank 5 | ours: rho in G=True TI=12T37 |G|=72 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 3, 4, 7, 8, 11])] KEYTEST=True | located gid=1474 storedPhi=[0, 1, 2, 3, 10, 11] Nclass=2
+  12T40.12.t.a.5     APFV angle rank 5 | ours: rho in G=True TI=12T40 |G|=72 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(1, [0, 3, 4, 7, 8, 11])] KEYTEST=True | located gid=1478 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=2
+  12T48.12.t.a.2     APFV angle rank 5 | ours: rho in G=True TI=12T48 |G|=96 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 2, 3, 7, 10, 11])] KEYTEST=True | located gid=1561 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=4
+  12T75.12.t.a.6     APFV angle rank 5 | ours: rho in G=True TI=12T75 |G|=120 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 4, 5, 7, 8, 9])] KEYTEST=True | located gid=1566 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=3
+  12T219.12.t.a.6    APFV angle rank 5 | ours: rho in G=True TI=12T219 |G|=1440 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 1, 2, 9, 10, 11])] KEYTEST=True | located gid=2407 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=3
+  12T180.12.t.a.7    APFV angle rank 5 | ours: rho in G=True TI=12T180 |G|=720 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 1, 2, 9, 10, 11])] KEYTEST=True | located gid=2347 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=3
+  12T123.12.t.a.10   APFV angle rank 5 | ours: rho in G=True TI=12T123 |G|=240 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 4, 5, 7, 8, 9])] KEYTEST=True | located gid=2060 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=3
+  12T77.12.t.a.5     APFV angle rank 5 | ours: rho in G=True TI=12T77 |G|=144 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(1, [0, 1, 3, 8, 10, 11])] KEYTEST=True | located gid=1970 storedPhi=[0, 1, 2, 3, 10, 11] Nclass=2
+  12T10.12.t.a.19    APFV angle rank 5 | ours: rho in G=True TI=12T10 |G|=24 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(1, [0, 1, 5, 8, 9, 10])] KEYTEST=True | located gid=340 storedPhi=[0, 1, 2, 3, 10, 11] Nclass=2
+  12T7.12.t.a.5      APFV angle rank 5 | ours: rho in G=True TI=12T7 |G|=24 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(0, [0, 2, 3, 7, 10, 11])] KEYTEST=True | located gid=331 storedPhi=[0, 1, 2, 9, 10, 11] Nclass=4
+  12T2.12.t.a.19     APFV angle rank 5 | ours: rho in G=True TI=12T2 |G|=12 dimMT=6 (=angle rank+1? True) d=1 primitive=[True] adm=[(1, [0, 1, 4, 8, 9, 11])] KEYTEST=True | located gid=84 storedPhi=[0, 1, 3, 8, 10, 11] Nclass=2
+  our transitive reduced degenerate (G,Phi) up to N_W(G): 15 ; APFV rows: 15 ; APFV rows found among ours: 15 ; ours not in APFV: []
+=== (3) E = Q(zeta_21), G = (Z/21)^x regular, rho = -1, Phi = {1,2,4,5,8,10}
+  Q(zeta21): |G|=12 orbits=[12] TI=['12T2'] Phi=[0, 1, 2, 3, 4, 5] dimMT=6 d=1 LU=[[1, -1, 1, -1, -1, 1]] primitive=[True] reduced=True
+     admissible (K,J,B,|B|): [(0, [0], [0, 2, 5, 7, 9, 10], 6)] ; rankW=1 index=1 KEYTEST=True
+   K0: block (as residues mod 21) [1, 4, 10, 13, 16, 19] -> Q(sqrt-3)  [block = {a = 1 mod 3}] ; |Phi cap B| = 3 (balanced: True)
+   K1: block (as residues mod 21) [1, 2, 4, 8, 11, 16] -> Q(sqrt-7)  [block = {a mod 7 in squares}] ; |Phi cap B| = 4 (balanced: False)
+   located in enum_g6: gid=84 stored Phi=[0, 1, 2, 3, 10, 11] d=1 passed=True reduced=True TI=['12T2']

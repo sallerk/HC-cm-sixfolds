@@ -1,0 +1,7 @@
+[control] random 40x50 matrix of rank 17: rank_mod_p = 17
+[control] random 60x45 matrix of rank 45: rank_mod_p = 45
+[control] random 80x80 matrix of rank 79: rank_mod_p = 79
+[control] random 30x30 matrix of rank 0: rank_mod_p = 0
+[control] rank routine correct on 4/4 test matrices
+{"a": -1, "c": -1, "q": [0, 1, 1, 1], "b": 3, "k": 5, "P": 50000017, "target": 5005, "nf": 5017, "nxi": 5017, "rank_tau": 5005, "rank_secs": 757.5, "secs": 874.1}
+{"a": -2, "c": -5, "q": [0, 0, 1, 0], "b": 5, "k": 5, "P": 50000021, "target": 5005, "nf": 5017, "nxi": 5017, "rank_tau": 5005, "rank_secs": 756.3, "secs": 885.2}

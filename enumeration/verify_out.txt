@@ -1,0 +1,6 @@
+g=1: groups 1 (group-level errors: 0 ; type-orbit completeness errors: 0) ; cases verified 1 ; disagreements 0 ; stats {'cases': 1, 'd_ge1': 0, 'reduced': 1, 'red_fail': 0, 'mult_checked': 0} ; 0.0s
+g=2: groups 5 (group-level errors: 0 ; type-orbit completeness errors: 0) ; cases verified 7 ; disagreements 0 ; stats {'cases': 7, 'd_ge1': 4, 'reduced': 3, 'red_fail': 0, 'mult_checked': 0} ; 0.0s
+g=3: groups 11 (group-level errors: 0 ; type-orbit completeness errors: 0) ; cases verified 20 ; disagreements 0 ; stats {'cases': 20, 'd_ge1': 13, 'reduced': 7, 'red_fail': 0, 'mult_checked': 0} ; 0.0s
+g=4: groups 99 (group-level errors: 0 ; type-orbit completeness errors: 0) ; cases verified 214 ; disagreements 0 ; stats {'cases': 214, 'd_ge1': 119, 'reduced': 101, 'red_fail': 0, 'mult_checked': 6} ; 0.1s
+g=5: groups 197 (group-level errors: 0 ; type-orbit completeness errors: 0) ; cases verified 578 ; disagreements 0 ; stats {'cases': 578, 'd_ge1': 442, 'reduced': 157, 'red_fail': 10, 'mult_checked': 21} ; 0.2s
+g=6: groups 2455 (group-level errors: 0 ; type-orbit completeness errors: 0) ; cases verified 7401 ; disagreements 0 ; stats {'cases': 7401, 'd_ge1': 4679, 'reduced': 2870, 'red_fail': 64, 'mult_checked': 148} ; 5.5s

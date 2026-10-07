@@ -1,0 +1,15 @@
+PRODUCT CASE (F = Q x Q): [{'d': 1, 'cases': 15, 'ok': 15}, {'d': 2, 'cases': 15, 'ok': 15}, {'d': 3, 'cases': 15, 'ok': 15}, {'d': 5, 'cases': 15, 'ok': 15}, {'d': 7, 'cases': 15, 'ok': 15}, {'d': 15, 'cases': 15, 'ok': 15}, {'d': 23, 'cases': 15, 'ok': 15}]
+FORCED PRIMES BY TYPE:
+   inert-both {'count': 15, 'sym_ND': [1], 'sym_dF': [1], 'examples': [(1, 2, 3), (1, 10, 11), (1, 17, 3), (2, 5, 13), (3, 2, 5), (7, 2, 3)]}
+   p=2 ramified-both {'count': 21, 'sym_ND': [1], 'sym_dF': [1], 'examples': [(1, 7, 2), (1, 15, 2), (2, 14, 2), (2, 30, 2), (5, 3, 2), (5, 11, 2)]}
+   p=2 inert-both {'count': 36, 'sym_ND': [1], 'sym_dF': [1], 'examples': [(3, 5, 2), (3, 13, 2), (3, 21, 2), (11, 5, 2), (11, 13, 2), (11, 21, 2)]}
+   ramified-both {'count': 51, 'sym_ND': [1], 'sym_dF': [1], 'examples': [(3, 6, 3), (3, 15, 3), (5, 5, 5), (5, 30, 5), (6, 3, 3), (6, 21, 3)]}
+OBSTRUCTION CONTROL:
+   {'d': 1, 'm': 2, 'q': 11, 'qfsolve_cq': '11', 'qfsolve_c_is_solution': True}
+   {'d': 1, 'm': 7, 'q': 11, 'qfsolve_cq': '11', 'qfsolve_c_is_solution': True}
+   {'d': 3, 'm': 5, 'q': 17, 'qfsolve_cq': '17', 'qfsolve_c_is_solution': True}
+   {'d': 2, 'm': 3, 'q': 5, 'qfsolve_cq': '5', 'qfsolve_c_is_solution': True}
+   {'d': 5, 'm': 3, 'q': 19, 'qfsolve_cq': '19', 'qfsolve_c_is_solution': True}
+   {'d': 7, 'm': 21, 'q': 13, 'qfsolve_cq': '7', 'qfsolve_c_is_solution': True}
+   {'d': 15, 'm': 10, 'q': 7, 'qfsolve_cq': '5', 'qfsolve_c_is_solution': True}
+   {'d': 3, 'm': 15, 'q': 23, 'qfsolve_cq': '3', 'qfsolve_c_is_solution': True}

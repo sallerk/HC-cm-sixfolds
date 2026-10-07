@@ -1,0 +1,219 @@
+[
+ {
+  "name": "12T2_deg",
+  "GaloisType_P": "12T2",
+  "GaloisType_h": "6T1",
+  "order_h": 6,
+  "sec": 2.4
+ },
+ {
+  "name": "12T2_ctrl",
+  "GaloisType_P": "12T2",
+  "GaloisType_h": "6T1",
+  "order_h": 6,
+  "sec": 2.2
+ },
+ {
+  "name": "12T10_deg",
+  "GaloisType_P": "12T10",
+  "GaloisType_h": "6T3",
+  "order_h": 12,
+  "sec": 0.7
+ },
+ {
+  "name": "12T10_ctrl",
+  "GaloisType_P": "12T10",
+  "GaloisType_h": "6T3",
+  "order_h": 12,
+  "sec": 0.7
+ },
+ {
+  "name": "12T7_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T4",
+  "order_h": 12,
+  "sec": 0.0
+ },
+ {
+  "name": "12T7_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T4",
+  "order_h": 12,
+  "sec": 0.1
+ },
+ {
+  "name": "12T18_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T5",
+  "order_h": 18,
+  "sec": 0.1
+ },
+ {
+  "name": "12T18_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T5",
+  "order_h": 18,
+  "sec": 0.1
+ },
+ {
+  "name": "12T25_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T6",
+  "order_h": 24,
+  "sec": 0.0
+ },
+ {
+  "name": "12T25_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T6",
+  "order_h": 24,
+  "sec": 0.0
+ },
+ {
+  "name": "12T23_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T7",
+  "order_h": 24,
+  "sec": 0.0
+ },
+ {
+  "name": "12T23_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T7",
+  "order_h": 24,
+  "sec": 0.0
+ },
+ {
+  "name": "12T24_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T8",
+  "order_h": 24,
+  "sec": 0.4
+ },
+ {
+  "name": "12T24_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T8",
+  "order_h": 24,
+  "sec": 0.4
+ },
+ {
+  "name": "12T37_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T9",
+  "order_h": 36,
+  "sec": 0.1
+ },
+ {
+  "name": "12T37_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T9",
+  "order_h": 36,
+  "sec": 0.1
+ },
+ {
+  "name": "12T40_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T10",
+  "order_h": 36,
+  "sec": 0.0
+ },
+ {
+  "name": "12T40_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T10",
+  "order_h": 36,
+  "sec": 0.0
+ },
+ {
+  "name": "12T48_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T11",
+  "order_h": 48,
+  "sec": 0.0
+ },
+ {
+  "name": "12T48_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T11",
+  "order_h": 48,
+  "sec": 0.0
+ },
+ {
+  "name": "12T75_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T12",
+  "order_h": 60,
+  "sec": 0.1
+ },
+ {
+  "name": "12T75_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T12",
+  "order_h": 60,
+  "sec": 0.3
+ },
+ {
+  "name": "12T77_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T13",
+  "order_h": 72,
+  "sec": 0.0
+ },
+ {
+  "name": "12T77_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T13",
+  "order_h": 72,
+  "sec": 0.0
+ },
+ {
+  "name": "12T123_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T14",
+  "order_h": 120,
+  "sec": 0.2
+ },
+ {
+  "name": "12T180_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T15",
+  "order_h": 360,
+  "sec": 0.0
+ },
+ {
+  "name": "12T180_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T15",
+  "order_h": 360,
+  "sec": 0.0
+ },
+ {
+  "name": "12T219_deg",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T16",
+  "order_h": 720,
+  "sec": 0.0
+ },
+ {
+  "name": "12T219_ctrl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T16",
+  "order_h": 720,
+  "sec": 0.0
+ },
+ {
+  "name": "fermat21_jacobi_p43_1_1_19",
+  "GaloisType_P": "12T2",
+  "GaloisType_h": "6T1",
+  "order_h": 6,
+  "sec": 2.1
+ },
+ {
+  "name": "fermat21_jacobi_p127_1_1_19",
+  "GaloisType_P": "12T2",
+  "GaloisType_h": "6T1",
+  "order_h": 6,
+  "sec": 2.3
+ }
+]

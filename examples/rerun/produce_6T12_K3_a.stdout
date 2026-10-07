@@ -1,0 +1,197 @@
+PARI stack size set to 4000000000 bytes, maximum size set to 4000000000
+[6T12_K3_a] F = x^6 - x^5 - 91*x^4 - 123*x^3 + 840*x^2 + 1310*x + 446  (6T12, |G_F| = 60),  K = x^2 + x + 1,  E: R = x^12 - 5*x^11 + 109*x^10 - 1110*x^9 + 11245*x^8 - 56487*x^7 + 242972*x^6 - 877701*x^5 + 2607445*x^4 - 4814332*x^3 + 4979503*x^2 - 2696865*x + 605325
+  disc(E) = [2, 8; 3, 6; 17, 8; 73, 8], class group cyc = [1824, 6, 6], time 0.2s
+  N (multiple of #mu(L)) = 279390711600
+  p = 2851: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=2851^152 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=2851^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=2851^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=2851^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=2851^57 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=2851^76 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=2851^76 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=2851^76 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=2851^456 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=2851^76 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=2851^76 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=2851^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=2851^76 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=2851^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=2851^456 > QMAX: skipped
+  p = 3331: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=3331^76 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=3331^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=3331^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=3331^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=3331^24 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=3331^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=3331^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=3331^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=3331^456 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=3331^76 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=3331^76 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=3331^228 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=3331^38 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=3331^57 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=3331^114 > QMAX: skipped
+  p = 6337: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=6337^38 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=6337^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=6337^8 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=6337^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=6337^456 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=6337^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=6337^19 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=6337^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=6337^228 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=6337^76 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=6337^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=6337^114 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=6337^76 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=6337^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=6337^6 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=7 (all labellings [7]) angle_rank=6
+  p = 8053: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=8053^19 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=8053^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=8053^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=8053^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=8053^456 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=8053^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=8053^19 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=8053^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=8053^12 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=8053^76 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=8053^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=8053^57 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=8053^76 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=8053^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=8053^114 > QMAX: skipped
+  p = 8317: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=8317^152 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=8317^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=8317^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=8317^8 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=8317^57 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=8317^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=8317^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=8317^2 sym=True |r|ok=True irr=True ord=True geom=True normrel=True rankM=6 (all labellings [6]) angle_rank=5
+   S=(1, 2, 1, 2, 2, 2) bal=False q=8317^456 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=8317^38 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=8317^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=8317^228 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=8317^152 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=8317^228 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=8317^24 > QMAX: skipped
+  p = 9613: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=9613^152 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=9613^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=9613^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=9613^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=9613^456 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=9613^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=9613^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=9613^19 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=9613^456 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=9613^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=9613^38 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=9613^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=9613^19 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=9613^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=9613^228 > QMAX: skipped
+  p = 9973: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=9973^152 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=9973^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=9973^38 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=9973^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=9973^12 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=9973^38 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=9973^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=9973^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=9973^456 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=9973^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=9973^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=9973^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=9973^76 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=9973^228 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=9973^57 > QMAX: skipped
+  p = 11257: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=11257^38 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=11257^38 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=11257^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=11257^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=11257^456 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=11257^76 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=11257^19 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=11257^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=11257^456 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=11257^19 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=11257^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=11257^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=11257^152 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=11257^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=11257^6 sym=True |r|ok=True irr=True ord=True geom=True normrel=False rankM=7 (all labellings [7]) angle_rank=6
+  p = 11827: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=11827^19 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=11827^8 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=11827^38 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=11827^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=11827^456 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=11827^76 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=11827^8 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=11827^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=11827^228 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=11827^76 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=11827^19 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=11827^24 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=11827^152 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=11827^228 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=11827^57 > QMAX: skipped
+  p = 12799: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=12799^152 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=12799^38 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=12799^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=12799^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=12799^456 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=12799^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=12799^19 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=12799^38 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=12799^228 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=12799^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=12799^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=12799^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=12799^76 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=12799^114 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=12799^57 > QMAX: skipped
+  p = 13267: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=13267^152 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=13267^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=13267^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=13267^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=13267^228 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=13267^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=13267^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=13267^8 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=13267^114 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=13267^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=13267^8 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=13267^114 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=13267^152 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=13267^114 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=13267^228 > QMAX: skipped
+  p = 14533: split completely; G_F action: labelling-independent (combi_rows)
+   S=(1, 1, 1, 2, 2, 2) bal=True q=14533^8 > QMAX: skipped
+   S=(1, 1, 2, 1, 2, 2) bal=True q=14533^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 1, 2) bal=True q=14533^152 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 1) bal=True q=14533^76 > QMAX: skipped
+   S=(1, 1, 2, 2, 2, 2) bal=False q=14533^456 > QMAX: skipped
+   S=(1, 2, 1, 1, 2, 2) bal=True q=14533^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 1, 2) bal=True q=14533^152 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 1) bal=True q=14533^38 > QMAX: skipped
+   S=(1, 2, 1, 2, 2, 2) bal=False q=14533^24 > QMAX: skipped
+   S=(1, 2, 2, 1, 1, 2) bal=True q=14533^152 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 1) bal=True q=14533^19 > QMAX: skipped
+   S=(1, 2, 2, 1, 2, 2) bal=False q=14533^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 1) bal=True q=14533^19 > QMAX: skipped
+   S=(1, 2, 2, 2, 1, 2) bal=False q=14533^456 > QMAX: skipped
+   S=(1, 2, 2, 2, 2, 1) bal=False q=14533^228 > QMAX: skipped
+done 3.2s

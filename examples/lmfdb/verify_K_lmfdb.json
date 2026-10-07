@@ -1,0 +1,50 @@
+[
+ {
+  "name": "lmfdb_6.2.ag_s_abm_co_aea_fx",
+  "d": 1,
+  "sqrt_cert": [
+   "-12",
+   "-7",
+   "19",
+   "-2",
+   "-4",
+   "1"
+  ],
+  "GaloisType_h": "6T11",
+  "label_12T": "12T48",
+  "claimed_row": "12T48",
+  "label_matches": true
+ },
+ {
+  "name": "lmfdb_6.2.af_l_aq_ba_acb_dl",
+  "d": 3,
+  "sqrt_cert": [
+   "48",
+   "-19",
+   "-36",
+   "12",
+   "6",
+   "-2"
+  ],
+  "GaloisType_h": "6T16",
+  "label_12T": "12T219",
+  "claimed_row": "12T219",
+  "label_matches": true
+ },
+ {
+  "name": "lmfdb_6.2.ae_f_b_aj_n_ar",
+  "d": 3,
+  "sqrt_cert": [
+   "57",
+   "-65",
+   "-47",
+   "32",
+   "5",
+   "-3"
+  ],
+  "GaloisType_h": "6T13",
+  "label_12T": "12T77",
+  "claimed_row": "12T77",
+  "label_matches": true
+ }
+]

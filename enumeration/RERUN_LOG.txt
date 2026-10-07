@@ -1,0 +1,89 @@
+RERUN_LOG.txt -- re-run of every script of this folder and comparison with the stored outputs (2026-10-06)
+=========================================================================================================
+
+ENVIRONMENT
+  docker image sagemath/sagemath:latest, digest sha256:310dfe23fc786f3a5a06a7b0387c60201ec79b32c0db941b7624505ee5edb565
+    (created 2026-09-28, i.e. before the original runs of 2026-10-04; the only Sage image on the machine):
+    SageMath 10.10 (release 2026-09-28),
+    GAP 4.15.1, GAP package transgrp 3.6.5, Python 3.12.3.
+    Command used for every Sage script, from this folder (Git Bash on Windows):
+      MSYS_NO_PATHCONV=1 docker run --rm --cpus=1 -e OMP_NUM_THREADS=1 -e PYTHONDONTWRITEBYTECODE=1 \
+          -v "<this folder>:/work" -w /work sagemath/sagemath:latest sage -python <script> <args>
+  local Python 3.12.9 with cypari 2.5.6 (PARI 2.15.4), sympy 1.13.1, mpmath 1.3.0; run as
+      OMP_NUM_THREADS=1 PYTHONDONTWRITEBYTECODE=1 python <script> <args>      (from this folder)
+  One process at a time.
+
+PROCEDURE
+  1. The scripts were copied into this folder without any of their outputs; only file paths and comments were
+     changed (plus two printed labels, see EDITS).
+  2. All scripts were run in pipeline order (table below), so every later script read the outputs freshly
+     produced by the earlier ones (enum_g*.json, general_weil2_out_D12.json, controls_apfv.json, fields_out.json).
+  3. The re-run outputs were moved to a subfolder rerun/, the stored outputs were copied in, and every pair was
+     compared (bytes; JSON also by content; text also modulo CRLF/LF).  rerun/ was then deleted; the files in
+     this folder are the stored outputs (except the new files listed under NEW OUTPUTS).
+
+COMMANDS, EXIT CODES AND WALL-CLOCK TIMES (docker start-up included for the Sage scripts)
+  SAGE run_enum.py 1                         rc 0     7.3 s   ("done g=1: groups 1, cases 1")
+  SAGE run_enum.py 2                         rc 0     5.2 s   ("done g=2: groups 5, cases 7")
+  SAGE run_enum.py 3                         rc 0     8.2 s   ("done g=3: groups 11, cases 20")
+  SAGE run_enum.py 4                         rc 0     7.3 s   ("done g=4: groups 99, cases 214")
+  SAGE run_enum.py 5                         rc 0     9.4 s   ("done g=5: groups 197, cases 578")
+  SAGE run_enum.py 6                         rc 0    64.3 s   ("done g=6: groups 2455, cases 7401, time 59.9s")
+  python fetch_apfv_data.py                  rc 0     0.5 s   (branch main; both files "OK", see below)
+  SAGE controls.py                           rc 0     6.5 s
+  SAGE stage1.py                             rc 0    14.7 s
+  SAGE general_weil2.py 4,5,6 12             rc 0    38.7 s
+  SAGE j11_check.py > j11_check_out.txt      rc 0     8.5 s
+  SAGE j15_check.py > j15_check_out.txt      rc 0     7.0 s
+  python verify_enum.py 1,2,3,4,5,6          rc 0     6.2 s
+  python verify_general.py > verify_general_out.txt              rc 0    13.1 s
+  python verify_controls.py > verify_controls_out.txt            rc 0     0.3 s
+  python verify_mutation_test.py > verify_mutation_test_out.txt  rc 0     0.4 s
+  python first_power.py > first_power_out.txt                    rc 0    31.0 s
+  python summarize.py 1,2,3,4,5,6 summary_strict.txt             rc 0     0.2 s
+  python tiers.py 4,5,6 > tiers_out.txt                          rc 0     0.2 s
+  python final_tables.py                                         rc 0     0.3 s
+  python used_blocks_check.py > used_blocks_check_out.txt        rc 0     0.5 s   (new script, see NEW OUTPUTS)
+  (in cyclotomic_checks/) python cyclo_examples.py > cyclo_examples.out             rc 0   0.6 s
+  (in cyclotomic_checks/) python fermat_factor_search.py > fermat_factor_search.out rc 0   9.3 s
+  python open_families/fields_pari.py                            rc 0    10.3 s
+  SAGE open_families/analyse_sage.py > open_families/log_analyse.txt               rc 0   11.9 s
+  python open_families/verify_indep.py                           rc 0     0.6 s
+  Original runtimes of run_enum.py (stored outputs, 2026-10-04): wall 5.9, 6.6, 8.6, 8.8, 11.1,
+  56.0 s for g = 1..6 (0.9, 0.9, 1.0, 2.0, 4.4, 51.2 s inside Python).
+
+COMPARISON WITH THE STORED OUTPUTS
+  byte-identical:
+    enum_g1.json enum_g2.json enum_g3.json enum_g4.json enum_g5.json enum_g6.json
+    general_weil2_out_D12.json stage1_rows.json controls_apfv.json controls_out.txt summary_strict.txt
+    final_tables.txt first_power_out.txt tiers_out.txt verify_controls_out.txt verify_mutation_test_out.txt
+    cyclotomic_checks/cyclo_examples.out cyclotomic_checks/fermat_factor_search.out
+    open_families/fields_out.json open_families/log_analyse.txt open_families/verify_out.txt
+  differences in timing values only:
+    stage1_out.txt          "time 6.6s" (stored) vs "time 8.9s" (re-run), in 2 lines
+    verify_out.txt          g=6 line: "5.5s" vs "5.7s"
+    verify_general_out.txt  last line: "11.6s" vs "12.9s"
+    open_families/analyse_out.json   JSON content identical except "secs" in 3 of 59 records (0.1 vs 0.2)
+  stdout of run_enum.py (g = 1..6) and of general_weil2.py: identical to the logs of the original runs up to
+  the timing values (those logs are not part of this folder).
+  apfv_data/: the two downloaded files are byte-identical to the copies used for the stored outputs
+    (sha256 b677bff503e8bd79c11046a2e6b7b4aa1ace2c5b8573a5aee9286b21089ba059, 323 bytes;
+     sha256 29b40025944cb7bd7f3f95ce4af5d8ee83c804f59017f070ce6f90275f909de6, 3150 bytes).
+  Result: every stored output was reproduced; no difference other than timing values.
+
+EDITS TO SCRIPTS AND STORED FILES
+  Scripts: file paths now relative to the script's directory (no fixed /work paths); comments reworded; usage
+  lines added.  Two printed labels were reworded (no other change of code or output format):
+    stage1.py          label of the second-route line, now "route (ii): ..."
+    verify_general.py  label of the compared value, now "... general_weil2 genDmin=..."
+  The same substitutions were applied to the stored files (1 line of stage1_out.txt, 74 lines of
+  verify_general_out.txt); the comparison above is after this substitution.
+  Renamed stored logs: log_verify_general.txt -> verify_general_out.txt, log_verify_controls.txt ->
+  verify_controls_out.txt, log_verify_mutation.txt -> verify_mutation_test_out.txt.
+  Line endings: text outputs written by the local (Windows) Python runs have CRLF line endings, the others LF.
+
+NEW OUTPUTS (no stored original)
+  j11_check_out.txt, j15_check_out.txt: stdout of the re-run (the original runs had not stored it); the values
+    agree with the description of these examples in README.txt (gid 68, d = 1; gid 49, d = 2).
+  used_blocks_check.py / used_blocks_check_out.txt: script added on 2026-10-06; result
+    "passing cases that need a 6-dimensional B with only even-dimensional factors: 0".

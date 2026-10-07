@@ -1,0 +1,12 @@
+A1         [(5,)]  dim 6  -> symplectic
+A2         [(0, 2)]  dim 6  -> not self-dual
+A2         [(2, 0)]  dim 6  -> not self-dual
+A3         [(0, 1, 0)]  dim 6  -> ORTHOGONAL
+C3         [(1, 0, 0)]  dim 6  -> symplectic
+A1xA1      [(1,), (2,)]  dim 6  -> symplectic
+A1xA1      [(2,), (1,)]  dim 6  -> symplectic
+A1xA2      [(1,), (0, 1)]  dim 6  -> not self-dual
+A1xA2      [(1,), (1, 0)]  dim 6  -> not self-dual
+
+6-dimensional faithful irreducible representations with an invariant symmetric form: 1
+    ('A3',) [(0, 1, 0)]

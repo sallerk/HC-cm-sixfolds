@@ -1,0 +1,6 @@
+cases: path1 21168, path2 21168, common 21168
+split decision mismatches (path1 Hilbert-on-det vs path2 trace-form hyperbolicity): 0
+Delta mismatches (Q(sqrt a) vs Q(sqrt c) embedding): 0
+b mismatches: 0
+criterion (-b,Delta)=D vs path2 split: mismatches 0
+split cases: 1180

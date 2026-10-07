@@ -1,0 +1,12 @@
+  0/21168 {"compared": 1, "split_agree": 1, "split_disagree": 0, "delta_agree": 1, "b_agree": 1, "proj_split": 0} (0s)
+  2000/21168 {"compared": 2001, "split_agree": 2001, "split_disagree": 0, "delta_agree": 2001, "b_agree": 2001, "proj_split": 337} (6s)
+  4000/21168 {"compared": 4001, "split_agree": 4001, "split_disagree": 0, "delta_agree": 4001, "b_agree": 4001, "proj_split": 489} (12s)
+  6000/21168 {"compared": 6001, "split_agree": 6001, "split_disagree": 0, "delta_agree": 6001, "b_agree": 6001, "proj_split": 599} (19s)
+  8000/21168 {"compared": 8001, "split_agree": 8001, "split_disagree": 0, "delta_agree": 8001, "b_agree": 8001, "proj_split": 706} (26s)
+  10000/21168 {"compared": 10001, "split_agree": 10001, "split_disagree": 0, "delta_agree": 10001, "b_agree": 10001, "proj_split": 851} (33s)
+  12000/21168 {"compared": 12001, "split_agree": 12001, "split_disagree": 0, "delta_agree": 12001, "b_agree": 12001, "proj_split": 945} (39s)
+  14000/21168 {"compared": 14001, "split_agree": 14001, "split_disagree": 0, "delta_agree": 14001, "b_agree": 14001, "proj_split": 1001} (46s)
+  16000/21168 {"compared": 16001, "split_agree": 16001, "split_disagree": 0, "delta_agree": 16001, "b_agree": 16001, "proj_split": 1077} (54s)
+  18000/21168 {"compared": 18001, "split_agree": 18001, "split_disagree": 0, "delta_agree": 18001, "b_agree": 18001, "proj_split": 1099} (61s)
+  20000/21168 {"compared": 20001, "split_agree": 20001, "split_disagree": 0, "delta_agree": 20001, "b_agree": 20001, "proj_split": 1149} (70s)
+FINAL: {"compared": 21168, "split_agree": 21168, "split_disagree": 0, "delta_agree": 21168, "b_agree": 21168, "proj_split": 1180} first disagreements: []

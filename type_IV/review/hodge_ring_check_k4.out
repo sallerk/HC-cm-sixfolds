@@ -1,0 +1,37 @@
+hodge_ring_check.py KMAX=4  P=2147483647
+Part A k=1: dominant weight pairs checked 6, Howe constituents 6, all hw multiplicities as predicted and every hw vector in the generated algebra: True  (0.0s)
+Part A' k=1: brute-force dim Inv_a[deg] over all weights == Howe formula: True  (0.0s)
+   a=0: [1, 0, 1, 0, 1, 0, 1]
+   a=1: [0, 0, 0, 1, 0, 0, 0]
+Part B k=1: dim B^j(A^k), j=0..6: [1, 2, 3, 6, 3, 2, 1]
+            Lefschetz part D^j:        [1, 2, 3, 4, 3, 2, 1]
+            equal to project hodge_dims.out (Weyl character formula): True
+Part A k=2: dominant weight pairs checked 34, Howe constituents 20, all hw multiplicities as predicted and every hw vector in the generated algebra: True  (0.0s)
+Part A' k=2: brute-force dim Inv_a[deg] over all weights == Howe formula: True  (0.0s)
+   a=0: [1, 0, 4, 0, 10, 0, 20, 0, 10, 0, 4, 0, 1]
+   a=1: [0, 0, 0, 4, 0, 6, 0, 6, 0, 4, 0, 0, 0]
+   a=2: [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+Part B k=2: dim B^j(A^k), j=0..12: [1, 8, 36, 152, 376, 656, 844, 656, 376, 152, 36, 8, 1]
+            Lefschetz part D^j:        [1, 8, 36, 120, 280, 488, 634, 488, 280, 120, 36, 8, 1]
+            equal to project hodge_dims.out (Weyl character formula): True
+Part A k=3: dominant weight pairs checked 136, Howe constituents 50, all hw multiplicities as predicted and every hw vector in the generated algebra: True  (0.1s)
+Part A' k=3: brute-force dim Inv_a[deg] over all weights == Howe formula: True  (0.2s)
+   a=0: [1, 0, 9, 0, 45, 0, 165, 0, 270, 0, 270, 0, 165, 0, 45, 0, 9, 0, 1]
+   a=1: [0, 0, 0, 10, 0, 45, 0, 108, 0, 164, 0, 108, 0, 45, 0, 10, 0, 0, 0]
+   a=2: [0, 0, 0, 0, 0, 0, 10, 0, 18, 0, 18, 0, 10, 0, 0, 0, 0, 0, 0]
+   a=3: [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Part B k=3: dim B^j(A^k), j=0..18: [1, 18, 171, 1340, 7335, 28620, 82915, 174348, 271134, 315110, 271134, 174348, 82915, 28620, 7335, 1340, 171, 18, 1]
+            Lefschetz part D^j:        [1, 18, 171, 1140, 5535, 20250, 56715, 116460, 177678, 204464, 177678, 116460, 56715, 20250, 5535, 1140, 171, 18, 1]
+            equal to project hodge_dims.out (Weyl character formula): True
+Part A k=4: dominant weight pairs checked 411, Howe constituents 105, all hw multiplicities as predicted and every hw vector in the generated algebra: True  (4.4s)
+Part B k=4: dim B^j(A^k), j=0..24: [1, 32, 528, 6784, 64310, 447488, 2348696, 9348256, 28508255, 67324256, 123791608, 178098560, 201041558, 178098560, 123791608, 67324256, 28508255, 9348256, 2348696, 447488, 64310, 6784, 528, 32, 1]
+            Lefschetz part D^j:        [1, 32, 528, 5984, 49910, 317408, 1570576, 6000544, 17730575, 40845376, 73857248, 105300160, 118535732, 105300160, 73857248, 40845376, 17730575, 6000544, 1570576, 317408, 49910, 5984, 528, 32, 1]
+Part C k=1 (two-sided, all weights): 0.0s
+Part C k=1: invariants per codim  [1, 2, 3, 6, 3, 2, 1]
+            generated per codim   [1, 2, 3, 6, 3, 2, 1]
+            invariants == Part B and generated == invariants: True
+Part C k=2 (two-sided, all weights): 4.5s
+Part C k=2: invariants per codim  [1, 8, 36, 152, 376, 656, 844, 656, 376, 152, 36, 8, 1]
+            generated per codim   [1, 8, 36, 152, 376, 656, 844, 656, 376, 152, 36, 8, 1]
+            invariants == Part B and generated == invariants: True
+ALL OK

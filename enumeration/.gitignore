@@ -1,0 +1,3 @@
+# third-party data, downloaded by fetch_apfv_data.py
+apfv_data/
+__pycache__/

@@ -1,0 +1,27 @@
+part 1 (n=2): rank of pullbacks of the Weil class = 16 of 16
+   n=2 k=1  dim R_2k = 8   dim C[w]_2k = 8
+   n=2 k=2  dim R_2k = 36   dim C[w]_2k = 36
+   n=2 k=3  dim R_2k = 152   dim C[w]_2k = 120
+   n=2 k=4  dim R_2k = 376   dim C[w]_2k = 280
+   n=2 k=5  dim R_2k = 656   dim C[w]_2k = 488
+   n=2 k=6  dim R_2k = 844   dim C[w]_2k = 634
+   n=2 k=7  dim R_2k = 656   dim C[w]_2k = 488
+   n=2 k=8  dim R_2k = 376   dim C[w]_2k = 280
+   n=2 k=9  dim R_2k = 152   dim C[w]_2k = 120
+   n=2 k=10  dim R_2k = 36   dim C[w]_2k = 36
+   n=2 k=11  dim R_2k = 8   dim C[w]_2k = 8
+   n=2 k=12  dim R_2k = 1   dim C[w]_2k = 1
+part 2 (n=2): rank U = 32
+   k= 1  generated      8  Hodge      8  |  C[divisors]      8  Lefschetz      8   OK
+   k= 2  generated     36  Hodge     36  |  C[divisors]     36  Lefschetz     36   OK
+   k= 3  generated    152  Hodge    152  |  C[divisors]    120  Lefschetz    120   OK
+   k= 4  generated    376  Hodge    376  |  C[divisors]    280  Lefschetz    280   OK
+   k= 5  generated    656  Hodge    656  |  C[divisors]    488  Lefschetz    488   OK
+   k= 6  generated    844  Hodge    844  |  C[divisors]    634  Lefschetz    634   OK
+   k= 7  generated    656  Hodge    656  |  C[divisors]    488  Lefschetz    488   OK
+   k= 8  generated    376  Hodge    376  |  C[divisors]    280  Lefschetz    280   OK
+   k= 9  generated    152  Hodge    152  |  C[divisors]    120  Lefschetz    120   OK
+   k=10  generated     36  Hodge     36  |  C[divisors]     36  Lefschetz     36   OK
+   k=11  generated      8  Hodge      8  |  C[divisors]      8  Lefschetz      8   OK
+   k=12  generated      1  Hodge      1  |  C[divisors]      1  Lefschetz      1   OK
+ALL OK

@@ -1,0 +1,1 @@
+Lemma 2 holds in 21168/21168 cases (path1 Gram determinants)

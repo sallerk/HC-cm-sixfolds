@@ -1,0 +1,6 @@
+g=4 mutations 119 detected 119
+g=5 mutations 150 detected 150
+  undetected 6 Phi [0, 1, 2, 3, 4, 11] [0, 1, 2, 3, 4, 5] [True, False, True, True, True] [{'K': 3, 'J': [1], 'B': [1, 9], 'size': 2}] [[0, 1, 0, -1, 0, 0]] [[0, 1, 0, -1, 0, 0]]
+  undetected 6 Phi [0, 1, 2, 3, 4, 11] [0, 1, 2, 3, 4, 5] [True, True, True] [{'K': 0, 'J': [1, 2], 'B': [2, 9], 'size': 2}] [[0, 0, 1, -1, 0, 0]] [[0, 0, 1, -1, 0, 0]]
+  undetected 6 Phi [0, 1, 2, 3, 4, 11] [0, 1, 2, 3, 4, 5] [True, False] [{'K': 0, 'J': [1], 'B': [2, 9], 'size': 2}] [[0, 0, 1, -1, 0, 0]] [[0, 0, 1, -1, 0, 0]]
+g=6 mutations 150 detected 147

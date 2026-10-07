@@ -1,0 +1,9 @@
+{'p': 43, 'abc': (1, 1, 19), 'norm_ok': True, 'ordinary': True, 'irreducible': True, 'geom_simple': True, 'rank_val': 6, 'rank_stickelberger': 6, 'angle_rank': 5}
+   Weil poly coeffs (T^12..T^0): [1, -8, 91, -1196, 7811, -60410, 497855, -2597630, 14442539, -95090372, 311110891, -1176067544, 6321363049]
+{'p': 43, 'abc': (1, 4, 16), 'norm_ok': True, 'ordinary': True, 'irreducible': False, 'geom_simple': False, 'rank_val': 2, 'rank_stickelberger': 2, 'angle_rank': 1}
+   Weil poly coeffs (T^12..T^0): [1, -36, 735, -10548, 116934, -1035972, 7500683, -44546796, 216210966, -838639836, 2512818735, -5292303948, 6321363049]
+{'p': 127, 'abc': (1, 1, 19), 'norm_ok': True, 'ordinary': True, 'irreducible': True, 'geom_simple': True, 'rank_val': 6, 'rank_stickelberger': 6, 'angle_rank': 5}
+   Weil poly coeffs (T^12..T^0): [1, 8, 105, -218, -8233, -63126, -1689953, -8017002, -132790057, -446547494, 27315187305, 264306955256, 4195872914689]
+{'p': 127, 'abc': (1, 4, 16), 'norm_ok': True, 'ordinary': True, 'irreducible': False, 'geom_simple': False, 'rank_val': 2, 'rank_stickelberger': 2, 'angle_rank': 1}
+   Weil poly coeffs (T^12..T^0): [1, -48, 1155, -22576, 392454, -5480496, 64568967, -696022992, 6329890566, -46244294608, 300467060355, -1585841731536, 4195872914689]
+rows 4 consistency failures 2

@@ -1,0 +1,8 @@
+q-symmetric: True  constant = q^6: True
+irreducible over Q: True
+ordinary (q does not divide a6): True
+max | |root|^2 - q |: 1.3654e-399
+N = 2227680  min |(pi_i/pi_j)^N - 1| = 0.14658 (nonzero => no ratio is a root of unity of order | N)
+PSLQ relation (theta_1..6, 2pi/12): [1, 1, 1, -1, -1, -1, 6]
+  residual: -4.2668e-401
+  second relation search (drop theta_1), coeff bound 1e12: None

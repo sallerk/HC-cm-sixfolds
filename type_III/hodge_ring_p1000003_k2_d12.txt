@@ -1,0 +1,89 @@
+prime 1000003
+k=1 d=0 mu=(0, 0) zero-wt-basis=1 inv=1 gen(div+Omega)=1 gen(div only)=1
+== k=1 d=0: dominant-weight totals inv=1 gen=1 divisor-only=1  (0.0s)
+k=1 d=2 mu=(2, 0) zero-wt-basis=3 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=1 d=2 mu=(1, 1) zero-wt-basis=6 inv=1 gen(div+Omega)=1 gen(div only)=1
+== k=1 d=2: dominant-weight totals inv=1 gen=1 divisor-only=1  (0.0s)
+k=1 d=4 mu=(4, 0) zero-wt-basis=3 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=1 d=4 mu=(3, 1) zero-wt-basis=12 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=1 d=4 mu=(2, 2) zero-wt-basis=21 inv=1 gen(div+Omega)=1 gen(div only)=1
+== k=1 d=4: dominant-weight totals inv=1 gen=1 divisor-only=1  (0.0s)
+k=1 d=6 mu=(6, 0) zero-wt-basis=1 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=1 d=6 mu=(5, 1) zero-wt-basis=6 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=1 d=6 mu=(4, 2) zero-wt-basis=21 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=1 d=6 mu=(3, 3) zero-wt-basis=32 inv=2 gen(div+Omega)=2 gen(div only)=1
+== k=1 d=6: dominant-weight totals inv=5 gen=5 divisor-only=1  (0.0s)
+k=1 d=8 mu=(6, 2) zero-wt-basis=3 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=1 d=8 mu=(5, 3) zero-wt-basis=12 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=1 d=8 mu=(4, 4) zero-wt-basis=21 inv=1 gen(div+Omega)=1 gen(div only)=1
+== k=1 d=8: dominant-weight totals inv=1 gen=1 divisor-only=1  (0.0s)
+k=1 d=10 mu=(6, 4) zero-wt-basis=3 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=1 d=10 mu=(5, 5) zero-wt-basis=6 inv=1 gen(div+Omega)=1 gen(div only)=1
+== k=1 d=10: dominant-weight totals inv=1 gen=1 divisor-only=1  (0.0s)
+k=1 d=12 mu=(6, 6) zero-wt-basis=1 inv=1 gen(div+Omega)=1 gen(div only)=1
+== k=1 d=12: dominant-weight totals inv=1 gen=1 divisor-only=1  (0.0s)
+k=2 d=0 mu=(0, 0, 0, 0) zero-wt-basis=1 inv=1 gen(div+Omega)=1 gen(div only)=1
+== k=2 d=0: dominant-weight totals inv=1 gen=1 divisor-only=1  (0.0s)
+k=2 d=2 mu=(2, 0, 0, 0) zero-wt-basis=3 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=2 d=2 mu=(1, 1, 0, 0) zero-wt-basis=6 inv=1 gen(div+Omega)=1 gen(div only)=1
+== k=2 d=2: dominant-weight totals inv=1 gen=1 divisor-only=1  (0.0s)
+k=2 d=4 mu=(4, 0, 0, 0) zero-wt-basis=3 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=2 d=4 mu=(3, 1, 0, 0) zero-wt-basis=12 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=2 d=4 mu=(2, 2, 0, 0) zero-wt-basis=21 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=4 mu=(2, 1, 1, 0) zero-wt-basis=42 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=4 mu=(1, 1, 1, 1) zero-wt-basis=90 inv=3 gen(div+Omega)=3 gen(div only)=3
+== k=2 d=4: dominant-weight totals inv=5 gen=5 divisor-only=5  (0.0s)
+k=2 d=6 mu=(6, 0, 0, 0) zero-wt-basis=1 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=2 d=6 mu=(5, 1, 0, 0) zero-wt-basis=6 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=2 d=6 mu=(4, 2, 0, 0) zero-wt-basis=21 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=2 d=6 mu=(4, 1, 1, 0) zero-wt-basis=42 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=2 d=6 mu=(3, 3, 0, 0) zero-wt-basis=32 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=6 mu=(3, 2, 1, 0) zero-wt-basis=108 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=6 mu=(3, 1, 1, 1) zero-wt-basis=228 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=6 mu=(2, 2, 2, 0) zero-wt-basis=183 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=6 mu=(2, 2, 1, 1) zero-wt-basis=390 inv=4 gen(div+Omega)=4 gen(div only)=3
+== k=2 d=6: dominant-weight totals inv=16 gen=16 divisor-only=7  (3.5s)
+k=2 d=8 mu=(6, 2, 0, 0) zero-wt-basis=3 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=2 d=8 mu=(6, 1, 1, 0) zero-wt-basis=6 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=2 d=8 mu=(5, 3, 0, 0) zero-wt-basis=12 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=2 d=8 mu=(5, 2, 1, 0) zero-wt-basis=42 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=2 d=8 mu=(5, 1, 1, 1) zero-wt-basis=90 inv=3 gen(div+Omega)=3 gen(div only)=0
+k=2 d=8 mu=(4, 4, 0, 0) zero-wt-basis=21 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=8 mu=(4, 3, 1, 0) zero-wt-basis=108 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=8 mu=(4, 2, 2, 0) zero-wt-basis=183 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=8 mu=(4, 2, 1, 1) zero-wt-basis=390 inv=4 gen(div+Omega)=4 gen(div only)=1
+k=2 d=8 mu=(3, 3, 2, 0) zero-wt-basis=288 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=8 mu=(3, 3, 1, 1) zero-wt-basis=624 inv=6 gen(div+Omega)=6 gen(div only)=3
+k=2 d=8 mu=(3, 2, 2, 1) zero-wt-basis=1068 inv=6 gen(div+Omega)=6 gen(div only)=3
+k=2 d=8 mu=(2, 2, 2, 2) zero-wt-basis=1845 inv=9 gen(div+Omega)=9 gen(div only)=6
+== k=2 d=8: dominant-weight totals inv=37 gen=37 divisor-only=17  (322.4s)
+k=2 d=10 mu=(6, 4, 0, 0) zero-wt-basis=3 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=2 d=10 mu=(6, 3, 1, 0) zero-wt-basis=12 inv=0 gen(div+Omega)=0 gen(div only)=0
+k=2 d=10 mu=(6, 2, 2, 0) zero-wt-basis=21 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=2 d=10 mu=(6, 2, 1, 1) zero-wt-basis=42 inv=1 gen(div+Omega)=1 gen(div only)=0
+k=2 d=10 mu=(5, 5, 0, 0) zero-wt-basis=6 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=10 mu=(5, 4, 1, 0) zero-wt-basis=42 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=10 mu=(5, 3, 2, 0) zero-wt-basis=108 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=10 mu=(5, 3, 1, 1) zero-wt-basis=228 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=10 mu=(5, 2, 2, 1) zero-wt-basis=390 inv=4 gen(div+Omega)=4 gen(div only)=1
+k=2 d=10 mu=(4, 4, 2, 0) zero-wt-basis=183 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=10 mu=(4, 4, 1, 1) zero-wt-basis=390 inv=4 gen(div+Omega)=4 gen(div only)=3
+k=2 d=10 mu=(4, 3, 3, 0) zero-wt-basis=288 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=10 mu=(4, 3, 2, 1) zero-wt-basis=1068 inv=6 gen(div+Omega)=6 gen(div only)=3
+k=2 d=10 mu=(4, 2, 2, 2) zero-wt-basis=1845 inv=9 gen(div+Omega)=9 gen(div only)=3
+k=2 d=10 mu=(3, 3, 3, 1) zero-wt-basis=1728 inv=6 gen(div+Omega)=6 gen(div only)=3
+k=2 d=10 mu=(3, 3, 2, 2) zero-wt-basis=3000 inv=12 gen(div+Omega)=12 gen(div only)=6
+== k=2 d=10: dominant-weight totals inv=53 gen=53 divisor-only=25  (1776.5s)
+k=2 d=12 mu=(6, 6, 0, 0) zero-wt-basis=1 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=12 mu=(6, 5, 1, 0) zero-wt-basis=6 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=12 mu=(6, 4, 2, 0) zero-wt-basis=21 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=12 mu=(6, 4, 1, 1) zero-wt-basis=42 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=12 mu=(6, 3, 3, 0) zero-wt-basis=32 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=12 mu=(6, 3, 2, 1) zero-wt-basis=108 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=12 mu=(6, 2, 2, 2) zero-wt-basis=183 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=12 mu=(5, 5, 2, 0) zero-wt-basis=42 inv=1 gen(div+Omega)=1 gen(div only)=1
+k=2 d=12 mu=(5, 5, 1, 1) zero-wt-basis=90 inv=3 gen(div+Omega)=3 gen(div only)=3
+k=2 d=12 mu=(5, 4, 3, 0) zero-wt-basis=108 inv=2 gen(div+Omega)=2 gen(div only)=1
+k=2 d=12 mu=(5, 4, 2, 1) zero-wt-basis=390 inv=4 gen(div+Omega)=4 gen(div only)=3
+k=2 d=12 mu=(5, 3, 3, 1) zero-wt-basis=624 inv=6 gen(div+Omega)=6 gen(div only)=3
+[run stopped by operator during k=2 d=12 (too slow); k=2 verified for d=0..10, 0 mismatches]

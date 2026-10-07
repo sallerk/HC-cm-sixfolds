@@ -1,0 +1,11 @@
+cases 80
+cases by factor degrees [((1, 1, 4), 2), ((1, 5), 3), ((2, 2, 2), 3), ((2, 4), 3), ((3, 3), 3), ((6,), 66)]
+sextic-field cases 66 = Q(zeta_m)^+ cases 14 ['Q(z13)+', 'Q(z21)+', 'Q(z28)+', 'Q(z36)+'] + random sextic cases 52 (distinct fields: 48)
+product cases 14
+d values [1, 2, 3, 5, 6, 7, 11, 13, 15, 19, 23, 30, 31, 35, 39, 47, 55, 57, 59, 71]  max d_F 2699728625
+witnesses 1600 of 1600 sign patterns
+witnesses by search phase [('random', 555), ('sunit', 1045)]
+witnesses needing auxiliary primes 14  (number of auxiliary primes, count): [(1, 6), (2, 8)]
+forced primes 118  with t_p = 1: 118  with t_p = -1: 0
+S-unit-phase patterns 1045 ; correctly-signed random a tried before (none split): min 0 median 6 max 38
+37 cases; split fraction among correctly-signed random a (random-phase patterns): min 0.066 median 0.293 max 0.505

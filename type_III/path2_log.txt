@@ -1,0 +1,19 @@
+done 2
+done 3
+done 5
+done 7
+done 11
+done 13
+done 17
+done 19
+done 23
+done 30
+done 42
+done 66
+done 70
+done 78
+done 102
+done 105
+done 110
+done 130
+path2: 21168 cases; split 1180; formula agrees 21168/21168; sig(6,6) in 21168

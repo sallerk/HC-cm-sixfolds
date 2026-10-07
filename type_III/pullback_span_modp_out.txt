@@ -1,0 +1,12 @@
+a=-1 c=-1 q=(1, 1, 0) b=2 P=10009 k=1: dim Sym^6(U^k) = 7, rank mod P of pullback span = 7
+a=-1 c=-1 q=(1, 1, 0) b=2 P=10009 k=2: dim Sym^6(U^k) = 84, rank mod P of pullback span = 84
+a=-1 c=-1 q=(1, 1, 0) b=2 P=10009 k=3: dim Sym^6(U^k) = 462, rank mod P of pullback span = 462
+a=-2 c=-5 q=(1, 0, 1) b=12 P=10009 k=1: dim Sym^6(U^k) = 7, rank mod P of pullback span = 7
+a=-2 c=-5 q=(1, 0, 1) b=12 P=10009 k=2: dim Sym^6(U^k) = 84, rank mod P of pullback span = 84
+a=-2 c=-5 q=(1, 0, 1) b=12 P=10009 k=3: dim Sym^6(U^k) = 462, rank mod P of pullback span = 462
+a=-3 c=-10 q=(0, 1, 1) b=40 P=10009 k=1: dim Sym^6(U^k) = 7, rank mod P of pullback span = 7
+a=-3 c=-10 q=(0, 1, 1) b=40 P=10009 k=2: dim Sym^6(U^k) = 84, rank mod P of pullback span = 84
+a=-3 c=-10 q=(0, 1, 1) b=40 P=10009 k=3: dim Sym^6(U^k) = 462, rank mod P of pullback span = 462
+a=-7 c=-15 q=(1, 2, 1) b=172 P=10007 k=1: dim Sym^6(U^k) = 7, rank mod P of pullback span = 7
+a=-7 c=-15 q=(1, 2, 1) b=172 P=10007 k=2: dim Sym^6(U^k) = 84, rank mod P of pullback span = 84
+a=-7 c=-15 q=(1, 2, 1) b=172 P=10007 k=3: dim Sym^6(U^k) = 462, rank mod P of pullback span = 462

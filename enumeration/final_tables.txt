@@ -1,0 +1,232 @@
+==============================================================================================================
+g=1  W-classes of G>=<rho>: 1 (transitive 1) | (G,Phi) G-orbit cases: 1 (N_W(G)-classes 1) | reduced: 1 (N-classes 1)
+  ALL      d-dist {0: 1} ; strict KEY TEST pass 1 / fail 0
+  REDUCED  d-dist {0: 1} ; strict KEY TEST pass 1 / fail 0
+  non-reduced: 0 cases, dimMT(reduced model)=dimMT ok for 0 ; strict failures 0, all of whose reduced models pass: True
+==============================================================================================================
+g=2  W-classes of G>=<rho>: 5 (transitive 3) | (G,Phi) G-orbit cases: 7 (N_W(G)-classes 5) | reduced: 3 (N-classes 3)
+  ALL      d-dist {0: 3, 1: 4} ; strict KEY TEST pass 7 / fail 0
+  REDUCED  d-dist {0: 3} ; strict KEY TEST pass 3 / fail 0
+  non-reduced: 4 cases, dimMT(reduced model)=dimMT ok for 4 ; strict failures 0, all of whose reduced models pass: True
+==============================================================================================================
+g=3  W-classes of G>=<rho>: 11 (transitive 4) | (G,Phi) G-orbit cases: 20 (N_W(G)-classes 14) | reduced: 7 (N-classes 7)
+  ALL      d-dist {0: 7, 1: 5, 2: 8} ; strict KEY TEST pass 16 / fail 4
+  REDUCED  d-dist {0: 7} ; strict KEY TEST pass 7 / fail 0
+  non-reduced: 13 cases, dimMT(reduced model)=dimMT ok for 13 ; strict failures 4, all of whose reduced models pass: True
+==============================================================================================================
+g=4  W-classes of G>=<rho>: 99 (transitive 38) | (G,Phi) G-orbit cases: 214 (N_W(G)-classes 126) | reduced: 101 (N-classes 78)
+  ALL      d-dist {0: 95, 1: 29, 2: 58, 3: 32} ; strict KEY TEST pass 159 / fail 55
+  REDUCED  d-dist {0: 95, 1: 6} ; strict KEY TEST pass 101 / fail 0
+  non-reduced: 113 cases, dimMT(reduced model)=dimMT ok for 113 ; strict failures 55, all of whose reduced models pass: True
+  reduced d>=1 by (factor dims, d, explanation tier):
+    (4,)           d=1  strict       G-orbit cases   2   N-classes   2
+    (3, 1)         d=1  strict       G-orbit cases   4   N-classes   2
+==============================================================================================================
+g=5  W-classes of G>=<rho>: 197 (transitive 10) | (G,Phi) G-orbit cases: 578 (N_W(G)-classes 315) | reduced: 157 (N-classes 124)
+  ALL      d-dist {0: 136, 1: 139, 2: 125, 3: 117, 4: 61} ; strict KEY TEST pass 371 / fail 207
+  REDUCED  d-dist {0: 136, 1: 21} ; strict KEY TEST pass 147 / fail 10
+  non-reduced: 421 cases, dimMT(reduced model)=dimMT ok for 421 ; strict failures 197, all of whose reduced models pass: True
+  reduced d>=1 by (factor dims, d, explanation tier):
+    (4, 1)         d=1  IQmult<=6    G-orbit cases  10   N-classes   5
+    (4, 1)         d=1  strict       G-orbit cases   5   N-classes   5
+    (3, 1, 1)      d=1  strict       G-orbit cases   6   N-classes   3
+  REDUCED STRICT FAILURES (one entry per N_W(G)-class; 10 G-orbit cases in 5 N-classes):
+    gid=16 |G|=8 orbits(sizes)=[8, 2] TI=['8T3', '2T1'] Phi=[0, 1, 2, 4, 8] dimMT=5 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, -2]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2}, {'0': -2}, {'0': 2}, {'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 2, 3, 5, 6, 7, 8], [4, 9]]
+       gens=[[2, 3, 0, 1, 4, 7, 8, 5, 6, 9], [3, 2, 1, 0, 4, 8, 7, 6, 5, 9], [5, 6, 7, 8, 9, 0, 1, 2, 3, 4]]
+    gid=26 |G|=8 orbits(sizes)=[8, 2] TI=['8T2', '2T1'] Phi=[0, 1, 2, 4, 8] dimMT=5 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, -2]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2}, {'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 2, 3, 5, 6, 7, 8], [4, 9]]
+       gens=[[3, 0, 1, 2, 4, 8, 5, 6, 7, 9], [5, 6, 7, 8, 9, 0, 1, 2, 3, 4]]
+    gid=70 |G|=16 orbits(sizes)=[8, 2] TI=['8T9', '2T1'] Phi=[0, 1, 2, 4, 8] dimMT=5 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, -2]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2}, {'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 2, 3, 5, 6, 7, 8], [4, 9]]
+       gens=[[0, 1, 3, 2, 4, 5, 6, 8, 7, 9], [1, 0, 3, 2, 4, 6, 5, 8, 7, 9], [2, 3, 0, 1, 4, 7, 8, 5, 6, 9], [5, 6, 7, 8, 9, 0, 1, 2, 3, 4]]
+    gid=75 |G|=24 orbits(sizes)=[8, 2] TI=['8T13', '2T1'] Phi=[0, 1, 2, 4, 8] dimMT=5 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, -2]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 2, 3, 5, 6, 7, 8], [4, 9]]
+       gens=[[2, 0, 1, 3, 4, 7, 5, 6, 8, 9], [3, 0, 2, 1, 4, 8, 5, 7, 6, 9], [5, 6, 7, 8, 9, 0, 1, 2, 3, 4]]
+    gid=136 |G|=48 orbits(sizes)=[8, 2] TI=['8T24', '2T1'] Phi=[0, 1, 2, 4, 8] dimMT=5 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, -2]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 2, 3, 5, 6, 7, 8], [4, 9]]
+       gens=[[0, 1, 3, 2, 4, 5, 6, 8, 7, 9], [0, 3, 2, 1, 4, 5, 8, 7, 6, 9], [2, 1, 0, 3, 4, 7, 6, 5, 8, 9], [5, 6, 7, 8, 9, 0, 1, 2, 3, 4]]
+==============================================================================================================
+g=6  W-classes of G>=<rho>: 2455 (transitive 142) | (G,Phi) G-orbit cases: 7401 (N_W(G)-classes 3791) | reduced: 2870 (N-classes 1965)
+  ALL      d-dist {0: 2722, 1: 1244, 2: 1601, 3: 969, 4: 660, 5: 205} ; strict KEY TEST pass 4960 / fail 2441
+  REDUCED  d-dist {0: 2722, 1: 110, 2: 38} ; strict KEY TEST pass 2806 / fail 64
+  non-reduced: 4531 cases, dimMT(reduced model)=dimMT ok for 4531 ; strict failures 2377, all of whose reduced models pass: True
+  reduced d>=1 by (factor dims, d, explanation tier):
+    (6,)           d=1  strict       G-orbit cases  21   N-classes  15
+    (5, 1)         d=1  needs D=8    G-orbit cases  10   N-classes   5
+    (5, 1)         d=1  strict       G-orbit cases  14   N-classes   5
+    (4, 1, 1)      d=1  IQmult<=6    G-orbit cases  16   N-classes   8
+    (4, 1, 1)      d=1  strict       G-orbit cases   7   N-classes   7
+    (4, 1, 1)      d=2  needs D=8    G-orbit cases  12   N-classes   3
+    (4, 2)         d=1  strict       G-orbit cases   8   N-classes   8
+    (4, 2)         d=2  needs D=8    G-orbit cases  22   N-classes   8
+    (3, 1, 1, 1)   d=1  strict       G-orbit cases   8   N-classes   4
+    (3, 2, 1)      d=1  strict       G-orbit cases  16   N-classes   8
+    (3, 3)         d=1  strict       G-orbit cases  10   N-classes   5
+    (2, 2, 2)      d=2  needs D=8    G-orbit cases   4   N-classes   1
+  REDUCED STRICT FAILURES (one entry per N_W(G)-class; 64 G-orbit cases in 25 N-classes):
+    gid=49 |G|=8 orbits(sizes)=[8, 4] TI=['8T2', '4T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, -1, 0, -2, 1, -1], [0, 0, 1, 1, -1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2}, {'0': 2}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=None (qrank 0) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 3, 8, 9]]
+       gens=[[4, 5, 9, 2, 1, 0, 10, 11, 3, 8, 7, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=51 |G|=8 orbits(sizes)=[8, 2, 2] TI=['8T3', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 0, -1, 1, 0, 1], [0, 1, -1, -1, 1, 0]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2}, {'0': -2, '2': 1}, {'0': 2}, {'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1), (0, 2)]
+       IQ-multiplicity Dmin=None (qrank 2) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[2, 6], [4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[1, 0, 2, 9, 5, 4, 7, 6, 8, 3, 11, 10], [5, 4, 2, 3, 1, 0, 11, 10, 8, 9, 7, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=52 |G|=8 orbits(sizes)=[8, 2, 2] TI=['8T2', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, -1, -1], [0, 0, 1, -1, -1, -1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2, '2': 1}, {'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1), (0, 2)]
+       IQ-multiplicity Dmin=None (qrank 2) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[2, 6], [4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[4, 5, 2, 9, 1, 0, 10, 11, 8, 3, 7, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=59 |G|=8 orbits(sizes)=[8, 4] TI=['8T2', '4T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, 1, 1], [0, 0, 1, -1, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=None (qrank 0) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 3, 8, 9]]
+       gens=[[11, 10, 9, 2, 1, 0, 5, 4, 3, 8, 7, 6], [1, 0, 2, 3, 5, 4, 7, 6, 8, 9, 11, 10]]
+    gid=64 |G|=8 orbits(sizes)=[4, 4, 4] TI=['4T3', '4T3', '4T3'] Phi=[0, 1, 2, 3, 4, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 0, -1, -1, 1, 0], [0, 1, -1, 1, 0, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [] ; G-maps O_i->O_j (E_j subfield of E_i): []
+       IQ-multiplicity Dmin=None (qrank 0) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[4, 8]]
+       orbits=[[0, 1, 6, 7], [2, 3, 8, 9], [4, 5, 10, 11]]
+       gens=[[0, 7, 3, 2, 4, 11, 6, 1, 9, 8, 10, 5], [1, 0, 2, 9, 5, 4, 7, 6, 8, 3, 11, 10], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=68 |G|=10 orbits(sizes)=[10, 2] TI=['10T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, -3, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 3, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=8 (qrank 1) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[2, 8]]
+       orbits=[[0, 1, 2, 3, 5, 6, 7, 8, 9, 11], [4, 10]]
+       gens=[[2, 5, 3, 1, 4, 0, 8, 11, 9, 7, 10, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=238 |G|=16 orbits(sizes)=[8, 2, 2] TI=['8T3', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'1': 1}, {'0': 2}, {'0': -2}, {'0': 2}, {'0': 2, '2': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 2)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[0, 1, 8, 3, 4, 5, 6, 7, 2, 9, 10, 11], [1, 0, 2, 3, 5, 4, 7, 6, 8, 9, 11, 10], [5, 4, 2, 3, 1, 0, 11, 10, 8, 9, 7, 6], [6, 7, 2, 9, 10, 11, 0, 1, 8, 3, 4, 5]]
+    gid=270 |G|=16 orbits(sizes)=[8, 2, 2] TI=['8T9', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, -1, -1], [0, 0, 1, -1, -1, -1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2, '2': 1}, {'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1), (0, 2)]
+       IQ-multiplicity Dmin=None (qrank 2) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[2, 6], [4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[0, 1, 2, 3, 5, 4, 6, 7, 8, 9, 11, 10], [1, 0, 2, 3, 5, 4, 7, 6, 8, 9, 11, 10], [5, 4, 2, 9, 1, 0, 11, 10, 8, 3, 7, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=274 |G|=16 orbits(sizes)=[8, 4] TI=['8T10', '4T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, 1, 1], [0, 0, 1, -1, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=None (qrank 0) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 3, 8, 9]]
+       gens=[[10, 11, 9, 2, 1, 0, 4, 5, 3, 8, 7, 6], [0, 1, 2, 3, 5, 4, 6, 7, 8, 9, 11, 10], [1, 0, 2, 3, 5, 4, 7, 6, 8, 9, 11, 10], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=283 |G|=16 orbits(sizes)=[8, 4] TI=['8T9', '4T3'] Phi=[0, 1, 2, 4, 9, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, -1, 0, 2, 1, -1], [0, 0, 1, -1, -1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2}, {'0': 2}] ; G-maps O_i->O_j (E_j subfield of E_i): []
+       IQ-multiplicity Dmin=None (qrank 0) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 3, 8, 9]]
+       gens=[[0, 1, 3, 2, 5, 4, 6, 7, 9, 8, 11, 10], [1, 0, 8, 9, 5, 4, 7, 6, 2, 3, 11, 10], [5, 4, 2, 9, 1, 0, 11, 10, 8, 3, 7, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=286 |G|=16 orbits(sizes)=[8, 4] TI=['8T10', '4T3'] Phi=[0, 1, 2, 4, 9, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, -1, 0, -2, -1, 1], [0, 0, 1, -1, -1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [] ; G-maps O_i->O_j (E_j subfield of E_i): []
+       IQ-multiplicity Dmin=None (qrank 0) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 3, 8, 9]]
+       gens=[[4, 5, 9, 2, 1, 0, 10, 11, 3, 8, 7, 6], [0, 1, 3, 2, 10, 11, 6, 7, 9, 8, 4, 5], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=288 |G|=16 orbits(sizes)=[8, 2, 2] TI=['8T2', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 2}, {'1': 1}, {'0': 2, '2': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 2)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[4, 5, 2, 3, 1, 0, 10, 11, 8, 9, 7, 6], [0, 1, 8, 3, 4, 5, 6, 7, 2, 9, 10, 11], [6, 7, 2, 9, 10, 11, 0, 1, 8, 3, 4, 5]]
+    gid=289 |G|=16 orbits(sizes)=[8, 2, 2] TI=['8T9', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, -2, 0, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'2': 1}, {'0': 2}, {'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[0, 1, 2, 9, 5, 4, 6, 7, 8, 3, 11, 10], [1, 0, 2, 3, 5, 4, 7, 6, 8, 9, 11, 10], [5, 4, 2, 9, 1, 0, 11, 10, 8, 3, 7, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=290 |G|=16 orbits(sizes)=[8, 2, 2] TI=['8T9', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, -2, 0, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'2': 1}, {'0': 2}, {'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[0, 1, 2, 9, 5, 4, 6, 7, 8, 3, 11, 10], [1, 0, 2, 3, 5, 4, 7, 6, 8, 9, 11, 10], [5, 4, 2, 3, 1, 0, 11, 10, 8, 9, 7, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=291 |G|=16 orbits(sizes)=[8, 4] TI=['8T9', '4T3'] Phi=[0, 1, 2, 3, 5, 10] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 0, -1, -1, 0, 1], [0, 1, -1, 1, 1, 0]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [] ; G-maps O_i->O_j (E_j subfield of E_i): []
+       IQ-multiplicity Dmin=None (qrank 0) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 3, 8, 9]]
+       gens=[[0, 7, 3, 2, 10, 5, 6, 1, 9, 8, 4, 11], [1, 0, 2, 9, 5, 4, 7, 6, 8, 3, 11, 10], [5, 4, 2, 3, 1, 0, 11, 10, 8, 9, 7, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=293 |G|=16 orbits(sizes)=[4, 8] TI=['4T3', '8T10'] Phi=[0, 1, 2, 4, 5, 9] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, -1, 1, 0, 0], [0, 2, -1, 1, -1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [] ; G-maps O_i->O_j (E_j subfield of E_i): []
+       IQ-multiplicity Dmin=None (qrank 0) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[4, 8]]
+       orbits=[[0, 1, 6, 7], [2, 3, 4, 5, 8, 9, 10, 11]]
+       gens=[[0, 7, 10, 11, 3, 2, 6, 1, 4, 5, 9, 8], [1, 0, 2, 3, 5, 4, 7, 6, 8, 9, 11, 10], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=297 |G|=20 orbits(sizes)=[10, 2] TI=['10T3', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, -3, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 3, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=8 (qrank 1) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[2, 8]]
+       orbits=[[0, 1, 2, 3, 5, 6, 7, 8, 9, 11], [4, 10]]
+       gens=[[2, 5, 3, 1, 4, 0, 8, 11, 9, 7, 10, 6], [0, 3, 5, 1, 4, 2, 6, 9, 11, 7, 10, 8], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=797 |G|=32 orbits(sizes)=[8, 2, 2] TI=['8T9', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'1': 1}, {'0': 2}, {'0': 2, '2': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 2)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[0, 1, 2, 3, 5, 4, 6, 7, 8, 9, 11, 10], [0, 1, 8, 3, 4, 5, 6, 7, 2, 9, 10, 11], [1, 0, 2, 3, 5, 4, 7, 6, 8, 9, 11, 10], [5, 4, 2, 3, 1, 0, 11, 10, 8, 9, 7, 6], [6, 7, 2, 9, 10, 11, 0, 1, 8, 3, 4, 5]]
+    gid=798 |G|=32 orbits(sizes)=[8, 4] TI=['8T18', '4T3'] Phi=[0, 1, 2, 3, 4, 11] dimMT=5 d=2
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, -1, -1], [0, 0, 1, -1, -1, -1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [] ; G-maps O_i->O_j (E_j subfield of E_i): []
+       IQ-multiplicity Dmin=None (qrank 0) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[4, 8]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 3, 8, 9]]
+       gens=[[0, 1, 2, 3, 5, 4, 6, 7, 8, 9, 11, 10], [0, 1, 3, 2, 10, 11, 6, 7, 9, 8, 4, 5], [1, 0, 2, 3, 5, 4, 7, 6, 8, 9, 11, 10], [5, 4, 2, 9, 1, 0, 11, 10, 8, 3, 7, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=812 |G|=40 orbits(sizes)=[10, 2] TI=['10T5', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, -3, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 3, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=8 (qrank 1) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[2, 8]]
+       orbits=[[0, 1, 2, 3, 5, 6, 7, 8, 9, 11], [4, 10]]
+       gens=[[2, 5, 3, 1, 4, 0, 8, 11, 9, 7, 10, 6], [0, 5, 1, 2, 4, 3, 6, 11, 7, 8, 10, 9], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=852 |G|=48 orbits(sizes)=[8, 2, 2] TI=['8T13', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'1': 1}, {'0': 2, '2': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 2)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[1, 4, 2, 3, 0, 5, 7, 10, 8, 9, 6, 11], [5, 1, 2, 3, 0, 4, 11, 7, 8, 9, 6, 10], [0, 1, 8, 3, 4, 5, 6, 7, 2, 9, 10, 11], [6, 7, 2, 9, 10, 11, 0, 1, 8, 3, 4, 5]]
+    gid=861 |G|=48 orbits(sizes)=[8, 2, 2] TI=['8T24', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, -2, 0, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'2': 1}, {'0': 2, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[0, 1, 2, 9, 5, 4, 6, 7, 8, 3, 11, 10], [0, 4, 2, 9, 1, 5, 6, 10, 8, 3, 7, 11], [5, 1, 2, 9, 4, 0, 11, 7, 8, 3, 10, 6], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=1551 |G|=96 orbits(sizes)=[8, 2, 2] TI=['8T24', '2T1', '2T1'] Phi=[0, 1, 2, 3, 4, 11] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 0, -2, 1, 1]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'1': 1}, {'0': 2, '2': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 2)]
+       IQ-multiplicity Dmin=6 (qrank 1) ; general CM-field Dmin=6, fields used (index [G:M]=[K':Q], D)=[[2, 6]]
+       orbits=[[0, 1, 4, 5, 6, 7, 10, 11], [2, 8], [3, 9]]
+       gens=[[0, 1, 2, 3, 5, 4, 6, 7, 8, 9, 11, 10], [0, 1, 8, 3, 4, 5, 6, 7, 2, 9, 10, 11], [0, 4, 2, 3, 1, 5, 6, 10, 8, 9, 7, 11], [5, 1, 2, 3, 4, 0, 11, 7, 8, 9, 10, 6], [6, 7, 2, 9, 10, 11, 0, 1, 8, 3, 4, 5]]
+    gid=1564 |G|=120 orbits(sizes)=[10, 2] TI=['10T11', '2T1'] Phi=[0, 1, 2, 3, 5, 10] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, 1, -3]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 3, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=8 (qrank 1) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[2, 8]]
+       orbits=[[0, 1, 2, 3, 4, 6, 7, 8, 9, 10], [5, 11]]
+       gens=[[3, 0, 1, 4, 2, 5, 9, 6, 7, 10, 8, 11], [4, 3, 1, 0, 2, 5, 10, 9, 7, 6, 8, 11], [6, 7, 8, 9, 10, 11, 0, 1, 2, 3, 4, 5]]
+    gid=2059 |G|=240 orbits(sizes)=[10, 2] TI=['10T22', '2T1'] Phi=[0, 1, 2, 3, 5, 10] dimMT=6 d=1
+       Lambda_U (HNF, coords = points 0..g-1, [i+g] = -[i]) = [[1, 1, 1, 1, 1, -3]] ; strict admissible = [] ; rank Lambda_W(strict) = 0
+       imag.quadratic K's: signature excess t_i=2|Phi cap B_i|-|B_i| per orbit: [{'0': 3, '1': 1}] ; G-maps O_i->O_j (E_j subfield of E_i): [(0, 1)]
+       IQ-multiplicity Dmin=8 (qrank 1) ; general CM-field Dmin=8, fields used (index [G:M]=[K':Q], D)=[[2, 8]]
+       orbits=[[0, 1, 2, 3, 4, 6, 7, 8, 9, 10], [5, 11]]
+       gens=[[0, 2, 3, 4, 1, 5, 6, 8, 9, 10, 7, 11], [10, 8, 7, 6, 9, 11, 4, 2, 1, 0, 3, 5]]

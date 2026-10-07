@@ -1,0 +1,33 @@
+Re-run log -- split_lemma
+=========================
+Date: 2026-10-06. Windows 10, one process at a time, OMP_NUM_THREADS=1.
+Software: Python 3.12.9, cypari 2.5.6 (PARI 2.15.4), sympy 1.13.1, mpmath 1.3.0.
+All commands were run from this folder with the staged scripts. Re-run outputs were first written to a
+scratch subfolder, compared with the stored files and then deleted; the stored files are kept unchanged.
+
+1. python verify_split.py > rerun/verify_split.out 2>&1; echo EXIT $? >> rerun/verify_split.out
+   Run twice. Wall-clock 23.8 s (second run; the script's own timer gave 23.4 s and 23.6 s; stored
+   run: 20.8 s).
+   verify_split.out: identical to the stored file except the time at the end of the last line
+   ("time 20.8s" stored, "time 23.4s" / "time 23.6s" re-run). 80 cases, 80 lines "witnesses 20/20",
+   "identity ok: True" in all 80, the "forced primes" column sums to 118, last line
+   "cases 80  all witnesses found: True  forced identity holds everywhere: True".
+   split_witnesses.json: byte-identical to the stored file in both runs (fixed seed 20261004).
+2. python recheck_split.py > rerun/recheck_split.out 2>&1; echo EXIT $? >> rerun/recheck_split.out
+   Wall-clock 7.2 s. Identical to the stored file: "cases 80 witnesses rechecked 1600 problems 0", "EXIT 0".
+3. python forced_nontrivial.py > rerun/forced_nontrivial.out
+   Wall-clock 0.1 s. Byte-identical to the stored forced_nontrivial.out (first produced by an inline
+   command with the same code): "forced primes 118  non-trivial (K_p a field inside every F_v): 17".
+4. python witness_stats.py > witness_stats.out
+   Wall-clock 0.1 s. New file (no earlier stored output). It gives 1600 of 1600 witnesses; search
+   phases random 555 / S-unit 1045; 14 witnesses with auxiliary primes (6 with one, 8 with two);
+   118 forced primes, all with t_p = 1; and the line
+   "37 cases; split fraction among correctly-signed random a (random-phase patterns): min 0.066 median 0.293 max 0.505",
+   which is the output of the earlier inline command.
+   It also shows that the 66 sextic-field cases are 14 cases with F = Q(zeta_m)^+ and 52 (not 60)
+   cases with a random totally real sextic F (48 distinct fields).
+5. recheck_split.py, forced_nontrivial.py and witness_stats.py were also run from the parent folder
+   (path check): same output.
+
+Edits to the copied scripts: comments and file paths only (output and input files are located
+relative to the script's own folder). forced_nontrivial.py and witness_stats.py are new.

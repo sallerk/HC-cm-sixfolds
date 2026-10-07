@@ -1,0 +1,2 @@
+hilbert symbols checked 4000 mismatches 0
+norm rows checked 1800 split-decision mismatches 0 Thm3(Sage quaternion) mismatches 0

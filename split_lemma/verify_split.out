@@ -1,0 +1,83 @@
+PARI stack size set to 2000000000 bytes, maximum size set to 2000000000
+Q(z21)+                      d=  3 dF=      453789 witnesses 20/20 split-fraction 20/158  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+Q(z21)+                      d=  7 dF=      453789 witnesses 20/20 split-fraction 21/160  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+Q(z13)+                      d=  1 dF=      371293 witnesses 20/20 split-fraction 71/147  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q(z13)+                      d=  2 dF=      371293 witnesses 20/20 split-fraction 20/138  forced primes 0 (identity ok: True)  #p with t_p=-1: 1
+Q(z13)+                      d=  3 dF=      371293 witnesses 20/20 split-fraction 62/138  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+Q(z13)+                      d=  7 dF=      371293 witnesses 20/20 split-fraction 21/142  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q(z13)+                      d= 11 dF=      371293 witnesses 20/20 split-fraction 20/164  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q(z13)+                      d= 13 dF=      371293 witnesses 20/20 split-fraction 58/131  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q(z28)+                      d=  1 dF=     1075648 witnesses 20/20 split-fraction 22/125  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q(z28)+                      d=  7 dF=     1075648 witnesses 20/20 split-fraction 25/141  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q(z28)+                      d= 15 dF=     1075648 witnesses 20/20 split-fraction 21/127  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+Q(z36)+                      d=  1 dF=     1259712 witnesses 20/20 split-fraction 34/146  forced primes 0 (identity ok: True)  #p with t_p=-1: 1
+Q(z36)+                      d=  3 dF=     1259712 witnesses 20/20 split-fraction 39/139  forced primes 0 (identity ok: True)  #p with t_p=-1: 1
+Q(z36)+                      d=  5 dF=     1259712 witnesses 20/20 split-fraction 47/114  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+Q(z9)+ x Q(z7)+              d=  1 dF=        3969 witnesses 20/20 split-fraction 54/156  forced primes 0 (identity ok: True)  #p with t_p=-1: 1
+Q(z9)+ x Q(z7)+              d=  3 dF=        3969 witnesses 20/20 split-fraction 59/170  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q(z9)+ x Q(z7)+              d= 23 dF=        3969 witnesses 20/20 split-fraction 43/162  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+Q(z5)+ x Q(z16)+             d=  2 dF=       10240 witnesses 20/20 split-fraction 26/146  forced primes 0 (identity ok: True)  #p with t_p=-1: 1
+Q(z5)+ x Q(z16)+             d=  5 dF=       10240 witnesses 20/20 split-fraction 24/135  forced primes 0 (identity ok: True)  #p with t_p=-1: 1
+Q(z5)+ x Q(z16)+             d= 31 dF=       10240 witnesses 20/20 split-fraction 51/125  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+Q(z5)+ x Q(z8)+ x Q(z12)+    d=  1 dF=         480 witnesses 20/20 split-fraction 23/141  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q(z5)+ x Q(z8)+ x Q(z12)+    d=  6 dF=         480 witnesses 20/20 split-fraction 48/137  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q(z5)+ x Q(z8)+ x Q(z12)+    d= 35 dF=         480 witnesses 20/20 split-fraction 27/145  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+Q x Q(z11)+                  d=  3 dF=       14641 witnesses 20/20 split-fraction 42/123  forced primes 0 (identity ok: True)  #p with t_p=-1: 1
+Q x Q(z11)+                  d= 19 dF=       14641 witnesses 20/20 split-fraction 39/123  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q x Q(z11)+                  d= 39 dF=       14641 witnesses 20/20 split-fraction 39/122  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+Q x Q x Q(z15)+              d=  1 dF=        1125 witnesses 20/20 split-fraction 59/119  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+Q x Q x Q(z15)+              d= 47 dF=        1125 witnesses 20/20 split-fraction 20/118  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+random sextic #0             d= 71 dF=    98143413 witnesses 20/20 split-fraction 20/206  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #1             d=  6 dF=  2699728625 witnesses 20/20 split-fraction 20/228  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #2             d= 39 dF=     7674048 witnesses 20/20 split-fraction 20/185  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #3             d= 35 dF=    59150473 witnesses 20/20 split-fraction 20/178  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #4             d= 35 dF=     7319833 witnesses 20/20 split-fraction 20/167  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #5             d= 55 dF=      980125 witnesses 20/20 split-fraction 60/135  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #6             d= 15 dF=    31912216 witnesses 20/20 split-fraction 20/215  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #7             d=  6 dF=    15593108 witnesses 20/20 split-fraction 20/162  forced primes 0 (identity ok: True)  #p with t_p=-1: 3
+random sextic #8             d= 30 dF=   215264573 witnesses 20/20 split-fraction 20/191  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #9             d= 35 dF=    98143413 witnesses 20/20 split-fraction 20/225  forced primes 3 (identity ok: True)  #p with t_p=-1: 3
+random sextic #10            d=  1 dF=      592661 witnesses 20/20 split-fraction 59/121  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+random sextic #11            d=  1 dF=   566910929 witnesses 20/20 split-fraction 59/169  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #12            d= 23 dF=    71162176 witnesses 20/20 split-fraction 20/189  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+random sextic #13            d= 35 dF=    14395604 witnesses 20/20 split-fraction 20/157  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+random sextic #14            d= 39 dF=   746377581 witnesses 20/20 split-fraction 38/225  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #15            d=  7 dF=      592661 witnesses 20/20 split-fraction 20/137  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+random sextic #16            d= 11 dF=   832912329 witnesses 20/20 split-fraction 21/179  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #17            d= 59 dF=    76981061 witnesses 20/20 split-fraction 20/194  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+random sextic #18            d= 71 dF=     7319833 witnesses 20/20 split-fraction 20/185  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+random sextic #19            d= 11 dF=   221874657 witnesses 20/20 split-fraction 20/202  forced primes 2 (identity ok: True)  #p with t_p=-1: 3
+random sextic #20            d= 71 dF=    23772069 witnesses 20/20 split-fraction 20/153  forced primes 2 (identity ok: True)  #p with t_p=-1: 3
+random sextic #21            d= 59 dF=    90593533 witnesses 20/20 split-fraction 20/169  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #22            d=  2 dF=     2782261 witnesses 20/20 split-fraction 20/156  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+random sextic #23            d= 55 dF=   195331805 witnesses 20/20 split-fraction 32/201  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+random sextic #24            d= 31 dF=     7281497 witnesses 20/20 split-fraction 20/169  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+random sextic #25            d=  5 dF=    14505253 witnesses 20/20 split-fraction 20/171  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #26            d= 35 dF=    27258949 witnesses 20/20 split-fraction 31/186  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #27            d=  6 dF=    54640361 witnesses 20/20 split-fraction 20/187  forced primes 0 (identity ok: True)  #p with t_p=-1: 1
+random sextic #28            d=  1 dF=   730888001 witnesses 20/20 split-fraction 60/214  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+random sextic #29            d=  3 dF=    26426137 witnesses 20/20 split-fraction 41/150  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+random sextic #30            d= 31 dF=  1243468337 witnesses 20/20 split-fraction 20/243  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+random sextic #31            d= 55 dF=    33259933 witnesses 20/20 split-fraction 20/182  forced primes 3 (identity ok: True)  #p with t_p=-1: 3
+random sextic #32            d= 71 dF=    73841725 witnesses 20/20 split-fraction 20/175  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #33            d= 30 dF=   124152988 witnesses 20/20 split-fraction 20/204  forced primes 2 (identity ok: True)  #p with t_p=-1: 3
+random sextic #34            d=  3 dF=    58419353 witnesses 20/20 split-fraction 20/206  forced primes 0 (identity ok: True)  #p with t_p=-1: 1
+random sextic #35            d= 35 dF=    10783541 witnesses 20/20 split-fraction 20/166  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+random sextic #36            d=  7 dF=   369447824 witnesses 20/20 split-fraction 20/204  forced primes 2 (identity ok: True)  #p with t_p=-1: 3
+random sextic #37            d=  1 dF=    67264769 witnesses 20/20 split-fraction 20/221  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #38            d=  1 dF=    43116820 witnesses 20/20 split-fraction 50/149  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+random sextic #39            d= 55 dF=    11343184 witnesses 20/20 split-fraction 20/163  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+random sextic #40            d= 23 dF=   558384436 witnesses 20/20 split-fraction 54/204  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+random sextic #41            d= 57 dF=    24785557 witnesses 20/20 split-fraction 20/193  forced primes 0 (identity ok: True)  #p with t_p=-1: 3
+random sextic #42            d= 71 dF=    29156544 witnesses 20/20 split-fraction 21/211  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #43            d= 55 dF=   219121697 witnesses 20/20 split-fraction 20/199  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #44            d= 59 dF=     2782261 witnesses 20/20 split-fraction 64/154  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #45            d= 55 dF=   126100032 witnesses 20/20 split-fraction 27/218  forced primes 2 (identity ok: True)  #p with t_p=-1: 3
+random sextic #46            d= 35 dF=   350887273 witnesses 20/20 split-fraction 20/180  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #47            d= 71 dF=    60145088 witnesses 20/20 split-fraction 20/183  forced primes 1 (identity ok: True)  #p with t_p=-1: 1
+random sextic #48            d= 47 dF=   458920332 witnesses 20/20 split-fraction 20/213  forced primes 2 (identity ok: True)  #p with t_p=-1: 3
+random sextic #49            d= 55 dF=   240420197 witnesses 20/20 split-fraction 20/193  forced primes 1 (identity ok: True)  #p with t_p=-1: 3
+random sextic #50            d= 39 dF=    65808585 witnesses 20/20 split-fraction 39/172  forced primes 3 (identity ok: True)  #p with t_p=-1: 1
+random sextic #51            d=  2 dF=    24392448 witnesses 20/20 split-fraction 51/148  forced primes 2 (identity ok: True)  #p with t_p=-1: 1
+cases 80  all witnesses found: True  forced identity holds everywhere: True  time 20.8s
+EXIT 0

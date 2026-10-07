@@ -1,0 +1,120 @@
+[
+ {
+  "name": "12T75_deg",
+  "q_is_power_of_p": true,
+  "monic_symmetric": true,
+  "weil_sturm": true,
+  "irreducible": true,
+  "ordinary": true,
+  "N": 279390711600,
+  "geom_simple": true,
+  "max_abs_dev": 0.0,
+  "relations": [
+   [
+    1,
+    -1,
+    1,
+    -1,
+    -1,
+    1,
+    0
+   ]
+  ],
+  "angle_rank_numerical": 5,
+  "bound_no_further_relation": 5.272545034515962e+49,
+  "relation_certificates": [
+   {
+    "relation": [
+     1,
+     -1,
+     1,
+     -1,
+     -1,
+     1,
+     0
+    ],
+    "m": 6,
+    "digits": 5776,
+    "log10_abs_x": -5729.497606103735,
+    "log10_threshold": -5633.535019202291,
+    "certified": true
+   }
+  ],
+  "ALL_OK": true
+ },
+ {
+  "name": "12T75_ctrl",
+  "q_is_power_of_p": true,
+  "monic_symmetric": true,
+  "weil_sturm": true,
+  "irreducible": true,
+  "ordinary": true,
+  "N": 279390711600,
+  "geom_simple": true,
+  "max_abs_dev": 0.0,
+  "relations": [],
+  "angle_rank_numerical": 6,
+  "bound_no_further_relation": 5.538766633135431e+42,
+  "relation_certificates": [],
+  "ALL_OK": true
+ },
+ {
+  "name": "12T180_deg",
+  "q_is_power_of_p": true,
+  "monic_symmetric": true,
+  "weil_sturm": true,
+  "irreducible": true,
+  "ordinary": true,
+  "N": 63794896644102760936800,
+  "geom_simple": true,
+  "max_abs_dev": 0.0,
+  "relations": [
+   [
+    3,
+    -3,
+    3,
+    3,
+    3,
+    3,
+    -4
+   ]
+  ],
+  "angle_rank_numerical": 5,
+  "bound_no_further_relation": 5.820969906360744e+49,
+  "relation_certificates": [
+   {
+    "relation": [
+     3,
+     -3,
+     3,
+     3,
+     3,
+     3,
+     -4
+    ],
+    "m": 18,
+    "digits": 44196,
+    "log10_abs_x": -44135.607742675675,
+    "log10_threshold": -44049.124825591105,
+    "certified": true
+   }
+  ],
+  "ALL_OK": true
+ },
+ {
+  "name": "12T180_ctrl",
+  "q_is_power_of_p": true,
+  "monic_symmetric": true,
+  "weil_sturm": true,
+  "irreducible": true,
+  "ordinary": true,
+  "N": 63794896644102760936800,
+  "geom_simple": true,
+  "max_abs_dev": 0.0,
+  "relations": [],
+  "angle_rank_numerical": 6,
+  "bound_no_further_relation": 6.575383559111655e+42,
+  "relation_certificates": [],
+  "ALL_OK": true
+ }
+]

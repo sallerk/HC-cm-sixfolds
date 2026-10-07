@@ -1,0 +1,11 @@
+part 1 (n=3): rank of pullbacks of the Weil class = 60 of 100
+   n=3 k=1  dim R_2k = 18   dim C[w]_2k = 18
+   n=3 k=2  dim R_2k = 171   dim C[w]_2k = 171
+   n=3 k=3  dim R_2k = 1340   dim C[w]_2k = 1140
+   n=3 k=4  dim R_2k = 7335   dim C[w]_2k = 5535
+part 2 (n=3): rank U = 200
+   k= 1  generated     18  Hodge     18  |  C[divisors]     18  Lefschetz     18   OK
+   k= 2  generated    171  Hodge    171  |  C[divisors]    171  Lefschetz    171   OK
+   k= 3  generated   1340  Hodge   1340  |  C[divisors]   1140  Lefschetz   1140   OK
+   k= 4  generated   7335  Hodge   7335  |  C[divisors]   5535  Lefschetz   5535   OK
+ALL OK

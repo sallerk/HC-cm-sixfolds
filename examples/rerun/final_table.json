@@ -1,0 +1,1910 @@
+[
+ {
+  "name": "12T2_deg",
+  "row": "12T2",
+  "p": 139,
+  "q": 139,
+  "q_exp": 1,
+  "polF": "x^6 - x^5 - 7*x^4 + 2*x^3 + 7*x^2 - 2*x - 1",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - x^11 + 8*x^10 + 3*x^9 + 44*x^8 - 2*x^7 + 49*x^6 - 13*x^5 + 46*x^4 - 10*x^3 + 11*x^2 + 2*x + 1",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   39,
+   912,
+   18337,
+   301995,
+   4340592,
+   55653423,
+   603342288,
+   5834845395,
+   49246195603,
+   340450549392,
+   2023664943261,
+   7212549413161
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     1,
+     -1,
+     1,
+     -1,
+     -1,
+     -1,
+     1
+    ]
+   ],
+   "no_further_relation_below": 6.692448905094341e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T1",
+  "gap_P": "12T2",
+  "K_d": 3,
+  "label_12T": "12T2",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T2_ctrl",
+  "row": "12T2",
+  "p": 139,
+  "q": 139,
+  "q_exp": 1,
+  "polF": "x^6 - x^5 - 7*x^4 + 2*x^3 + 7*x^2 - 2*x - 1",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - x^11 + 8*x^10 + 3*x^9 + 44*x^8 - 2*x^7 + 49*x^6 - 13*x^5 + 46*x^4 - 10*x^3 + 11*x^2 + 2*x + 1",
+  "S": [
+   1,
+   2,
+   2,
+   1,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -3,
+   -174,
+   -932,
+   -6642,
+   139707,
+   4335891,
+   19419273,
+   -128330082,
+   -2502996908,
+   -64954381134,
+   -155666534097,
+   7212549413161
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 4.9327369267192544e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T1",
+  "gap_P": "12T2",
+  "K_d": 3,
+  "label_12T": "12T2",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T10_deg",
+  "row": "12T10",
+  "p": 269,
+  "q": 269,
+  "q_exp": 1,
+  "polF": "x^6 - x^5 - 10*x^4 + x^3 + 12*x^2 - 3*x - 1",
+  "polK": "x^2 + 1",
+  "polE": "x^12 + 21*x^10 + 142*x^8 + 349*x^6 + 366*x^4 + 165*x^2 + 25",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   2,
+   1
+  ],
+  "weil_poly": [
+   1,
+   72,
+   2034,
+   22216,
+   -183449,
+   -10174384,
+   -201351716,
+   -2736909296,
+   -13274553089,
+   432436861544,
+   10650256528914,
+   101413062169128,
+   378890468381881
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     2,
+     2,
+     -2,
+     -2,
+     -2,
+     2,
+     1
+    ]
+   ],
+   "no_further_relation_below": 6.322220404489018e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T3",
+  "gap_P": "12T10",
+  "K_d": 1,
+  "label_12T": "12T10",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T10_ctrl",
+  "row": "12T10",
+  "p": 269,
+  "q": 269,
+  "q_exp": 1,
+  "polF": "x^6 - x^5 - 10*x^4 + x^3 + 12*x^2 - 3*x - 1",
+  "polK": "x^2 + 1",
+  "polE": "x^12 + 21*x^10 + 142*x^8 + 349*x^6 + 366*x^4 + 165*x^2 + 25",
+  "S": [
+   1,
+   2,
+   1,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -80,
+   3390,
+   -96400,
+   2065575,
+   -36804320,
+   609952068,
+   -9900362080,
+   149467072575,
+   -1876436507600,
+   17750427548190,
+   -112681180187920,
+   378890468381881
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 5.155981659903258e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T3",
+  "gap_P": "12T10",
+  "K_d": 1,
+  "label_12T": "12T10",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T7_deg",
+  "row": "12T7",
+  "p": 73,
+  "q": 73,
+  "q_exp": 1,
+  "polF": "x^6 - 12*x^4 + 35*x^2 - 25",
+  "polK": "x^2 + 1",
+  "polE": "x^12 - 2*x^11 + 2*x^10 + 40*x^9 + 138*x^8 + 190*x^7 + 144*x^6 + 50*x^5 + 33*x^4 + 40*x^3 + 32*x^2 + 8*x + 1",
+  "S": [
+   1,
+   2,
+   1,
+   2,
+   2,
+   1
+  ],
+  "weil_poly": [
+   1,
+   36,
+   626,
+   5268,
+   79,
+   -579096,
+   -7290148,
+   -42274008,
+   420991,
+   2049341556,
+   17777298866,
+   74630577348,
+   151334226289
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     2,
+     2,
+     2,
+     -2,
+     -2,
+     -2,
+     1
+    ]
+   ],
+   "no_further_relation_below": 6.848854491302381e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T4",
+  "gap_P": "not run",
+  "K_d": 1,
+  "label_12T": "12T7",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T7_ctrl",
+  "row": "12T7",
+  "p": 73,
+  "q": 389017,
+  "q_exp": 3,
+  "polF": "x^6 - 12*x^4 + 35*x^2 - 25",
+  "polK": "x^2 + 1",
+  "polE": "x^12 - 2*x^11 + 2*x^10 + 40*x^9 + 138*x^8 + 190*x^7 + 144*x^6 + 50*x^5 + 33*x^4 + 40*x^3 + 32*x^2 + 8*x + 1",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -3440,
+   5569596,
+   -5811708300,
+   4599570529127,
+   -3117820917303140,
+   1976909402441491168,
+   -1212885339786515613380,
+   696072447287120883619703,
+   -342144489106610308605777900,
+   127555155191539958958652515516,
+   -30647943925661163347738391108080,
+   3465863721549107204083472585375569
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 6.569699902407942e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T4",
+  "gap_P": "not run",
+  "K_d": 1,
+  "label_12T": "12T7",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T18_deg",
+  "row": "12T18",
+  "p": 331,
+  "q": 331,
+  "q_exp": 1,
+  "polF": "x^6 - x^5 - 6*x^4 + 7*x^3 + 4*x^2 - 5*x + 1",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - x^11 + 7*x^10 - 8*x^9 + 39*x^8 - 39*x^7 + 70*x^6 - 33*x^5 + 57*x^4 - 34*x^3 + 21*x^2 - 5*x + 1",
+  "S": [
+   1,
+   1,
+   1,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -108,
+   5913,
+   -210046,
+   5482620,
+   -115792524,
+   2181662727,
+   -38327325444,
+   600681329820,
+   -7617253285786,
+   70977362019273,
+   -429105147550308,
+   1315127813325481
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     -1,
+     -1,
+     1,
+     -1,
+     -1,
+     1,
+     0
+    ]
+   ],
+   "no_further_relation_below": 7.643241374250919e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T5",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T18",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T18_ctrl",
+  "row": "12T18",
+  "p": 331,
+  "q": 36264691,
+  "q_exp": 3,
+  "polF": "x^6 - x^5 - 6*x^4 + 7*x^3 + 4*x^2 - 5*x + 1",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - x^11 + 7*x^10 - 8*x^9 + 39*x^8 - 39*x^7 + 70*x^6 - 33*x^5 + 57*x^4 - 34*x^3 + 21*x^2 - 5*x + 1",
+  "S": [
+   1,
+   2,
+   1,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   12540,
+   122699379,
+   672234475486,
+   4385912158170108,
+   26623333057948314732,
+   190920670796798273731569,
+   965486946736580727726727812,
+   5768035066011895291167168921948,
+   32060679707203330611995632148431306,
+   212216080934919746918622266263744374819,
+   786533895401472495445943246725406448615540,
+   2274593993441843779293942507658183948042259641
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 6.674433660683976e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T5",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T18",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T25_deg",
+  "row": "12T25",
+  "p": 211,
+  "q": 211,
+  "q_exp": 1,
+  "polF": "x^6 - 8*x^4 + 19*x^2 - 13",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 + 8*x^10 + 45*x^8 + 126*x^6 + 257*x^4 + 247*x^2 + 169",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   84,
+   3834,
+   119196,
+   2825559,
+   53846520,
+   854061100,
+   11361615720,
+   125796712239,
+   1119718999476,
+   7599445936794,
+   35131084972284,
+   88245939632761
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     -2,
+     -2,
+     -2,
+     2,
+     2,
+     -2,
+     1
+    ]
+   ],
+   "no_further_relation_below": 6.510218860704085e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T6",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T25",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T25_ctrl",
+  "row": "12T25",
+  "p": 211,
+  "q": 44521,
+  "q_exp": 2,
+  "polF": "x^6 - 8*x^4 + 19*x^2 - 13",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 + 8*x^10 + 45*x^8 + 126*x^6 + 257*x^4 + 247*x^2 + 169",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -252,
+   -49905,
+   38365236,
+   -4940947926,
+   -1123631749044,
+   498090343100263,
+   -50025209099187924,
+   -9793548941093229366,
+   3385576300052629096596,
+   -196066638159060559564305,
+   -44078326118922810608863452,
+   7787345861668898615544483121
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 5.990512642297282e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T6",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T25",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T23_deg",
+  "row": "12T23",
+  "p": 617,
+  "q": 617,
+  "q_exp": 1,
+  "polF": "x^6 - 6*x^4 + 8*x^2 - 1",
+  "polK": "x^2 + 1",
+  "polE": "x^12 - 6*x^11 + 18*x^10 - 24*x^9 + 20*x^8 - 24*x^7 + 72*x^6 - 90*x^5 + 60*x^4 - 12*x^3 + 1",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -78,
+   4520,
+   -191958,
+   6975435,
+   -210829404,
+   5662911320,
+   -130081742268,
+   2655471374715,
+   -45088076521254,
+   655056998538920,
+   -6974617945062846,
+   55171016309022769
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     -2,
+     2,
+     -2,
+     2,
+     -2,
+     -2,
+     1
+    ]
+   ],
+   "no_further_relation_below": 5.220606417971415e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T7",
+  "gap_P": "not run",
+  "K_d": 1,
+  "label_12T": "12T23",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T23_ctrl",
+  "row": "12T23",
+  "p": 617,
+  "q": 617,
+  "q_exp": 1,
+  "polF": "x^6 - 6*x^4 + 8*x^2 - 1",
+  "polK": "x^2 + 1",
+  "polE": "x^12 - 6*x^11 + 18*x^10 - 24*x^9 + 20*x^8 - 24*x^7 + 72*x^6 - 90*x^5 + 60*x^4 - 12*x^3 + 1",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -44,
+   1370,
+   -39068,
+   1177743,
+   -33765208,
+   902677324,
+   -20833133336,
+   448353804927,
+   -9176491594684,
+   198546037167770,
+   -3934399866445708,
+   55171016309022769
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 4.2331186044688697e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T7",
+  "gap_P": "not run",
+  "K_d": 1,
+  "label_12T": "12T23",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T24_deg",
+  "row": "12T24",
+  "p": 881,
+  "q": 881,
+  "q_exp": 1,
+  "polF": "x^6 - 11*x^4 + 37*x^2 - 37",
+  "polK": "x^2 + 1",
+  "polE": "x^12 - 4*x^11 + 26*x^10 - 84*x^9 + 296*x^8 - 724*x^7 + 1658*x^6 - 3056*x^5 + 4610*x^4 - 5604*x^3 + 4828*x^2 - 2012*x + 370",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   136,
+   8510,
+   317176,
+   7993767,
+   160184384,
+   3742257796,
+   141122442304,
+   6204450188487,
+   216884264017016,
+   5126644391307710,
+   72180261385302536,
+   467579487356261281
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     2,
+     2,
+     -2,
+     2,
+     -2,
+     -2,
+     1
+    ]
+   ],
+   "no_further_relation_below": 5.931600726592061e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T8",
+  "gap_P": "not run",
+  "K_d": 1,
+  "label_12T": "12T24",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T24_ctrl",
+  "row": "12T24",
+  "p": 881,
+  "q": 881,
+  "q_exp": 1,
+  "polF": "x^6 - 11*x^4 + 37*x^2 - 37",
+  "polK": "x^2 + 1",
+  "polE": "x^12 - 4*x^11 + 26*x^10 - 84*x^9 + 296*x^8 - 724*x^7 + 1658*x^6 - 3056*x^5 + 4610*x^4 - 5604*x^3 + 4828*x^2 - 2012*x + 370",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -108,
+   5888,
+   -251388,
+   9831387,
+   -358874424,
+   11601298640,
+   -316168367544,
+   7630739165307,
+   -171898571653308,
+   3547083686958848,
+   -57319619335387308,
+   467579487356261281
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 6.513973960418488e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T8",
+  "gap_P": "not run",
+  "K_d": 1,
+  "label_12T": "12T24",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T37_deg",
+  "row": "12T37",
+  "p": 331,
+  "q": 331,
+  "q_exp": 1,
+  "polF": "x^6 - x^5 - 13*x^4 + 10*x^3 + 34*x^2 - 39*x + 9",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - 3*x^11 - 8*x^10 + 33*x^9 + 90*x^8 - 174*x^7 - 65*x^6 + 243*x^5 + 58*x^4 - 312*x^3 + 231*x^2 - 72*x + 9",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   46,
+   28,
+   -34279,
+   -575135,
+   6873961,
+   323471177,
+   2275281091,
+   -63012365735,
+   -1243117342789,
+   336101156188,
+   182767007289946,
+   1315127813325481
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     3,
+     -3,
+     -3,
+     -3,
+     -3,
+     -3,
+     5
+    ]
+   ],
+   "no_further_relation_below": 4.793419170007153e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T9",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T37",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T37_ctrl",
+  "row": "12T37",
+  "p": 331,
+  "q": 331,
+  "q_exp": 1,
+  "polF": "x^6 - x^5 - 13*x^4 + 10*x^3 + 34*x^2 - 39*x + 9",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - 3*x^11 - 8*x^10 + 33*x^9 + 90*x^8 - 174*x^7 - 65*x^6 + 243*x^5 + 58*x^4 - 312*x^3 + 231*x^2 - 72*x + 9",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   13,
+   705,
+   11461,
+   387018,
+   5270804,
+   155878887,
+   1744636124,
+   42402079098,
+   415629623551,
+   8462546968305,
+   51651545538463,
+   1315127813325481
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 5.637792537274641e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T9",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T37",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T40_deg",
+  "row": "12T40",
+  "p": 991,
+  "q": 991,
+  "q_exp": 1,
+  "polF": "x^6 - 21*x^4 - 21*x^3 + 99*x^2 + 198*x + 99",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - 6*x^11 + 15*x^10 - 17*x^9 - 15*x^8 + 150*x^7 - 423*x^6 + 600*x^5 - 240*x^4 - 1088*x^3 + 3840*x^2 - 6144*x + 4096",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   87,
+   6795,
+   334036,
+   15957390,
+   583658925,
+   20765364993,
+   578405994675,
+   15671449528590,
+   325097955235756,
+   6553662600361995,
+   83154838618897737,
+   947200518061237441
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     3,
+     3,
+     -3,
+     3,
+     -3,
+     -3,
+     1
+    ]
+   ],
+   "no_further_relation_below": 2.30414874235951e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T10",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T40",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T40_ctrl",
+  "row": "12T40",
+  "p": 991,
+  "q": 991,
+  "q_exp": 1,
+  "polF": "x^6 - 21*x^4 - 21*x^3 + 99*x^2 + 198*x + 99",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - 6*x^11 + 15*x^10 - 17*x^9 - 15*x^8 + 150*x^7 - 423*x^6 + 600*x^5 - 240*x^4 - 1088*x^3 + 3840*x^2 - 6144*x + 4096",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   39,
+   237,
+   -37192,
+   -1176762,
+   9015513,
+   1434650523,
+   8934373383,
+   -1155675601722,
+   -36196826543032,
+   228582492462957,
+   37276306967092089,
+   947200518061237441
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 6.091521675902044e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T10",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T40",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T48_deg",
+  "row": "12T48",
+  "p": 907,
+  "q": 907,
+  "q_exp": 1,
+  "polF": "x^6 - 3*x^5 - 2*x^4 + 9*x^3 - x^2 - 4*x + 1",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - x^10 - 6*x^9 - x^8 + 3*x^7 + 23*x^6 + 6*x^5 - 4*x^4 - 48*x^3 - 16*x^2 + 64",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -147,
+   12009,
+   -714055,
+   33700572,
+   -1315926630,
+   43210043493,
+   -1193545453410,
+   27723741855228,
+   -532786884947365,
+   8127107288806809,
+   -90230584370832129,
+   556728843703025449
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     -3,
+     3,
+     -3,
+     -3,
+     -3,
+     3,
+     1
+    ]
+   ],
+   "no_further_relation_below": 4.418953496738156e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T11",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T48",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T48_ctrl",
+  "row": "12T48",
+  "p": 907,
+  "q": 822649,
+  "q_exp": 2,
+  "polF": "x^6 - 3*x^5 - 2*x^4 + 9*x^3 - x^2 - 4*x + 1",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - x^10 - 6*x^9 - x^8 + 3*x^7 + 23*x^6 + 6*x^5 - 4*x^4 - 48*x^3 - 16*x^2 + 64",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   1997,
+   -511582,
+   -3468714159,
+   -1654902554369,
+   1564471113394348,
+   2420640932537772553,
+   1287010596962746987852,
+   -1119957582802673529541169,
+   -1931133222876382366083632391,
+   -234300681555951331312008852382,
+   752403722371974870274419472333253,
+   309947005410907739136895795941651601
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 5.5663385501811626e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T11",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T48",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T75_deg",
+  "row": "12T75",
+  "p": 8317,
+  "q": 69172489,
+  "q_exp": 2,
+  "polF": "x^6 - x^5 - 91*x^4 - 123*x^3 + 840*x^2 + 1310*x + 446",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - 5*x^11 + 109*x^10 - 1110*x^9 + 11245*x^8 - 56487*x^7 + 242972*x^6 - 877701*x^5 + 2607445*x^4 - 4814332*x^3 + 4979503*x^2 - 2696865*x + 605325",
+  "S": [
+   1,
+   2,
+   1,
+   2,
+   2,
+   1
+  ],
+  "weil_poly": [
+   1,
+   3333,
+   -63976017,
+   -1345394237908,
+   -6212928430460475,
+   58393997202867191199,
+   1121968296594793922008902,
+   4039258129181361551673724311,
+   -29727826437358372903625751842475,
+   -445297003052084154961817149124534452,
+   -1464707179329697591610587675088005734897,
+   5278400368181693960702334608281766726429517,
+   109546982119905243173731975087215666902043736561
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "all labellings [6]",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     1,
+     -1,
+     1,
+     -1,
+     -1,
+     1,
+     0
+    ]
+   ],
+   "no_further_relation_below": 5.272545034515962e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T12",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T75",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T75_ctrl",
+  "row": "12T75",
+  "p": 6337,
+  "q": 64759314470892838651009,
+  "q_exp": 6,
+  "polF": "x^6 - x^5 - 91*x^4 - 123*x^3 + 840*x^2 + 1310*x + 446",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - 5*x^11 + 109*x^10 - 1110*x^9 + 11245*x^8 - 56487*x^7 + 242972*x^6 - 877701*x^5 + 2607445*x^4 - 4814332*x^3 + 4979503*x^2 - 2696865*x + 605325",
+  "S": [
+   1,
+   2,
+   2,
+   2,
+   2,
+   1
+  ],
+  "weil_poly": [
+   1,
+   -643988814288,
+   313058767490444465368122,
+   -108988436465781444139387856309370176,
+   38142871308088965080026350453898487984048991471,
+   -11407927230560186652518444570121939147396111604649595360240,
+   3206601513295271317254265346296376693545847988899215975963885272617388,
+   -738769546984908760051680763762008438974907086115715791992102449726374386994482160,
+   159962384043932769401558120554288909849885564976839540332818684392354325025366953711860487151,
+   -29599689173089116583344232457084704494769518968761086161947585685263729331784266314946766786341718826304,
+   5505982695079679803836926429214185000472122355096573323142324613065170778811798643972378871704571116526778230800442,
+   -733482130424237633778119044154987578178961150660920713380707041309370786136541226231856539475961661997580722176468580248732112,
+   73758734451684319332956620491015012059242822866985598651108257551328184301465458060845917360353578365338936405033487941860510872432925441
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "all labellings [7]",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 5.538766633135431e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T12",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T75",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T77_deg",
+  "row": "12T77",
+  "p": 619,
+  "q": 619,
+  "q_exp": 1,
+  "polF": "x^6 - 2*x^5 - 4*x^4 + 8*x^3 + 2*x^2 - 5*x + 1",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 + 7*x^10 - 2*x^9 + 43*x^8 - 8*x^7 + 41*x^6 - 8*x^5 + 30*x^4 - 4*x^3 + 7*x^2 + x + 1",
+  "S": [
+   1,
+   1,
+   1,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   167,
+   14435,
+   846489,
+   37201150,
+   1283572948,
+   35538051637,
+   794531654812,
+   14254029835150,
+   200767432900251,
+   2119236299979635,
+   15176433255129533,
+   56252767574402281
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     3,
+     3,
+     -3,
+     3,
+     -3,
+     -3,
+     1
+    ]
+   ],
+   "no_further_relation_below": 5.228734349459355e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T13",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T77",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T77_ctrl",
+  "row": "12T77",
+  "p": 619,
+  "q": 619,
+  "q_exp": 1,
+  "polF": "x^6 - 2*x^5 - 4*x^4 + 8*x^3 + 2*x^2 - 5*x + 1",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 + 7*x^10 - 2*x^9 + 43*x^8 - 8*x^7 + 41*x^6 - 8*x^5 + 30*x^4 - 4*x^3 + 7*x^2 + x + 1",
+  "S": [
+   1,
+   2,
+   2,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -9,
+   -243,
+   -6637,
+   35010,
+   6061518,
+   -190577397,
+   3752079642,
+   13414466610,
+   -1574141485783,
+   -35675401516803,
+   -817891612551891,
+   56252767574402281
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 6.777898640779664e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T13",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T77",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T123_deg",
+  "row": "12T123",
+  "p": 12409,
+  "q": 12409,
+  "q_exp": 1,
+  "polF": "x^6 - 3*x^5 - 35*x^4 + 30*x^3 + 90*x^2 - 74*x - 13",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - 3*x^11 + 44*x^10 - 135*x^9 + 1630*x^8 - 4517*x^7 + 12676*x^6 - 8678*x^5 + 7525*x^4 + 3075*x^3 + 2029*x^2 + 188*x + 16",
+  "S": [
+   1,
+   2,
+   1,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -197,
+   8349,
+   531625,
+   57677700,
+   -18297228691,
+   2302595234742,
+   -227050310826619,
+   8881401486533700,
+   1015817638100004625,
+   197961893559005899389,
+   -57962905739995176486653,
+   3651074605723858604177041
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "all labellings [6]",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     3,
+     -3,
+     -3,
+     -3,
+     -3,
+     3,
+     1
+    ]
+   ],
+   "no_further_relation_below": 3.4608933560732596e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T14",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T123",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T180_deg",
+  "row": "12T180",
+  "p": 2437,
+  "q": 2437,
+  "q_exp": 1,
+  "polF": "x^6 - 3*x^5 - 9*x^4 + 14*x^3 + 27*x^2 - 3*x - 10",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - 6*x^11 + 51*x^10 - 200*x^9 + 594*x^8 - 1242*x^7 + 1968*x^6 - 2331*x^5 + 2016*x^4 - 1229*x^3 + 498*x^2 - 120*x + 13",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   30,
+   1257,
+   70727,
+   2638629,
+   221792931,
+   28383641151,
+   540509372847,
+   15670735833501,
+   1023650787148331,
+   44336090448181977,
+   2578688601962278710,
+   209475470766069107209
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     3,
+     -3,
+     3,
+     3,
+     3,
+     3,
+     -4
+    ]
+   ],
+   "no_further_relation_below": 5.820969906360744e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T15",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T180",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T180_ctrl",
+  "row": "12T180",
+  "p": 2437,
+  "q": 2437,
+  "q_exp": 1,
+  "polF": "x^6 - 3*x^5 - 9*x^4 + 14*x^3 + 27*x^2 - 3*x - 10",
+  "polK": "x^2 + x + 1",
+  "polE": "x^12 - 6*x^11 + 51*x^10 - 200*x^9 + 594*x^8 - 1242*x^7 + 1968*x^6 - 2331*x^5 + 2016*x^4 - 1229*x^3 + 498*x^2 - 120*x + 13",
+  "S": [
+   1,
+   2,
+   1,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -84,
+   -606,
+   366181,
+   -13010490,
+   -536408541,
+   60522365379,
+   -1307227614417,
+   -77268896784810,
+   5299835549206993,
+   -21374439786474366,
+   -7220328085494380388,
+   209475470766069107209
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 6.575383559111655e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T15",
+  "gap_P": "not run",
+  "K_d": 3,
+  "label_12T": "12T180",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T219_deg",
+  "row": "12T219",
+  "p": 2069,
+  "q": 2069,
+  "q_exp": 1,
+  "polF": "x^6 - 2*x^5 - 4*x^4 + 6*x^3 + 4*x^2 - 3*x - 1",
+  "polK": "x^2 + 1",
+  "polE": "x^12 + 12*x^10 + 48*x^8 + 82*x^6 + 60*x^4 + 17*x^2 + 1",
+  "S": [
+   1,
+   2,
+   2,
+   1,
+   1,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -184,
+   19742,
+   -1590008,
+   105352791,
+   -5957131824,
+   290203402564,
+   -12325305743856,
+   450990118953951,
+   -14082533124466072,
+   361770466779726782,
+   -6976221741524408216,
+   78444580343554351081
+  ],
+  "main_computation": {
+   "angle_rank": 5,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": true,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     2,
+     -2,
+     -2,
+     -2,
+     2,
+     -2,
+     1
+    ]
+   ],
+   "no_further_relation_below": 5.646508659496066e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T16",
+  "gap_P": "not run",
+  "K_d": 1,
+  "label_12T": "12T219",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "12T219_ctrl",
+  "row": "12T219",
+  "p": 2069,
+  "q": 4280761,
+  "q_exp": 2,
+  "polF": "x^6 - 2*x^5 - 4*x^4 + 6*x^3 + 4*x^2 - 3*x - 1",
+  "polK": "x^2 + 1",
+  "polE": "x^12 + 12*x^10 + 48*x^8 + 82*x^6 + 60*x^4 + 17*x^2 + 1",
+  "S": [
+   1,
+   1,
+   2,
+   2,
+   2,
+   2
+  ],
+  "weil_poly": [
+   1,
+   -1552,
+   11525978,
+   -30495816016,
+   80797640106143,
+   -212907762773722144,
+   431022236209226302956,
+   -911407247479001578871584,
+   1480609866067253899594520303,
+   -2392231489609363562062446713296,
+   3870452229604714868675504807407898,
+   -2230984862632812460501706452095371152,
+   6153552185276353673472774106687005868561
+  ],
+  "main_computation": {
+   "angle_rank": 6,
+   "rank_info": "exact",
+   "geom": true,
+   "ordinary": true,
+   "irreducible": true,
+   "norm_relation": false,
+   "abs_ok": true,
+   "sym": true
+  },
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 6,
+   "relations": [],
+   "no_further_relation_below": 6.634298645306862e+42,
+   "relation_certified": []
+  },
+  "gap_h": "6T16",
+  "gap_P": "not run",
+  "K_d": 1,
+  "label_12T": "12T219",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "fermat21_jacobi_p43_1_1_19",
+  "row": "12T2",
+  "p": 43,
+  "q": 43,
+  "q_exp": 1,
+  "polF": null,
+  "polK": null,
+  "polE": null,
+  "S": null,
+  "weil_poly": [
+   1,
+   -8,
+   91,
+   -1196,
+   7811,
+   -60410,
+   497855,
+   -2597630,
+   14442539,
+   -95090372,
+   311110891,
+   -1176067544,
+   6321363049
+  ],
+  "main_computation": null,
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     -1,
+     -1,
+     -1,
+     1,
+     -1,
+     1,
+     0
+    ]
+   ],
+   "no_further_relation_below": 8.41967020628586e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T1",
+  "gap_P": "12T2",
+  "K_d": 3,
+  "label_12T": "12T2",
+  "label_ok": true,
+  "VERIFIED": true
+ },
+ {
+  "name": "fermat21_jacobi_p127_1_1_19",
+  "row": "12T2",
+  "p": 127,
+  "q": 127,
+  "q_exp": 1,
+  "polF": null,
+  "polK": null,
+  "polE": null,
+  "S": null,
+  "weil_poly": [
+   1,
+   8,
+   105,
+   -218,
+   -8233,
+   -63126,
+   -1689953,
+   -8017002,
+   -132790057,
+   -446547494,
+   27315187305,
+   264306955256,
+   4195872914689
+  ],
+  "main_computation": null,
+  "verifier": {
+   "ALL_OK": true,
+   "angle_rank_numerical": 5,
+   "relations": [
+    [
+     -1,
+     -1,
+     -1,
+     1,
+     -1,
+     1,
+     0
+    ]
+   ],
+   "no_further_relation_below": 8.484741515586813e+49,
+   "relation_certified": [
+    true
+   ]
+  },
+  "gap_h": "6T1",
+  "gap_P": "12T2",
+  "K_d": 3,
+  "label_12T": "12T2",
+  "label_ok": true,
+  "VERIFIED": true
+ }
+]

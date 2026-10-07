@@ -1,0 +1,21860 @@
+{
+"1": {
+"summary": {
+"j": 1,
+"G6": "C6",
+"order12": 12,
+"TI": "12T2",
+"n_prim": 48,
+"n_prim_balanced": 12,
+"n_prim_degenerate": 24,
+"prim_degenerate_all_balanced": false,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T2.12.t.a.19', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T2.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+1,
+2,
+3,
+4,
+5,
+0,
+7,
+8,
+9,
+10,
+11,
+6
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"2": {
+"summary": {
+"j": 2,
+"G6": "S3",
+"order12": 12,
+"TI": "12T3",
+"n_prim": 24,
+"n_prim_balanced": 0,
+"n_prim_degenerate": 0,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [],
+"apfv": []
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+2,
+3,
+4,
+5,
+0,
+1,
+8,
+9,
+10,
+11,
+6,
+7
+],
+[
+3,
+2,
+1,
+0,
+5,
+4,
+9,
+8,
+7,
+6,
+11,
+10
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"3": {
+"summary": {
+"j": 3,
+"G6": "D12",
+"order12": 24,
+"TI": "12T10",
+"n_prim": 48,
+"n_prim_balanced": 12,
+"n_prim_degenerate": 24,
+"prim_degenerate_all_balanced": false,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T10.12.t.a.19', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T10.12.t.a.19",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+1,
+2,
+3,
+4,
+5,
+0,
+7,
+8,
+9,
+10,
+11,
+6
+],
+[
+3,
+2,
+1,
+0,
+5,
+4,
+9,
+8,
+7,
+6,
+11,
+10
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"4": {
+"summary": {
+"j": 4,
+"G6": "A4",
+"order12": 24,
+"TI": "12T7",
+"n_prim": 48,
+"n_prim_balanced": 12,
+"n_prim_degenerate": 12,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T7.12.t.a.5', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T7.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+3,
+4,
+2,
+0,
+1,
+5,
+9,
+10,
+8,
+6,
+7,
+11
+],
+[
+2,
+3,
+4,
+5,
+0,
+1,
+8,
+9,
+10,
+11,
+6,
+7
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"5": {
+"summary": {
+"j": 5,
+"G6": "C3 x S3",
+"order12": 36,
+"TI": "12T18",
+"n_prim": 60,
+"n_prim_balanced": 18,
+"n_prim_degenerate": 36,
+"prim_degenerate_all_balanced": false,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T18.12.t.a.11', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T18.12.t.a.11",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+0,
+3,
+2,
+5,
+4,
+1,
+6,
+9,
+8,
+11,
+10,
+7
+],
+[
+3,
+4,
+5,
+0,
+1,
+2,
+9,
+10,
+11,
+6,
+7,
+8
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"6": {
+"summary": {
+"j": 6,
+"G6": "C2 x A4",
+"order12": 48,
+"TI": "12T25",
+"n_prim": 48,
+"n_prim_balanced": 12,
+"n_prim_degenerate": 12,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T25.12.t.a.2', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T25.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+0,
+1,
+5,
+3,
+4,
+2,
+6,
+7,
+11,
+9,
+10,
+8
+],
+[
+2,
+3,
+4,
+5,
+0,
+1,
+8,
+9,
+10,
+11,
+6,
+7
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"7": {
+"summary": {
+"j": 7,
+"G6": "S4",
+"order12": 48,
+"TI": "12T23",
+"n_prim": 48,
+"n_prim_balanced": 12,
+"n_prim_degenerate": 12,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T23.12.t.a.13', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T23.12.t.a.13",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+3,
+4,
+2,
+0,
+1,
+5,
+9,
+10,
+8,
+6,
+7,
+11
+],
+[
+2,
+3,
+4,
+5,
+0,
+1,
+8,
+9,
+10,
+11,
+6,
+7
+],
+[
+4,
+3,
+2,
+1,
+0,
+5,
+10,
+9,
+8,
+7,
+6,
+11
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"8": {
+"summary": {
+"j": 8,
+"G6": "S4",
+"order12": 48,
+"TI": "12T24",
+"n_prim": 48,
+"n_prim_balanced": 12,
+"n_prim_degenerate": 12,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T24.12.t.a.6', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T24.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+3,
+4,
+2,
+0,
+1,
+5,
+9,
+10,
+8,
+6,
+7,
+11
+],
+[
+2,
+3,
+4,
+5,
+0,
+1,
+8,
+9,
+10,
+11,
+6,
+7
+],
+[
+4,
+3,
+5,
+1,
+0,
+2,
+10,
+9,
+11,
+7,
+6,
+8
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"9": {
+"summary": {
+"j": 9,
+"G6": "S3 x S3",
+"order12": 72,
+"TI": "12T37",
+"n_prim": 60,
+"n_prim_balanced": 18,
+"n_prim_degenerate": 36,
+"prim_degenerate_all_balanced": false,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T37.12.t.a.6', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T37.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+0,
+3,
+2,
+5,
+4,
+1,
+6,
+9,
+8,
+11,
+10,
+7
+],
+[
+4,
+3,
+2,
+1,
+0,
+5,
+10,
+9,
+8,
+7,
+6,
+11
+],
+[
+3,
+4,
+5,
+0,
+1,
+2,
+9,
+10,
+11,
+6,
+7,
+8
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"10": {
+"summary": {
+"j": 10,
+"G6": "(C3 x C3) : C4",
+"order12": 72,
+"TI": "12T40",
+"n_prim": 60,
+"n_prim_balanced": 18,
+"n_prim_degenerate": 36,
+"prim_degenerate_all_balanced": false,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T40.12.t.a.5', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T40.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+0,
+3,
+2,
+5,
+4,
+1,
+6,
+9,
+8,
+11,
+10,
+7
+],
+[
+4,
+3,
+2,
+1,
+0,
+5,
+10,
+9,
+8,
+7,
+6,
+11
+],
+[
+3,
+0,
+5,
+4,
+1,
+2,
+9,
+6,
+11,
+10,
+7,
+8
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"11": {
+"summary": {
+"j": 11,
+"G6": "C2 x S4",
+"order12": 96,
+"TI": "12T48",
+"n_prim": 48,
+"n_prim_balanced": 12,
+"n_prim_degenerate": 12,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T48.12.t.a.2', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T48.12.t.a.2",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": false,
+"rank": 4,
+"angle_rank": 3
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+0,
+1,
+5,
+3,
+4,
+2,
+6,
+7,
+11,
+9,
+10,
+8
+],
+[
+2,
+3,
+4,
+5,
+0,
+1,
+8,
+9,
+10,
+11,
+6,
+7
+],
+[
+4,
+3,
+2,
+1,
+0,
+5,
+10,
+9,
+8,
+7,
+6,
+11
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"12": {
+"summary": {
+"j": 12,
+"G6": "A5",
+"order12": 120,
+"TI": "12T75",
+"n_prim": 62,
+"n_prim_balanced": 20,
+"n_prim_degenerate": 20,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T75.12.t.a.6', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T75.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+1,
+2,
+3,
+5,
+4,
+0,
+7,
+8,
+9,
+11,
+10,
+6
+],
+[
+3,
+1,
+2,
+0,
+5,
+4,
+9,
+7,
+8,
+6,
+11,
+10
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"13": {
+"summary": {
+"j": 13,
+"G6": "(S3 x S3) : C2",
+"order12": 144,
+"TI": "12T77",
+"n_prim": 60,
+"n_prim_balanced": 18,
+"n_prim_degenerate": 36,
+"prim_degenerate_all_balanced": false,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T77.12.t.a.5', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T77.12.t.a.5",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+0,
+3,
+2,
+5,
+4,
+1,
+6,
+9,
+8,
+11,
+10,
+7
+],
+[
+0,
+3,
+2,
+1,
+4,
+5,
+6,
+9,
+8,
+7,
+10,
+11
+],
+[
+3,
+4,
+5,
+0,
+1,
+2,
+9,
+10,
+11,
+6,
+7,
+8
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"14": {
+"summary": {
+"j": 14,
+"G6": "S5",
+"order12": 240,
+"TI": "12T123",
+"n_prim": 62,
+"n_prim_balanced": 20,
+"n_prim_degenerate": 20,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T123.12.t.a.10', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T123.12.t.a.10",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+1,
+2,
+3,
+5,
+4,
+0,
+7,
+8,
+9,
+11,
+10,
+6
+],
+[
+1,
+0,
+3,
+2,
+5,
+4,
+7,
+6,
+9,
+8,
+11,
+10
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"15": {
+"summary": {
+"j": 15,
+"G6": "A6",
+"order12": 720,
+"TI": "12T180",
+"n_prim": 62,
+"n_prim_balanced": 20,
+"n_prim_degenerate": 20,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T180.12.t.a.7', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T180.12.t.a.7",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+1,
+2,
+3,
+4,
+0,
+5,
+7,
+8,
+9,
+10,
+6,
+11
+],
+[
+0,
+1,
+2,
+4,
+5,
+3,
+6,
+7,
+8,
+10,
+11,
+9
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+},
+"16": {
+"summary": {
+"j": 16,
+"G6": "S6",
+"order12": 1440,
+"TI": "12T219",
+"n_prim": 62,
+"n_prim_balanced": 20,
+"n_prim_degenerate": 20,
+"prim_degenerate_all_balanced": true,
+"prim_balanced_ranks": [
+6
+],
+"apfv": [
+"('12T219.12.t.a.6', 'MATCH(slope0)')"
+]
+},
+"types": [
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"S": [
+0,
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+5,
+6
+],
+"S": [
+1,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+5,
+7
+],
+"S": [
+0,
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+5,
+6,
+7
+],
+"S": [
+2,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+5,
+8
+],
+"S": [
+0,
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+5,
+6,
+8
+],
+"S": [
+1,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+4,
+5,
+7,
+8
+],
+"S": [
+0,
+3,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+4,
+5,
+6,
+7,
+8
+],
+"S": [
+3,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+5,
+9
+],
+"S": [
+0,
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+5,
+6,
+9
+],
+"S": [
+1,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+4,
+5,
+7,
+9
+],
+"S": [
+0,
+2,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+4,
+5,
+6,
+7,
+9
+],
+"S": [
+2,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+4,
+5,
+8,
+9
+],
+"S": [
+0,
+1,
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+4,
+5,
+6,
+8,
+9
+],
+"S": [
+1,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+4,
+5,
+7,
+8,
+9
+],
+"S": [
+0,
+4,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+4,
+5,
+6,
+7,
+8,
+9
+],
+"S": [
+4,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+5,
+10
+],
+"S": [
+0,
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+5,
+6,
+10
+],
+"S": [
+1,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+5,
+7,
+10
+],
+"S": [
+0,
+2,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+5,
+6,
+7,
+10
+],
+"S": [
+2,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+5,
+8,
+10
+],
+"S": [
+0,
+1,
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+5,
+6,
+8,
+10
+],
+"S": [
+1,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+5,
+7,
+8,
+10
+],
+"S": [
+0,
+3,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+5,
+6,
+7,
+8,
+10
+],
+"S": [
+3,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+5,
+9,
+10
+],
+"S": [
+0,
+1,
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+5,
+6,
+9,
+10
+],
+"S": [
+1,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+5,
+7,
+9,
+10
+],
+"S": [
+0,
+2,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+5,
+6,
+7,
+9,
+10
+],
+"S": [
+2,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+5,
+8,
+9,
+10
+],
+"S": [
+0,
+1,
+5
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+5,
+6,
+8,
+9,
+10
+],
+"S": [
+1,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+5,
+7,
+8,
+9,
+10
+],
+"S": [
+0,
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+5,
+6,
+7,
+8,
+9,
+10
+],
+"S": [
+5
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+4,
+11
+],
+"S": [
+0,
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+4,
+6,
+11
+],
+"S": [
+1,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+3,
+4,
+7,
+11
+],
+"S": [
+0,
+2,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+3,
+4,
+6,
+7,
+11
+],
+"S": [
+2,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+1,
+3,
+4,
+8,
+11
+],
+"S": [
+0,
+1,
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+3,
+4,
+6,
+8,
+11
+],
+"S": [
+1,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+3,
+4,
+7,
+8,
+11
+],
+"S": [
+0,
+3,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+3,
+4,
+6,
+7,
+8,
+11
+],
+"S": [
+3,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+4,
+9,
+11
+],
+"S": [
+0,
+1,
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+4,
+6,
+9,
+11
+],
+"S": [
+1,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+4,
+7,
+9,
+11
+],
+"S": [
+0,
+2,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+4,
+6,
+7,
+9,
+11
+],
+"S": [
+2,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+4,
+8,
+9,
+11
+],
+"S": [
+0,
+1,
+4
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+4,
+6,
+8,
+9,
+11
+],
+"S": [
+1,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+4,
+7,
+8,
+9,
+11
+],
+"S": [
+0,
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+4,
+6,
+7,
+8,
+9,
+11
+],
+"S": [
+4
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+3,
+10,
+11
+],
+"S": [
+0,
+1,
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+2,
+3,
+6,
+10,
+11
+],
+"S": [
+1,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+0,
+2,
+3,
+7,
+10,
+11
+],
+"S": [
+0,
+2,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+2,
+3,
+6,
+7,
+10,
+11
+],
+"S": [
+2,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+3,
+8,
+10,
+11
+],
+"S": [
+0,
+1,
+3
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+3,
+6,
+8,
+10,
+11
+],
+"S": [
+1,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+3,
+7,
+8,
+10,
+11
+],
+"S": [
+0,
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+3,
+6,
+7,
+8,
+10,
+11
+],
+"S": [
+3
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+2,
+9,
+10,
+11
+],
+"S": [
+0,
+1,
+2
+],
+"balanced": true,
+"primitive": true,
+"rank": 6,
+"angle_rank": 5,
+"apfv": [
+"12T219.12.t.a.6",
+"MATCH(slope0)"
+]
+},
+{
+"Phi": [
+1,
+2,
+6,
+9,
+10,
+11
+],
+"S": [
+1,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+2,
+7,
+9,
+10,
+11
+],
+"S": [
+0,
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+2,
+6,
+7,
+9,
+10,
+11
+],
+"S": [
+2
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+1,
+8,
+9,
+10,
+11
+],
+"S": [
+0,
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+1,
+6,
+8,
+9,
+10,
+11
+],
+"S": [
+1
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+0,
+7,
+8,
+9,
+10,
+11
+],
+"S": [
+0
+],
+"balanced": false,
+"primitive": true,
+"rank": 7,
+"angle_rank": 6
+},
+{
+"Phi": [
+6,
+7,
+8,
+9,
+10,
+11
+],
+"S": [],
+"balanced": false,
+"primitive": false,
+"rank": 2,
+"angle_rank": 1
+}
+],
+"gens12": [
+[
+1,
+2,
+3,
+4,
+5,
+0,
+7,
+8,
+9,
+10,
+11,
+6
+],
+[
+1,
+0,
+2,
+3,
+4,
+5,
+7,
+6,
+8,
+9,
+10,
+11
+],
+[
+6,
+7,
+8,
+9,
+10,
+11,
+0,
+1,
+2,
+3,
+4,
+5
+]
+]
+}
+}

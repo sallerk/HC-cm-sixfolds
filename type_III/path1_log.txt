@@ -1,0 +1,19 @@
+done disc 2
+done disc 3
+done disc 5
+done disc 7
+done disc 11
+done disc 13
+done disc 17
+done disc 19
+done disc 23
+done disc 30
+done disc 42
+done disc 66
+done disc 70
+done disc 78
+done disc 102
+done disc 105
+done disc 110
+done disc 130
+path1: 21168 (D,T,K) cases; split 1180; formula agrees 21168/21168; detH<0 in 21168

@@ -1,0 +1,2 @@
+CM check: {'n_tau': 3, 'n_s1': 2, 'n_s2': 1, 'kubota_rank_dimMT': 6, 'dimHg': 5, 'dim_U_MK': 5, 'stabilizer': [(0, 0)]}
+{"cases": 242, "a0_totpos": 242, "a0_formula": 242, "a0_hilbert": 242, "a0_witt": 242, "c1_split": 33, "c1_agree": 242, "c1_formula": 242, "cR_split": 31, "cR_agree": 242, "cR_formula": 242, "fails": []} time 2s

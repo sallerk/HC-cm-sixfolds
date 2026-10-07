@@ -1,0 +1,128 @@
+[
+{
+"disc": 2,
+"a": -1,
+"c": -1,
+"n_classes": 279,
+"missing": []
+},
+{
+"disc": 3,
+"a": -1,
+"c": -3,
+"n_classes": 500,
+"missing": []
+},
+{
+"disc": 5,
+"a": -2,
+"c": -5,
+"n_classes": 1057,
+"missing": []
+},
+{
+"disc": 7,
+"a": -1,
+"c": -7,
+"n_classes": 786,
+"missing": []
+},
+{
+"disc": 11,
+"a": -1,
+"c": -11,
+"n_classes": 954,
+"missing": []
+},
+{
+"disc": 13,
+"a": -2,
+"c": -13,
+"n_classes": 1772,
+"missing": []
+},
+{
+"disc": 17,
+"a": -3,
+"c": -17,
+"n_classes": 1718,
+"missing": []
+},
+{
+"disc": 19,
+"a": -1,
+"c": -19,
+"n_classes": 1161,
+"missing": []
+},
+{
+"disc": 23,
+"a": -1,
+"c": -23,
+"n_classes": 1207,
+"missing": []
+},
+{
+"disc": 30,
+"a": -3,
+"c": -10,
+"n_classes": 1542,
+"missing": []
+},
+{
+"disc": 42,
+"a": -1,
+"c": -21,
+"n_classes": 1237,
+"missing": []
+},
+{
+"disc": 66,
+"a": -1,
+"c": -33,
+"n_classes": 1469,
+"missing": []
+},
+{
+"disc": 70,
+"a": -2,
+"c": -35,
+"n_classes": 2173,
+"missing": []
+},
+{
+"disc": 78,
+"a": -6,
+"c": -13,
+"n_classes": 2341,
+"missing": []
+},
+{
+"disc": 102,
+"a": -3,
+"c": -34,
+"n_classes": 2484,
+"missing": []
+},
+{
+"disc": 105,
+"a": -7,
+"c": -15,
+"n_classes": 2048,
+"missing": []
+},
+{
+"disc": 110,
+"a": -3,
+"c": -110,
+"n_classes": 2447,
+"missing": []
+},
+{
+"disc": 130,
+"a": -2,
+"c": -65,
+"n_classes": 2500,
+"missing": []
+}
+]

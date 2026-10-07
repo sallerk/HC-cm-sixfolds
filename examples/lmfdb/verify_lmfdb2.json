@@ -1,0 +1,45 @@
+[
+ {
+  "name": "lmfdb_6.2.ae_j_ar_bf_abx_ct",
+  "q_is_power_of_p": true,
+  "monic_symmetric": true,
+  "weil_sturm": true,
+  "irreducible": true,
+  "ordinary": true,
+  "N": 2227680,
+  "geom_simple": true,
+  "max_abs_dev": 0.0,
+  "relations": [
+   [
+    3,
+    -3,
+    3,
+    3,
+    -3,
+    -3,
+    1
+   ]
+  ],
+  "angle_rank_numerical": 5,
+  "bound_no_further_relation": 4.900200269606178e+49,
+  "relation_certificates": [
+   {
+    "relation": [
+     3,
+     -3,
+     3,
+     3,
+     -3,
+     -3,
+     1
+    ],
+    "m": 18,
+    "digits": 354,
+    "log10_abs_x": null,
+    "log10_threshold": -268.81978612793523,
+    "certified": true
+   }
+  ],
+  "ALL_OK": true
+ }
+]

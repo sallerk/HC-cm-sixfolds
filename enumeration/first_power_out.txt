@@ -1,0 +1,76 @@
+5 16 [0, 1, 2, 4, 8] (4, 1) d=1 genDmin 6 first unexplained power n = None
+5 16 [0, 1, 2, 8, 9] (4, 1) d=1 genDmin 6 first unexplained power n = None
+5 26 [0, 1, 2, 4, 8] (4, 1) d=1 genDmin 6 first unexplained power n = None
+5 26 [0, 1, 2, 8, 9] (4, 1) d=1 genDmin 6 first unexplained power n = None
+5 70 [0, 1, 2, 4, 8] (4, 1) d=1 genDmin 6 first unexplained power n = None
+5 70 [0, 1, 2, 8, 9] (4, 1) d=1 genDmin 6 first unexplained power n = None
+5 75 [0, 1, 2, 4, 8] (4, 1) d=1 genDmin 6 first unexplained power n = None
+5 75 [0, 1, 2, 8, 9] (4, 1) d=1 genDmin 6 first unexplained power n = None
+5 136 [0, 1, 2, 4, 8] (4, 1) d=1 genDmin 6 first unexplained power n = None
+5 136 [0, 1, 2, 8, 9] (4, 1) d=1 genDmin 6 first unexplained power n = None
+summary g=5: {((4, 1), 1, 6): {None}}
+6 49 [0, 1, 2, 3, 4, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 1, -1, 1, 0, 0])
+6 49 [0, 1, 2, 3, 5, 10] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 1, 1, -1, 0, 0])
+6 49 [0, 1, 2, 4, 9, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 1, 1, 1, 0, 0])
+6 49 [0, 1, 2, 5, 9, 10] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 1, -1, -1, 0, 0])
+6 51 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, 1, -1, 0, -1])
+6 51 [0, 1, 2, 3, 5, 10] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, 1, 1, 0, -1])
+6 51 [0, 1, 3, 4, 8, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, -1, -1, 0, -1])
+6 51 [0, 1, 3, 5, 8, 10] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, -1, 1, 0, -1])
+6 52 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, 1, 0, 0])
+6 52 [0, 1, 2, 4, 9, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, -1, 0, 0])
+6 52 [0, 1, 3, 4, 8, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, 1, 0, 0])
+6 52 [0, 1, 4, 8, 9, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, -1, 0, 0])
+6 59 [0, 1, 2, 3, 4, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, 1, 0, 0])
+6 59 [0, 1, 2, 4, 9, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, -1, 0, 0])
+6 59 [0, 1, 3, 4, 8, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, 1, 0, 0])
+6 59 [0, 1, 4, 8, 9, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, -1, 0, 0])
+6 64 [0, 1, 2, 3, 4, 11] (2, 2, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, 1, 1, -1, 0])
+6 64 [0, 1, 2, 3, 5, 10] (2, 2, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, 1, 1, 1, 0])
+6 64 [0, 1, 3, 4, 8, 11] (2, 2, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, -1, -1, 1, 0])
+6 64 [0, 1, 3, 5, 8, 10] (2, 2, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, -1, -1, -1, 0])
+6 68 [0, 1, 2, 3, 4, 11] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, 3, -1])
+6 68 [0, 1, 2, 3, 10, 11] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, -3, -1])
+6 238 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 238 [0, 1, 2, 4, 9, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 270 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, 1, 0, 0])
+6 270 [0, 1, 2, 4, 9, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, -1, 0, 0])
+6 270 [0, 1, 3, 4, 8, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, 1, 0, 0])
+6 270 [0, 1, 4, 8, 9, 11] (4, 1, 1) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, -1, 0, 0])
+6 274 [0, 1, 2, 3, 4, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, 1, 0, 0])
+6 274 [0, 1, 2, 4, 9, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, -1, 0, 0])
+6 274 [0, 1, 3, 4, 8, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, 1, 0, 0])
+6 274 [0, 1, 4, 8, 9, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, -1, 0, 0])
+6 283 [0, 1, 2, 4, 9, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 1, -1, -1, 0, 0])
+6 283 [0, 1, 2, 5, 9, 10] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 1, 1, 1, 0, 0])
+6 286 [0, 1, 2, 4, 9, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 1, 1, 1, 0, 0])
+6 286 [0, 1, 2, 5, 9, 10] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 1, -1, -1, 0, 0])
+6 288 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 288 [0, 1, 2, 4, 9, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 289 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 289 [0, 1, 3, 4, 8, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 290 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 290 [0, 1, 3, 4, 8, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 291 [0, 1, 2, 3, 5, 10] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, 1, 1, 0, -1])
+6 291 [0, 1, 3, 4, 8, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, 0, -1, -1, 0, -1])
+6 293 [0, 1, 2, 4, 5, 9] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, -1, 0, 0])
+6 293 [0, 1, 3, 4, 5, 8] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, 1, 0, 0])
+6 297 [0, 1, 2, 3, 4, 11] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, 3, -1])
+6 297 [0, 1, 2, 3, 10, 11] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, -3, -1])
+6 797 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 797 [0, 1, 2, 4, 9, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 798 [0, 1, 2, 3, 4, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, 1, 1, 0, 0])
+6 798 [0, 1, 4, 8, 9, 11] (4, 2) d=2 genDmin 8 first unexplained power n = (1, [-1, -1, -1, -1, 0, 0])
+6 812 [0, 1, 2, 3, 4, 11] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, 3, -1])
+6 812 [0, 1, 2, 3, 10, 11] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, -3, -1])
+6 852 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 852 [0, 1, 2, 4, 9, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 861 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 861 [0, 1, 3, 4, 8, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 1551 [0, 1, 2, 3, 4, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 1551 [0, 1, 2, 4, 9, 11] (4, 1, 1) d=1 genDmin 6 first unexplained power n = None
+6 1564 [0, 1, 2, 3, 5, 10] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, -1, 3])
+6 1564 [0, 1, 2, 3, 10, 11] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, -1, -3])
+6 2059 [0, 1, 2, 3, 5, 10] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, -1, 3])
+6 2059 [0, 1, 2, 3, 10, 11] (5, 1) d=1 genDmin 8 first unexplained power n = (3, [-1, -1, -1, -1, -1, -3])
+summary g=6: {((4, 2), 2, 8): {1}, ((4, 1, 1), 2, 8): {1}, ((2, 2, 2), 2, 8): {1}, ((5, 1), 1, 8): {3}, ((4, 1, 1), 1, 6): {None}}

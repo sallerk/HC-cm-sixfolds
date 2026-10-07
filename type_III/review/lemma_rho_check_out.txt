@@ -1,0 +1,31 @@
+D=(-1,-1) T=<1i,1i,1i> alpha = right mult by j: K=Q(q), q=(0, 1, 0, 0), Nrd(q)=1: nu=-1, det_K=1+0q, rho = nu^3/det_K = -1+0q
+D=(-1,-1) T=<1i,1i,1i> alpha = right mult by j: K=Q(q), q=(0, 1, 1, 0), Nrd(q)=2: nu=-1, det_K=1+0q, rho = nu^3/det_K = -1+0q
+D=(-1,-1) T=<1i,1i,1i> alpha = right mult by j: K=Q(q), q=(0, 1, 1, 1), Nrd(q)=3: nu=-1, det_K=1+0q, rho = nu^3/det_K = -1+0q
+D=(-1,-1) T=<1i,1i,1i> alpha = right mult by j: K=Q(q), q=(0, 0, 1, 2), Nrd(q)=5: nu=-1, det_K=1+0q, rho = nu^3/det_K = -1+0q
+D=(-1,-1) T=<1i,1i,1i> control: homothety 3: K=Q(q), q=(0, 1, 0, 0), Nrd(q)=1: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-1,-1) T=<1i,1i,1i> control: homothety 3: K=Q(q), q=(0, 1, 1, 0), Nrd(q)=2: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-1,-1) T=<1i,1i,1i> control: homothety 3: K=Q(q), q=(0, 1, 1, 1), Nrd(q)=3: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-1,-1) T=<1i,1i,1i> control: homothety 3: K=Q(q), q=(0, 0, 1, 2), Nrd(q)=5: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-1,-1) T=<1i,1i,1i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 1, 0, 0), Nrd(q)=1: nu=5, det_K=125+0q, rho = nu^3/det_K = 1+0q
+D=(-1,-1) T=<1i,1i,1i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 1, 1, 0), Nrd(q)=2: nu=5, det_K=125+0q, rho = nu^3/det_K = 1+0q
+D=(-1,-1) T=<1i,1i,1i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 1, 1, 1), Nrd(q)=3: nu=5, det_K=125+0q, rho = nu^3/det_K = 1+0q
+D=(-1,-1) T=<1i,1i,1i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 0, 1, 2), Nrd(q)=5: nu=5, det_K=125+0q, rho = nu^3/det_K = 1+0q
+D=(-2,-5) T=<1i,2i,5i> alpha = right mult by j: K=Q(q), q=(0, 1, 0, 0), Nrd(q)=2: nu=-5, det_K=125+0q, rho = nu^3/det_K = -1+0q
+D=(-2,-5) T=<1i,2i,5i> alpha = right mult by j: K=Q(q), q=(0, 0, 1, 0), Nrd(q)=5: nu=-5, det_K=125+0q, rho = nu^3/det_K = -1+0q
+D=(-2,-5) T=<1i,2i,5i> alpha = right mult by j: K=Q(q), q=(0, 1, 1, 1), Nrd(q)=17: nu=-5, det_K=125+0q, rho = nu^3/det_K = -1+0q
+D=(-2,-5) T=<1i,2i,5i> control: homothety 3: K=Q(q), q=(0, 1, 0, 0), Nrd(q)=2: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-2,-5) T=<1i,2i,5i> control: homothety 3: K=Q(q), q=(0, 0, 1, 0), Nrd(q)=5: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-2,-5) T=<1i,2i,5i> control: homothety 3: K=Q(q), q=(0, 1, 1, 1), Nrd(q)=17: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-2,-5) T=<1i,2i,5i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 1, 0, 0), Nrd(q)=2: nu=6, det_K=216+0q, rho = nu^3/det_K = 1+0q
+D=(-2,-5) T=<1i,2i,5i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 0, 1, 0), Nrd(q)=5: nu=6, det_K=216+0q, rho = nu^3/det_K = 1+0q
+D=(-2,-5) T=<1i,2i,5i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 1, 1, 1), Nrd(q)=17: nu=6, det_K=216+0q, rho = nu^3/det_K = 1+0q
+D=(-3,-7) T=<1i,3i,1i> alpha = right mult by j: K=Q(q), q=(0, 1, 0, 0), Nrd(q)=3: nu=-7, det_K=343+0q, rho = nu^3/det_K = -1+0q
+D=(-3,-7) T=<1i,3i,1i> alpha = right mult by j: K=Q(q), q=(0, 1, 2, 0), Nrd(q)=31: nu=-7, det_K=343+0q, rho = nu^3/det_K = -1+0q
+D=(-3,-7) T=<1i,3i,1i> alpha = right mult by j: K=Q(q), q=(0, 2, 1, 1), Nrd(q)=40: nu=-7, det_K=343+0q, rho = nu^3/det_K = -1+0q
+D=(-3,-7) T=<1i,3i,1i> control: homothety 3: K=Q(q), q=(0, 1, 0, 0), Nrd(q)=3: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-3,-7) T=<1i,3i,1i> control: homothety 3: K=Q(q), q=(0, 1, 2, 0), Nrd(q)=31: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-3,-7) T=<1i,3i,1i> control: homothety 3: K=Q(q), q=(0, 2, 1, 1), Nrd(q)=40: nu=9, det_K=729+0q, rho = nu^3/det_K = 1+0q
+D=(-3,-7) T=<1i,3i,1i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 1, 0, 0), Nrd(q)=3: nu=7, det_K=343+0q, rho = nu^3/det_K = 1+0q
+D=(-3,-7) T=<1i,3i,1i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 1, 2, 0), Nrd(q)=31: nu=7, det_K=343+0q, rho = nu^3/det_K = 1+0q
+D=(-3,-7) T=<1i,3i,1i> control: right mult by 2+i (identity component): K=Q(q), q=(0, 2, 1, 1), Nrd(q)=40: nu=7, det_K=343+0q, rho = nu^3/det_K = 1+0q
+SUMMARY: non-identity-component element acts by -1 on W(A,K) in 10/10 cases; controls act trivially in 20/20 cases

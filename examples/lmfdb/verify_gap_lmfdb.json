@@ -1,0 +1,23 @@
+[
+ {
+  "name": "lmfdb_6.2.ag_s_abm_co_aea_fx",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T11",
+  "order_h": 48,
+  "sec": 0.1
+ },
+ {
+  "name": "lmfdb_6.2.af_l_aq_ba_acb_dl",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T16",
+  "order_h": 720,
+  "sec": 0.0
+ },
+ {
+  "name": "lmfdb_6.2.ae_f_b_aj_n_ar",
+  "GaloisType_P": "not run",
+  "GaloisType_h": "6T13",
+  "order_h": 72,
+  "sec": 0.0
+ }
+]

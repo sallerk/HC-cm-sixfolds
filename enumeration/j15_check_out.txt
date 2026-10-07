@@ -1,0 +1,2 @@
+J15 sub-product A15 x S5: |G|=8 orbits=[8, 4] TI=['8T2', '4T1'] d=2 LU=[[1, 0, -1, 0, -1, 1], [0, 1, 0, 1, -1, -1]] strict=False primitive=[True, True] reduced=True
+located gid=49 Phi=[0, 1, 2, 3, 5, 10] Nclass=1 passed=False

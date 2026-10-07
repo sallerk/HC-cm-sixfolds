@@ -1,0 +1,2 @@
+COMBINED over chunks 0..4 (python split_checks.py 5 i 5; chunk i: pairs[i::5], seed 51005+i)
+{"cases": 780, "A_ok": 780, "B_ok": 592, "C_A_ok": 780, "C_B_ok": 592, "h1_split": 84, "h1_consistent": 780, "forced_cases": 203, "forced2_cases": 95, "B_notfound": 188, "det_formula_ok": 780, "seconds": 689.9, "FAILS": 0}

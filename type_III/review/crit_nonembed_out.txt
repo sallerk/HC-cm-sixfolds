@@ -1,0 +1,16 @@
+D=(-1,-1) ram=[0, 2]: | embeds=False: Delta=-935, split K 0/40 | embeds=True: Delta=-627, split K 6/40
+D=(-1,-3) ram=[0, 3]: | embeds=False: Delta=-5, split K 0/40 | embeds=True: Delta=-9282, split K 5/40
+D=(-2,-5) ram=[0, 5]: | embeds=False: Delta=-9614, split K 0/40 | embeds=True: Delta=-357, split K 1/40
+D=(-3,-5) ram=[0, 5]: | embeds=False: Delta=-69, split K 0/40 | embeds=True: Delta=-7682, split K 3/40
+D=(-1,-7) ram=[0, 7]: | embeds=False: Delta=-5, split K 0/40 | embeds=True: Delta=-74, split K 1/40
+D=(-1,-11) ram=[0, 11]: | embeds=False: Delta=-13, split K 0/40 | embeds=True: Delta=-3289, split K 7/40
+D=(-2,-13) ram=[0, 13]: | embeds=False: Delta=-374, split K 0/40 | embeds=True: Delta=-6, split K 1/40
+D=(-3,-17) ram=[0, 17]: | embeds=False: Delta=-1437, split K 0/40 | embeds=True: Delta=-131, split K 3/40
+D=(-1,-19) ram=[0, 19]: | embeds=False: Delta=-2510, split K 0/40 | embeds=True: Delta=-235885, split K 0/40
+D=(-7,-10) ram=[0, 5]: | embeds=False: Delta=-2849, split K 0/40 | embeds=True: Delta=-136510, split K 2/40
+D=(-3,-10) ram=[0, 2, 3, 5]: | embeds=False: Delta=-219, split K 0/40 | embeds=True: Delta=-481873, split K 0/40
+D=(-6,-11) ram=[0, 2]: | embeds=False: Delta=-1596759, split K 0/40 | embeds=True: Delta=-101, split K 9/40
+D=(-5,-14) ram=[0, 2]: | embeds=False: Delta=-10138791, split K 0/40 | embeds=True: Delta=-145789, split K 3/40
+D=(-1,-30) ram=[0, 3]: | embeds=False: Delta=-3542, split K 0/40 | embeds=True: Delta=-3, split K 16/40
+D=(-13,-15) ram=[0, 3, 5, 13]: | embeds=False: Delta=-385910, split K 0/40 | embeds=True: Delta=-427, split K 0/40
+TOTAL: {"nonembed_T": 15, "nonembed_K_tested": 600, "nonembed_K_split": 0, "embed_T": 15, "embed_K_tested": 600, "embed_K_split": 57, "embed_T_with_split": 12, "crit_mismatch": 0}

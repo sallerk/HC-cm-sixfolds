@@ -1,0 +1,23 @@
+[control] k=2: 91 generators tested; failing so(6)-invariance: ['BAD01']  (expected: only BAD01)
+k=2 mu=(2, 2, 1, 1) deg=6 inv=4 rank=5 monomials=8 tries=[[11, 1000003, 5, 5]] EXCEEDS (0.03s)
+k=2 mu=(1, 1, 0, 0) deg=2 inv=1 rank=2 monomials=2 tries=[[11, 1000003, 2, 2]] EXCEEDS (0.0s)
+k=2 mu=(2, 2, 0, 0) deg=4 inv=1 rank=2 monomials=3 tries=[[11, 1000003, 3, 2]] EXCEEDS (0.0s)
+k=2 mu=(3, 3, 0, 0) deg=6 inv=2 rank=3 monomials=5 tries=[[11, 1000003, 5, 3]] EXCEEDS (0.02s)
+k=2 mu=(2, 1, 1, 0) deg=4 inv=1 rank=2 monomials=2 tries=[[11, 1000003, 2, 2]] EXCEEDS (0.0s)
+k=2 mu=(6, 0, 0, 0) deg=6 inv=1 rank=1 monomials=1 tries=[[11, 1000003, 1, 1]] OK (0.0s)
+k=2 mu=(5, 1, 0, 0) deg=6 inv=1 rank=1 monomials=1 tries=[[11, 1000003, 1, 1]] OK (0.0s)
+k=2 mu=(4, 2, 0, 0) deg=6 inv=1 rank=1 monomials=1 tries=[[11, 1000003, 1, 1]] OK (0.0s)
+k=2 mu=(2, 0, 0, 0) deg=2 inv=0 rank=0 monomials=0 tries=[[11, 1000003, 0, 0]] OK (0.0s)
+k=2 mu=(4, 0, 0, 0) deg=4 inv=0 rank=0 monomials=0 tries=[[11, 1000003, 0, 0]] OK (0.0s)
+k=2 mu=(4, 1, 1, 0) deg=6 inv=1 rank=1 monomials=1 tries=[[11, 1000003, 1, 1]] OK (0.0s)
+k=2 mu=(3, 1, 0, 0) deg=4 inv=0 rank=0 monomials=0 tries=[[11, 1000003, 0, 0]] OK (0.0s)
+k=2 mu=(3, 2, 1, 0) deg=6 inv=2 rank=3 monomials=4 tries=[[11, 1000003, 4, 3]] EXCEEDS (0.02s)
+k=2 mu=(3, 1, 1, 1) deg=6 inv=2 rank=3 monomials=3 tries=[[11, 1000003, 3, 3]] EXCEEDS (0.02s)
+k=2 mu=(1, 1, 1, 1) deg=4 inv=3 rank=4 monomials=4 tries=[[11, 1000003, 4, 4]] EXCEEDS (0.03s)
+k=2 mu=(2, 2, 2, 0) deg=6 inv=2 rank=3 monomials=3 tries=[[11, 1000003, 3, 3]] EXCEEDS (0.02s)
+k=2 mu=(0, 0, 0, 0) deg=0 inv=1 rank=1 monomials=1 tries=[[11, 1000003, 1, 1]] OK (0.02s)
+summary k=2 mode=bad (degree: sum inv over dominant weights, sum rank, #weights with rank==inv / #weights):
+  0: 1 1 1/1
+  2: 1 2 1/2
+  4: 5 8 2/5
+  6: 16 21 4/9
