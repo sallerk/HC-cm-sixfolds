@@ -33,11 +33,14 @@ Proposition 6.5 (generation) -- checks only; the proof in the note uses no compu
   gen_check.py K DMAX MODE [DMIN] -> gen_check_k{K}_d{DMIN}-{DMAX}_{MODE}.txt/.json
                                                      ranks modulo primes of random projections of products of the
                                                      classes theta(u,u') and omega(u), compared with inv_dims.
-                                                     MODE normal: k=2 all degrees, k=3 degrees <= 14, k=4 degrees
-                                                     <= 10, all weights OK. MODE theta_only (control): divisor
-                                                     classes alone fall short exactly in degrees 6..18 for k=2.
-                                                     MODE bad (control): a planted non-invariant generator is
-                                                     detected. A run for k=3, degree 16 was not completed.
+                                                     MODE normal: k=2 all degrees, k=3 degrees <= 16, k=4 degrees
+                                                     <= 10, all weights OK (k=3, degree 16: 55 weights,
+                                                     3111 = 3111, per-weight times sum to 3.2 h; for k=3 the
+                                                     degrees >= 20 follow by hard Lefschetz, and the middle
+                                                     degree 18 was not run).
+                                                     MODE theta_only (control): divisor classes alone fall short
+                                                     exactly in degrees 6..18 for k=2. MODE bad (control): a
+                                                     planted non-invariant generator is detected.
   compare_with_project.txt                           the 58 dominant weights for k=2 also computed by
                                                      ../hodge_ring.sage agree.
   pullback_span.py, pullback_span_big.py, pullback_span_k5.py -> pullback_span*_out.txt/.json
