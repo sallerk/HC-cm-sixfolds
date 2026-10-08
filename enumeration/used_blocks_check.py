@@ -11,8 +11,10 @@
 # B is encoded as in cmenum.mult_weil: for an imaginary quadratic K (a G-character with rho -> -1) and the orbits O_i
 # on which K has a block B_i, a vector c in Z^{orbits}; character w = sum_i c_i [B_i], dim B = sum_i |c_i| g_i,
 # balanced iff sum_i c_i t_i = 0 with t_i = 2|Phi cap B_i| - |B_i|.  The strict definition is c_i in {-1,0,1}.
-# Everything is recomputed from the generators in enum_g{g}.json; the stored flags (passed, mult.Dmin) and the
-# general-CM-field minimal dimension of general_weil2_out_D12.json are only compared.
+# The group data and the Weil characters are recomputed from the generators in enum_g{g}.json; the selection of the
+# cases (reduced, d >= 1), d and Lambda_U are taken from the stored records (verify_enum.py recomputes them
+# independently); the stored flags (passed, mult.Dmin) and the general-CM-field minimal dimension of
+# general_weil2_out_D12.json are only compared.
 #   usage:  python used_blocks_check.py > used_blocks_check_out.txt
 import json, os, itertools, collections
 from verify_enum import group_struct, wvec, hnf, sat_index, set_orbit

@@ -1,0 +1,17 @@
+LU entry      must  corrupted 175, rejected 175
+defect        must  corrupted 175, rejected 175
+T entry       must  corrupted 127, rejected 127
+T not int     must  corrupted 127, rejected 127
+kind label    must  corrupted 127, rejected 127
+multiplicity  must  corrupted 127, rejected 127
+zero mult.    must  corrupted  66, rejected  66
+status        must  corrupted 175, rejected 175
+Phi alias     must  corrupted 175, rejected 175
+chi sign            corrupted 127, rejected 127
+Phi                 corrupted 175, rejected 151
+              accepted Phi mutations: 24, of which in the G-orbit of the original CM type (the same pair): 24
+rational T    must  corrupted  12, rejected  12 (only for the non-integral T: 12)
+duplicate     must  corrupted 175, rejected 175
+class label   must  corrupted  14, rejected  14   (unmodified certificate: 0 errors)
+must-reject mutations: 1475 corrupted, 1475 rejected
+RESULT: all must-reject mutations detected

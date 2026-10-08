@@ -1,0 +1,13 @@
+records: 175 ; with errors: 0
+  g=4 kinds a-d  6
+  g=5 kinds a-d  21
+  g=6 kinds a-d  100
+  g=6 table2     48
+Table 2 (factor dimensions: classes up to W(B_6) (G-orbits); IQ rank at dimension <= 12; equal to Lambda_U):
+  (5, 1)     5 (10) ; rank [1] ; equal [True]
+  (4, 1, 1)  3 (12) ; rank [2] ; equal [False]
+  (4, 2)     8 (22) ; rank [0] ; equal [False]
+  (2, 2, 2)  1 (4) ; rank [0] ; equal [False]
+transitive pairs with g = 6 (simple sixfolds, d = 1): 15 classes up to W(B_6) (21 G-orbits)
+no two records with the same group and CM types in the same G-orbit: True
+RESULT: all records verified

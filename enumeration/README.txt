@@ -111,6 +111,17 @@ cyclotomic_checks/  (pure Python + sympy; no code shared with the files above)
   fermat_factor_search.py  primitive Fermat-curve Jacobian factors of type H_{a,b,c} (a+b+c = 0 mod m) with
                          reduced CM field Q(sqrt-11), m in {11, 22, 33, ..., 99, 121}; type of
                          J_11 = H_{1,1,9} mod 11.  -> fermat_factor_search.out
+prop41/  (pure Python 3, standard library; added 7 October 2026; own README.txt)
+  check_prop41.py        checks each step of the hand proof of Proposition 4.1 (Lemmas 4.2-4.5) and Table 1
+                         against enum_g6.json and ../examples/combi_rows.json.  -> check_prop41_out.txt
+certificate/  (pure Python 3, standard library; added 7 October 2026; own README.txt)
+  certificate.json       for each of the 175 reduced pairs with d >= 1 and g <= 6 (one per G-orbit): generators,
+                         orbits, CM type, d, a basis of Lambda_U, the Weil characters of kinds (a)-(d) with the
+                         integer matrix T expressing the basis in terms of them, or the status "table2".
+  make_certificate.py    writes certificate.json from enum_g{g}.json (uses verify_enum.py).
+  check_certificate.py   verifies every record from certificate.json alone, and the class counts of Table 2 and
+                         of the 15 transitive classes by brute force over W(B_6).  -> check_certificate_out.txt
+  mutation_test.py       corrupted certificates are rejected.  -> mutation_test_out.txt
 open_families/  explicit CM fields realising members of the families (5,1), (4,2), (4,1,1); the members located
                 at gids 2059, 283 and 270 have non-abelian Galois groups (10T22 + 2T1; 8T9 + 4T3; 8T9 + 2T1 + 2T1)
   fields_pari.py         (Python + cypari/PARI) X1: E = Q(theta, i), theta a root of x^5-5x^3-x^2+3x+1 (Galois
@@ -253,19 +264,22 @@ open_families (log_analyse.txt, verify_out.txt):
   own model (its index 2 for (4,1,1)); it does not treat K' of degree > 2.
 
 STATEMENTS OF THE NOTE SUPPORTED
-  Sec. 4, Proposition 4.1 (CM types of degree 12; 15 classes; comparison with [APFV]) and Theorem B (simple CM
-    sixfolds): run_enum.py (g = 6), enum_g6.json, stage1.py / stage1_out.txt / stage1_rows.json, controls.py /
-    controls_out.txt / controls_apfv.json, verify_enum.py, verify_controls.py, cyclotomic_checks/ (Q(zeta21)).
+  Sec. 4, Proposition 4.1 (CM types of degree 12; 15 classes; comparison with [APFV]) and Theorem B (Hodge groups
+    of simple CM sixfolds): proved by hand in the note (Lemmas 4.2-4.5); checked by run_enum.py (g = 6),
+    enum_g6.json, stage1.py / stage1_out.txt / stage1_rows.json, verify_enum.py, prop41/ (each step of the proof
+    and Table 1) and certificate/ (15 classes, 21 G-orbits); the comparison with [APFV] (computational):
+    controls.py / controls_out.txt / controls_apfv.json, verify_controls.py; cyclotomic_checks/ (Q(zeta21)).
   Sec. 5, Proposition 5.1 (product criterion Lambda_W = Lambda_U): the test is implemented in
     cmenum.type_analysis (strict) and cmenum.mult_weil (with multiplicities); used_blocks_check.py lists which
-    kinds of sub-products B are needed.
+    kinds of sub-products B are needed; certificate/ records the Weil characters used for each pair.
   Sec. 5, Theorem 5.2 (reduced dimension <= 5): enum_g1..5.json, final_tables.txt, tiers_out.txt,
     summary_strict.txt, verify_enum.py (every reduced pair with g <= 5 passes the KEY TEST, except 10 pairs at
     g = 5 with IQ-multiplicity Dmin = 6), used_blocks_check_out.txt.
   Sec. 5, Proposition 5.3 and Table 2 (non-simple sixfolds; open families (5,1), (4,2), (4,1,1); (2,2,2)):
     final_tables.txt, general_weil2_out_D12.json, verify_general_out.txt, first_power_out.txt, tiers_out.txt,
-    j11_check_out.txt, j15_check_out.txt, open_families/.
-  Remark 4.3 (Fermat type), Remark 5.4 (members of the open families) and the controls in Sec. 9:
+    j11_check_out.txt, j15_check_out.txt, open_families/, certificate/ (Theorem 5.2, Proposition 5.3, the class
+    counts of Table 2 and the worked example of Remark 5.4(a), record gid 270).
+  Remark 4.7 (Fermat type), Remark 5.4 (members of the open families) and the controls in Sec. 9:
     cyclotomic_checks/, j11_check.py, j15_check.py, controls.py (Milne Ex. 1.12, Q(zeta21)), open_families/.
 
 NOT CHECKED INDEPENDENTLY

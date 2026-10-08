@@ -3,7 +3,8 @@ type_IV -- computations for type-IV abelian sixfolds with L = K F (note, Sec. 7,
 
 Purpose
 -------
-Setting (note, Sec. 7): K = Q(sqrt(-d)), F = Q(sqrt(m)) real quadratic, L = K F, A an abelian sixfold
+Setting (note, Sec. 7; the note writes b for d and A^k for the powers A^n below):
+K = Q(sqrt(-d)), F = Q(sqrt(m)) real quadratic, L = K F, A an abelian sixfold
 with L acting, Hodge multiplicities (2,1) and (1,2) at the two embeddings of L over one embedding of K;
 H a 3x3 L-hermitian matrix (signature (2,1) at one real place f1 of F, (1,2) at the other), and for
 a in F the K-hermitian form h_a = Tr_{L/K}(a H) on V = L^3, computed in the K-basis {e_i, sqrt(m) e_i}.
