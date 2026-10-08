@@ -12,6 +12,7 @@ Conventions in the scripts: D = (a,c)_Q with a, c < 0, basis 1, i, j, k (i^2 = a
 quaternions are coordinate lists [x0, x1, x2, x3]; T is a 3x3 skew-hermitian matrix over D on V = D^3.
 Output strings use older names: "Lemma 2" = Lemma 6.1; "Thm3", "criterion", "formula", "pred" =
 Proposition 6.2, first statement; "Cor4" = Proposition 6.2, second statement.
+In independent_check/cor4_check_out.txt, "d with Q(sqrt-d)" refers to the integer b with K = Q(sqrt(-b)).
 
 STATEMENTS OF THE NOTE AND THE FILES THAT CHECK THEM
   Lemma 6.1 (det_K H_K = -b c Delta mod Nm K^x):

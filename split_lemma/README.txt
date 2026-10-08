@@ -3,6 +3,7 @@ split_lemma -- numerical evidence for the split-polarization lemma (note, Sec. 3
 
 Purpose
 -------
+Notation: the integer d with K = Q(sqrt(-d)) is called b in the note.
 Theorem A: every CM abelian variety of Weil type (E = K (x) F a CM field or a product of CM fields,
 K = Q(sqrt(-d)) embedded diagonally, signature (n,n)) has an E-compatible polarization whose K-hermitian
 form h_a(x,y) = Tr_{E/K}(a x ybar), a in F^x, has determinant (-1)^n modulo norms from K (is split).

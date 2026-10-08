@@ -10,6 +10,7 @@ Supports:
   - note Sec. 4, Example: row 12T7, F = Q[x]/(x^6 - 12x^4 + 35x^2 - 25), K = Q(i), E = F.K, q = p = 73.
 [APFV] S. Arango-Pineros, S. Frengley, S. Vemulapalli, Galois groups of simple abelian varieties over finite fields
 and exceptional Tate classes, arXiv:2505.09589.
+Notation: the integer d with K = Q(sqrt(-d)) is called b in the note.
 
 RESULT (final_table.txt / final_table.json, rows *_deg)
   row     Gal(F)  F (totally real sextic)                    disc(F)          K          p      q
