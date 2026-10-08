@@ -1,0 +1,15 @@
+12T2    K=Q(sqrt-3) q=139: Nm(pi) = q^3 * (1 + 0*sqrt(-3)), order 1
+12T10   K=Q(sqrt-1) q=269: Nm(pi) = q^3 * (-1 + 0*sqrt(-1)), order 2
+12T7    K=Q(sqrt-1) q=73: Nm(pi) = q^3 * (-1 + 0*sqrt(-1)), order 2
+12T18   K=Q(sqrt-3) q=331: Nm(pi) = q^3 * (1 + 0*sqrt(-3)), order 1
+12T25   K=Q(sqrt-3) q=211: Nm(pi) = q^3 * (-1 + 0*sqrt(-3)), order 2
+12T23   K=Q(sqrt-1) q=617: Nm(pi) = q^3 * (-1 + 0*sqrt(-1)), order 2
+12T24   K=Q(sqrt-1) q=881: Nm(pi) = q^3 * (-1 + 0*sqrt(-1)), order 2
+12T37   K=Q(sqrt-3) q=331: Nm(pi) = q^3 * (-1/2 + 1/2*sqrt(-3)), order 3
+12T40   K=Q(sqrt-3) q=991: Nm(pi) = q^3 * (-1/2 + -1/2*sqrt(-3)), order 3
+12T48   K=Q(sqrt-3) q=907: Nm(pi) = q^3 * (-1/2 + 1/2*sqrt(-3)), order 3
+12T75   K=Q(sqrt-3) q=69172489: Nm(pi) = q^3 * (1 + 0*sqrt(-3)), order 1
+12T77   K=Q(sqrt-3) q=619: Nm(pi) = q^3 * (-1/2 + -1/2*sqrt(-3)), order 3
+12T123  K=Q(sqrt-3) q=12409: Nm(pi) = q^3 * (-1/2 + -1/2*sqrt(-3)), order 3
+12T180  K=Q(sqrt-3) q=2437: Nm(pi) = q^3 * (-1/2 + 1/2*sqrt(-3)), order 3
+12T219  K=Q(sqrt-1) q=2069: Nm(pi) = q^3 * (-1 + 0*sqrt(-1)), order 2

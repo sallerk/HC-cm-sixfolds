@@ -118,6 +118,9 @@ FILES
   main_check_12T7.py, main_check_12T7.out  independent check of the 12T7 polynomial with sympy and mpmath only
       (q-symmetry, irreducibility, |roots|^2 = q, ordinarity, PSLQ relation theta_1 + theta_2 + theta_3 - theta_4
       - theta_5 - theta_6 = -pi, no second relation with coefficients up to 1e12). Supports the Sec. 4 Example.
+  norm_zeta.py, norm_zeta.out  for the 15 *_deg rows, Nm_{E/K}(pi) = zeta q^3 with zeta = 1 (12T2, 12T18, 12T75),
+      -1 (12T7, 12T10, 12T23, 12T24, 12T25, 12T219) or of order 3 (the other six rows). mpmath only locates the
+      factor P1 of P over K; P = P1 * conj(P1) over K and zeta = P1(0)/q^3 are checked exactly. Supports Sec. 8.
   search_F.py, search_F.json, search_F.out  search for totally real sextic F with each Galois group 6Tj (smallest
       discriminant found per j); source of F for all rows except 12T75 and 12T180.
   search_F2.py, extra_F2.json  search for totally real 6T12 / 6T14 sextics (resolvent sextics of quintics); source
@@ -160,6 +163,7 @@ HOW TO RUN (from this folder; versions used for the re-run in RERUN_LOG.txt)
    python verify_K.py examples_in.json verify_gap.json verify_K.json                         (14 s)
    python final_table.py                                                                     (< 1 s)
    python main_check_12T7.py > main_check_12T7.out                                           (1 s)
+   python norm_zeta.py final_table.json > norm_zeta.out                                      (1 s)
    python search_F.py > search_F.out                                                         (129 s)
    python search_F2.py                                                                       (4 s)
   Expected output: the stored files are reproduced (JSON by content); only timing values differ
