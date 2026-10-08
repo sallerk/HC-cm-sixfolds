@@ -1,0 +1,9 @@
+lmfdb_6.2.ae_j_ar_bf_abx_ct (row 12T23), q = 2; imaginary quadratic subfields of E: discriminants [-3]
+  K = Q(sqrt(-3)), y^2 - 1*y + 1 = 0: P = P1 * P2: True; P2 = conj(P1): True; P1(0)/q^3 = -y; root of unity of order 3
+lmfdb_6.2.ag_s_abm_co_aea_fx (row 12T48), q = 2; imaginary quadratic subfields of E: discriminants [-4]
+  K = Q(sqrt(-4)), y^2 - 0*y + 1 = 0: P = P1 * P2: True; P2 = conj(P1): True; P1(0)/q^3 = 1; root of unity of order 1
+lmfdb_6.2.af_l_aq_ba_acb_dl (row 12T219), q = 2; imaginary quadratic subfields of E: discriminants [-3]
+  K = Q(sqrt(-3)), y^2 - 1*y + 1 = 0: P = P1 * P2: True; P2 = conj(P1): True; P1(0)/q^3 = y; root of unity of order 6
+lmfdb_6.2.ae_f_b_aj_n_ar (row 12T77), q = 2; imaginary quadratic subfields of E: discriminants [-3, -7]
+  K = Q(sqrt(-3)), y^2 - 1*y + 1 = 0: P = P1 * P2: True; P2 = conj(P1): True; P1(0)/q^3 = y - 1; root of unity of order 3
+  K = Q(sqrt(-7)), y^2 - 1*y + 2 = 0: P = P1 * P2: True; P2 = conj(P1): True; P1(0)/q^3 = 1/2*y - 1; not a root of unity

@@ -51,4 +51,7 @@ Proposition 6.5 (generation) -- checks only; the proof in the note uses no compu
                                                      more than dim Sym^6 (96 > 84, 474 > 462). pullback_span_k5.py
                                                      takes about 15 minutes per pair and several GB of memory.
 
-Usage examples:  python crit_check.py ;  python gen_check.py 2 12 normal ;  python pullback_span_k5.py
+Usage examples:  python crit_check.py 20261006 60 6 8 ;  python gen_check.py 2 12 normal ;  python pullback_span_k5.py
+crit_check.py: the arguments 20261006 60 6 8 (seed, algebras, forms per algebra, fields per form) are those of the
+stored run and reproduce crit_check_out.txt byte for byte (3120 triples; rechecked on 8 October 2026); without
+arguments the defaults 2026 40 4 6 give a smaller run (1080 triples).

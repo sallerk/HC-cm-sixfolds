@@ -192,3 +192,10 @@ lmfdb/ (statement in Sec. 8 that the rows 12T23, 12T48, 12T77 and 12T219 already
   verify_lmfdb*.json, verify_K_lmfdb*.json, verify_gap_lmfdb*.json
                              outputs of verify.py, verify_K.py and verify_gap.py on these four classes (ordinary,
                              geometrically simple, Galois group of the row).
+  norm_zeta_lmfdb.py, norm_zeta_lmfdb.out
+                             exact check (PARI through cypari) that Nm_{E/K}(pi) = zeta q^3 with zeta a root of unity
+                             for these four classes: K = Q(sqrt-3) with zeta of order 3 (12T23, 12T77) or 6 (12T219),
+                             K = Q(i) with zeta = 1 (12T48); for 12T77 the other imaginary quadratic subfield Q(sqrt-7)
+                             gives no such relation. With ordinarity and geometric simplicity this gives angle rank
+                             exactly 5 (Proposition 8.2 of the note); verify.py gives it only numerically.
+     python norm_zeta_lmfdb.py lmfdb_examples_in2.json lmfdb_examples_in.json > norm_zeta_lmfdb.out   (< 1 s)

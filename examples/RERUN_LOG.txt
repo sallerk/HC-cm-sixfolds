@@ -10,7 +10,7 @@ ENVIRONMENT
         sagemath/sagemath:latest sage -python <script> <args>
   So that the stored outputs were not overwritten, the scripts were run from a temporary working copy rerun/
   inside this folder (byte-identical copies of the staged scripts and inputs). The outputs written there were
-  compared with the stored files below. rerun/ is not part of the repository.
+  compared with the stored files below. rerun/ is kept in the repository as the record of this re-run.
   JSON files were compared by content (parsed), text files after normalising CRLF/LF line endings.
 
 RUNS (wall-clock time; comparison result)
