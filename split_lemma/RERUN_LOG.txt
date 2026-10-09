@@ -31,3 +31,14 @@ scratch subfolder, compared with the stored files and then deleted; the stored f
 
 Edits to the copied scripts: comments and file paths only (output and input files are located
 relative to the script's own folder). forced_nontrivial.py and witness_stats.py are new.
+
+SECOND RE-RUN (2026-10-08): review/ (not covered by the re-run above)
+  Clean clone of the repository at commit b64a0ec (git clone with core.autocrlf=false); Windows 10;
+  Python 3.12.9 with cypari 2.5.6 (PARI 2.15.4), python-flint 0.9.0, sympy 1.13.1, mpmath 1.3.0 (gmpy2 2.3.1),
+  numpy 2.1.3; PYTHONDONTWRITEBYTECODE=1, OMP_NUM_THREADS=1. Each program was run in the clone with the command
+  below (as in the README), overwriting its output there; the outputs were then compared with the committed files
+  (bytes; JSON also by content; text also with CRLF/LF and run times ignored).
+  review/: python test_qsym.py > test_qsym.out    rc 0   44.7 s   identical except the run time ("time ...s")
+  review/: python test_psia.py > test_psia.out    rc 0    8.5 s   identical except the run time
+  review/smoke_tests_console.txt is a written summary of interactive sessions, not the output of a program; it
+  was not re-run. The stored files were kept.

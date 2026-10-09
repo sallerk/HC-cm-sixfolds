@@ -84,3 +84,45 @@ exists_out.json records: 432 (D,T); 386 with Q(sqrt Delta) in D, constructed_spl
 with a split K among the 49; 0 non-embedded (D,T) with a split K; 1180 split (D,T,q) in total (as in path1).
 hodge_ring_p1000003_k2_d12.txt: degree 12 has 18 dominant weights for k = 2; the stored run finished 12 of them
 (0 mismatches) before it was stopped; not done: (5,3,2,2), (4,4,4,0), (4,4,3,1), (4,4,2,2), (4,3,3,2), (3,3,3,3).
+
+SECOND RE-RUN (2026-10-08): review/ (not covered by the re-run above)
+  Clean clone of the repository at commit b64a0ec (git clone with core.autocrlf=false); Windows 10;
+  Python 3.12.9 with cypari 2.5.6 (PARI 2.15.4), python-flint 0.9.0, sympy 1.13.1, mpmath 1.3.0 (gmpy2 2.3.1),
+  numpy 2.1.3; PYTHONDONTWRITEBYTECODE=1, OMP_NUM_THREADS=1; gen_check.py with its default NPROC = 7 workers.
+  Each program was run in the clone with the command below (now listed in review/README.txt), overwriting its
+  output there; the outputs were then compared with the committed files (bytes; JSON also by content; text
+  also with CRLF/LF and run times ignored). Wall-clock times; some runs overlapped with others.
+  python crit_check.py 20261006 60 6 8 > crit_check_out.txt                     rc 0    65.8 s  byte-identical
+  python crit_nonembed.py > crit_nonembed_out.txt                               rc 0     3.5 s  byte-identical
+  python crit_examples.py > crit_examples_out.txt                               rc 0     0.7 s  byte-identical
+  python compare_part_i_with_project.py > compare_part_i_with_project_out.txt   rc 0    75.4 s  identical except run times
+  python realize_delta.py 16 60 > realize_delta_out.txt                         rc 0     7.6 s  .txt and .json byte-identical
+  python so6_subgroups.py > so6_subgroups_out.txt                               rc 0     0.1 s  byte-identical
+  python lemma_rho_check.py > lemma_rho_check_out.txt                           rc 0     0.6 s  byte-identical
+  python inv_dims.py 2 12 ; python inv_dims.py 2 24 ; python inv_dims.py 3 18   rc 0   < 1 s    the three .json byte-identical
+  python gen_check.py 2 12 normal > gen_check_k2_d0-12_normal.txt               rc 0     2.8 s
+  python gen_check.py 2 12 theta_only > gen_check_k2_d0-12_theta_only.txt       rc 0     0.5 s
+  python gen_check.py 2 6 bad > gen_check_k2_d0-6_bad.txt                       rc 0     0.5 s
+  python gen_check.py 2 24 normal 14 > gen_check_k2_d14-24_normal.txt           rc 0     2.6 s
+  python gen_check.py 2 24 theta_only 14 > gen_check_k2_d14-24_theta_only.txt   rc 0     0.5 s
+  python gen_check.py 3 10 normal > gen_check_k3_d0-10_normal.txt               rc 0    16.9 s
+  python gen_check.py 3 12 normal 12 > gen_check_k3_d12-12_normal.txt           rc 0   224.1 s
+  python gen_check.py 3 14 normal 14 > gen_check_k3_d14-14_normal.txt           rc 0   918.1 s
+  python gen_check.py 3 16 normal 16 > gen_check_k3_d16-16_normal.txt           rc 0  3962.6 s
+  python gen_check.py 4 10 normal > gen_check_k4_d0-10_normal.txt               rc 0   130.7 s
+      all ten: .json identical except run times; .txt identical except run times and the order of the
+      per-weight lines (gen_check.py prints them as its workers finish). Every weight OK in the normal runs; the
+      controls (theta_only, bad) fall short / are detected as before.
+  python pullback_span.py 3 > pullback_span_out.txt                             rc 0    18.6 s  .txt and .json identical
+                                                                                               except run times
+      (without the argument, the default 4 also computes the k = 4 cases of pullback_span_big.py)
+  python pullback_span_big.py > pullback_span_big_out.txt                       rc 0   909.5 s
+      The five k = 4 lines are identical to the stored ones except run times. The stored file ended there: the
+      original run did not reach the two k = 5 cases at the end of the script, and wrote no .json. This re-run
+      completed them (rank 5005 = dim Sym^6(C^10) for tau, taubar and tau+taubar, for (a,c) = (-1,-1) and
+      (-2,-5)), in agreement with pullback_span_k5_out.txt, and wrote pullback_span_big_out.json. The re-run
+      outputs replace the stored pullback_span_big_out.txt and add pullback_span_big_out.json.
+  python pullback_span_k5.py > pullback_span_k5_out.txt                         rc 0  1652.8 s  .txt and .json identical
+                                                                                               except run times
+  compare_with_project.txt records a comparison with ../hodge_ring.sage and is not the output of a program in
+  review/. Apart from pullback_span_big_out.*, the stored files were kept.

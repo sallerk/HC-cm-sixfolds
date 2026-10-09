@@ -199,3 +199,10 @@ lmfdb/ (statement in Sec. 8 that the rows 12T23, 12T48, 12T77 and 12T219 already
                              gives no such relation. With ordinarity and geometric simplicity this gives angle rank
                              exactly 5 (Proposition 8.2 of the note); verify.py gives it only numerically.
      python norm_zeta_lmfdb.py lmfdb_examples_in2.json lmfdb_examples_in.json > norm_zeta_lmfdb.out   (< 1 s)
+  The other outputs of lmfdb/, from lmfdb/ (DOCKER as above, with -w /work/lmfdb):
+     python ../verify.py lmfdb_examples_in.json verify_lmfdb.json                                     (66 s)
+     python ../verify.py lmfdb_examples_in2.json verify_lmfdb2.json                                   (< 1 s)
+     DOCKER ../verify_gap.py lmfdb_examples_in.json verify_gap_lmfdb.json                             (6 s)
+     DOCKER ../verify_gap.py lmfdb_examples_in2.json verify_gap_lmfdb2.json                           (6 s)
+     python ../verify_K.py lmfdb_examples_in.json verify_gap_lmfdb.json verify_K_lmfdb.json           (1 s)
+     python ../verify_K.py lmfdb_examples_in2.json verify_gap_lmfdb2.json verify_K_lmfdb2.json        (< 1 s)

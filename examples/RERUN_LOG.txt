@@ -60,3 +60,25 @@ NOTES
    examples_in_gap.json = examples_in.json plus "try12": true for these 6 entries; with it verify_gap.py reproduces
    verify_gap.json.
  - No run needed a reduced instance; no difference other than those listed above was found.
+
+SECOND RE-RUN (2026-10-08): norm_zeta.py and lmfdb/ (not covered by the re-run above)
+  Clean clone of the repository at commit b64a0ec (git clone with core.autocrlf=false); Windows 10;
+  Python 3.12.9 with cypari 2.5.6 (PARI 2.15.4), python-flint 0.9.0, sympy 1.13.1, mpmath 1.3.0 (gmpy2 2.3.1),
+  numpy 2.1.3; PYTHONDONTWRITEBYTECODE=1, OMP_NUM_THREADS=1. Each program was run in the clone with the command
+  below (as in the README), overwriting its output there; the outputs were then compared with the committed files
+  (bytes; JSON also by content; text also with CRLF/LF and run times ignored).
+  Docker: image sagemath/sagemath:latest, id 310dfe23fc78 (SageMath 10.10, GAP 4.15.1), with --cpus=1 and the
+  folder examples mounted at /work, working directory /work/lmfdb.
+  python norm_zeta.py final_table.json > norm_zeta.out                              rc 0   0.8 s   byte-identical
+  lmfdb/: python norm_zeta_lmfdb.py lmfdb_examples_in2.json lmfdb_examples_in.json > norm_zeta_lmfdb.out
+                                                                                    rc 0   0.1 s   byte-identical
+  lmfdb/: python ../verify.py lmfdb_examples_in.json verify_lmfdb.json              rc 0  66.0 s   byte-identical
+  lmfdb/: python ../verify.py lmfdb_examples_in2.json verify_lmfdb2.json            rc 0   0.2 s   byte-identical
+  lmfdb/: DOCKER ../verify_gap.py lmfdb_examples_in.json verify_gap_lmfdb.json      rc 0   6.3 s   identical except
+                                                                                    the timing field "sec" (0.1 / 0.2)
+  lmfdb/: DOCKER ../verify_gap.py lmfdb_examples_in2.json verify_gap_lmfdb2.json    rc 0   5.6 s   byte-identical
+  lmfdb/: python ../verify_K.py lmfdb_examples_in.json verify_gap_lmfdb.json verify_K_lmfdb.json
+                                                                                    rc 0   1.2 s   byte-identical
+  lmfdb/: python ../verify_K.py lmfdb_examples_in2.json verify_gap_lmfdb2.json verify_K_lmfdb2.json
+                                                                                    rc 0   0.5 s   byte-identical
+  The verify*.py commands were not recorded before; they are now in README.txt. The stored files were kept.

@@ -55,3 +55,30 @@ Usage examples:  python crit_check.py 20261006 60 6 8 ;  python gen_check.py 2 1
 crit_check.py: the arguments 20261006 60 6 8 (seed, algebras, forms per algebra, fields per form) are those of the
 stored run and reproduce crit_check_out.txt byte for byte (3120 triples; rechecked on 8 October 2026); without
 arguments the defaults 2026 40 4 6 give a smaller run (1080 triples).
+
+Commands of the stored runs (from this folder):
+  python crit_check.py 20261006 60 6 8 > crit_check_out.txt
+  python crit_nonembed.py > crit_nonembed_out.txt                  (defaults: seed 77, 40 fields per form)
+  python crit_examples.py > crit_examples_out.txt
+  python compare_part_i_with_project.py > compare_part_i_with_project_out.txt     (all 21168 triples)
+  python realize_delta.py 16 60 > realize_delta_out.txt            (also writes realize_delta_out.json)
+  python so6_subgroups.py > so6_subgroups_out.txt
+  python lemma_rho_check.py > lemma_rho_check_out.txt
+  python inv_dims.py 2 12 ;  python inv_dims.py 2 24 ;  python inv_dims.py 3 18
+  python gen_check.py 2 12 normal > gen_check_k2_d0-12_normal.txt          (each gen_check run also writes the .json)
+  python gen_check.py 2 12 theta_only > gen_check_k2_d0-12_theta_only.txt
+  python gen_check.py 2 6 bad > gen_check_k2_d0-6_bad.txt
+  python gen_check.py 2 24 normal 14 > gen_check_k2_d14-24_normal.txt
+  python gen_check.py 2 24 theta_only 14 > gen_check_k2_d14-24_theta_only.txt
+  python gen_check.py 3 10 normal > gen_check_k3_d0-10_normal.txt
+  python gen_check.py 3 12 normal 12 > gen_check_k3_d12-12_normal.txt
+  python gen_check.py 3 14 normal 14 > gen_check_k3_d14-14_normal.txt
+  python gen_check.py 3 16 normal 16 > gen_check_k3_d16-16_normal.txt
+  python gen_check.py 4 10 normal > gen_check_k4_d0-10_normal.txt
+  python pullback_span.py 3 > pullback_span_out.txt                (k <= 3; the default 4 adds the k = 4 cases
+                                                                     of pullback_span_big.py)
+  python pullback_span_big.py > pullback_span_big_out.txt
+  python pullback_span_k5.py > pullback_span_k5_out.txt
+gen_check.py runs NPROC (default 7) worker processes, so the order of the per-weight lines of its .txt output
+depends on the run; the summary lines and the .json files do not. compare_with_project.txt records a comparison
+with ../hodge_ring.sage and is not the output of a program in this folder.
